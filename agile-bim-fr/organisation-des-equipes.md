@@ -4,10 +4,10 @@ Les pratiques Agile relèvent de l’organisation générale des acteurs. Elles 
 
 Globalement toutes les bonnes pratiques venues des méthodes agile peuvent être transposées comme :
 
-- le SCRUM
-- le Kanban
-- le SCRUMban
-- l'eXtreme programming
+* le SCRUM
+* le Kanban
+* le SCRUMban
+* l'eXtreme programming
 
 À minima, les points suivants sont les plus importants :
 
@@ -48,3 +48,4 @@ Pour que toutes les équipes puissent s’améliorer à chaque itération, il fa
 Cela peut se faire au niveau du groupement après chaque phase et dans les équipes de production
 
 Il est possible également de travailler sur le format des réunions de lancement de projet. Par exemple en en profitant que tous les acteurs soient réunis, pour faire des formations croisées entre les équipes et apprendre à se connaître.
+

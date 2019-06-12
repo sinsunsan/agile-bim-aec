@@ -5,7 +5,7 @@
 ## Agile BIM \[FR\]
 
 * [Qu'est-ce que le BIM Agile](agile-bim-fr/quest-ce-que-le-bim-agile.md)
-* [Les valeurs agiles 1](agile-bim-fr/les-valeurs-agiles.md)
+* [Les valeurs agiles](agile-bim-fr/les-valeurs-agiles.md)
 * [La méthode Agile BIM](agile-bim-fr/la-methode-agile-bim.md)
 * [Organisation des équipes](agile-bim-fr/organisation-des-equipes.md)
 
