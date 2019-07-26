@@ -12,4 +12,7 @@
 ## Agile BIM \[EN\]
 
 * [Design patterns](agile-bim-en/design-patterns.md)
+* [Agile practices](agile-bim-en/agile-practices/README.md)
+  * [Standup meeting](agile-bim-en/agile-practices/standup-meeting.md)
+  * [Working in pair](agile-bim-en/agile-practices/working-in-pair.md)
 
