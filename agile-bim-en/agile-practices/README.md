@@ -1,4 +1,4 @@
-# Agile practices
+# Agile BIM practices
 
 ### 
 
