@@ -11,10 +11,12 @@
 
 ## Agile BIM \[EN\]
 
-* [Design patterns](agile-bim-en/design-patterns.md)
 * [Agile BIM practices](agile-bim-en/agile-practices/README.md)
   * [Standup meeting](agile-bim-en/agile-practices/standup-meeting.md)
-  * [Work with iteration](agile-bim-en/agile-practices/work-with-iteration.md)
   * [Project frequent demo](agile-bim-en/agile-practices/virtual-demo-of-the-bim-model.md)
+  * [Work with iteration](agile-bim-en/agile-practices/work-with-iteration.md)
+  * [Restrospective](agile-bim-en/agile-practices/restrospective.md)
+  * [Continuous improvement](agile-bim-en/agile-practices/continuous-improvement-kaizen.md)
   * [Working in pair](agile-bim-en/agile-practices/working-in-pair.md)
+* [Design patterns](agile-bim-en/design-patterns.md)
 
