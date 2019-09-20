@@ -8,6 +8,7 @@
 * [Les valeurs agiles](agile-bim-fr/les-valeurs-agiles.md)
 * [La méthode Agile BIM](agile-bim-fr/la-methode-agile-bim.md)
 * [Organisation des équipes](agile-bim-fr/organisation-des-equipes.md)
+* [Communauté Agile BIM](agile-bim-fr/communaute-agile-bim.md)
 
 ## Agile BIM \[EN\]
 
@@ -19,4 +20,5 @@
   * [Continuous improvement](agile-bim-en/agile-practices/continuous-improvement-kaizen.md)
   * [Working in pair](agile-bim-en/agile-practices/working-in-pair.md)
 * [Design patterns](agile-bim-en/design-patterns.md)
+* [Join Agile BIM community](agile-bim-en/join-agile-bim-community.md)
 
