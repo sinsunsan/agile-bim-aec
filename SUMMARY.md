@@ -8,6 +8,7 @@
 * [Les valeurs agiles](agile-bim-fr/les-valeurs-agiles.md)
 * [La méthode Agile BIM](agile-bim-fr/la-methode-agile-bim.md)
 * [Organisation des équipes](agile-bim-fr/organisation-des-equipes.md)
+* [Un projet de construction Agile](agile-bim-fr/un-projet-de-construction-agile.md)
 * [Communauté Agile BIM](agile-bim-fr/communaute-agile-bim.md)
 
 ## Agile BIM \[EN\]
