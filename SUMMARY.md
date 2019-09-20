@@ -22,3 +22,8 @@
 * [Design patterns](agile-bim-en/design-patterns.md)
 * [Join Agile BIM community](agile-bim-en/join-agile-bim-community.md)
 
+## Ressources
+
+* [Links and bibliography](ressources/bibliography.md)
+* [Agile BIM people](ressources/agile-bim-people.md)
+
