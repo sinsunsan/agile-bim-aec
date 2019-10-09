@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Agile BIM : AEC next revolution](README.md)
+* [Join Agile BIM community](join-agile-bim-community.md)
 
 ## Agile BIM \[FR\]
 
@@ -21,7 +22,6 @@
   * [Continuous improvement](agile-bim-en/agile-practices/continuous-improvement-kaizen.md)
   * [Working in pair](agile-bim-en/agile-practices/working-in-pair.md)
 * [Design patterns](agile-bim-en/design-patterns.md)
-* [Join Agile BIM community](agile-bim-en/join-agile-bim-community.md)
 
 ## Ressources
 
