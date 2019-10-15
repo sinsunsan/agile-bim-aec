@@ -1,6 +1,6 @@
 # Communauté Agile BIM
 
-![Meetup Agile BIM](../.gitbook/assets/agile-bim-meetup.jpg)
+![Meetup Agile BIM](../../.gitbook/assets/agile-bim-meetup.jpg)
 
 Nous organisons régulièrement des [meetups](https://www.meetup.com/fr-FR/collaborative-architecture/) et des groupes de travail pour discuter de l'agilité dans l'architecture et la construction. 
 

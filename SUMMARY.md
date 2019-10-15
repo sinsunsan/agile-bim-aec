@@ -1,7 +1,8 @@
 # Table of contents
 
 * [Agile BIM : AEC next revolution](README.md)
-* [Join Agile BIM community](join-agile-bim-community.md)
+* [Join Agile BIM community](join-agile-bim-community/README.md)
+  * [Meetups](join-agile-bim-community/meetups.md)
 
 ## Agile BIM \[FR\]
 
@@ -10,7 +11,8 @@
 * [La méthode Agile BIM](agile-bim-fr/la-methode-agile-bim.md)
 * [Organisation des équipes](agile-bim-fr/organisation-des-equipes.md)
 * [Un projet de construction Agile](agile-bim-fr/un-projet-de-construction-agile.md)
-* [Communauté Agile BIM](agile-bim-fr/communaute-agile-bim.md)
+* [Communauté Agile BIM](agile-bim-fr/communaute-agile-bim/README.md)
+  * [Meetups et réunions](agile-bim-fr/communaute-agile-bim/meetups-et-reunions.md)
 
 ## Agile BIM \[EN\]
 
