@@ -6,7 +6,7 @@ description: L'application de la méthode agile a toute les phases d'un projet
 
 ## Phase programmation
 
-![Conception avec les utilisateurs et tous les intervenants](../.gitbook/assets/agile-aec-user-l.jpg)
+![Conception avec les utilisateurs et tous les intervenants](../../.gitbook/assets/agile-aec-user-l.jpg)
 
 * Echanges avec les utilisateurs finaux pour définir les usages
 * Définition progressive du programme à l'aide de projets exploratoires
@@ -17,7 +17,7 @@ description: L'application de la méthode agile a toute les phases d'un projet
 
 ## Phase conception
 
-![Conception en mode Agile / Scrum AEC](../.gitbook/assets/agile-architecture-design-l.jpg)
+![Conception en mode Agile / Scrum AEC](../../.gitbook/assets/agile-architecture-design-l.jpg)
 
 * Travailler par itération 
 * Faire se rencontrer tous les parties prenantes de la conception 
@@ -31,7 +31,7 @@ description: L'application de la méthode agile a toute les phases d'un projet
 
 ## Phase chantier
 
-![Construction Agile / Lean construction](../.gitbook/assets/lean-construction-l.jpg)
+![Construction Agile / Lean construction](../../.gitbook/assets/lean-construction-l.jpg)
 
 * Avoir une communication journalière sur les itérations entre entreprise sur chantier
 * Chercher à optimiser les flux sur le chantier et les dépenses de  matériels

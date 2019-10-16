@@ -6,13 +6,14 @@
 
 ## Agile BIM \[FR\]
 
-* [Qu'est-ce que le BIM Agile](agile-bim-fr/quest-ce-que-le-bim-agile.md)
-* [Les valeurs agiles](agile-bim-fr/les-valeurs-agiles.md)
-* [La méthode Agile BIM](agile-bim-fr/la-methode-agile-bim.md)
-* [Organisation des équipes](agile-bim-fr/organisation-des-equipes.md)
-* [Un projet de construction Agile](agile-bim-fr/un-projet-de-construction-agile.md)
-* [Communauté Agile BIM](agile-bim-fr/communaute-agile-bim/README.md)
-  * [Meetups et réunions](agile-bim-fr/communaute-agile-bim/meetups-et-reunions.md)
+* [La méthode Agile BIM](agile-bim-fr/la-methode-agile-bim/README.md)
+  * [Qu'est-ce que le BIM Agile](agile-bim-fr/la-methode-agile-bim/quest-ce-que-le-bim-agile.md)
+  * [Les valeurs agiles](agile-bim-fr/la-methode-agile-bim/les-valeurs-agiles.md)
+  * [Organisation des équipes](agile-bim-fr/la-methode-agile-bim/organisation-des-equipes.md)
+  * [Un projet de construction Agile](agile-bim-fr/la-methode-agile-bim/un-projet-de-construction-agile.md)
+* [Meetups Agile BIM](agile-bim-fr/meetups-et-reunions-1/README.md)
+  * [Agile Bim meetup / 14/10/2019](agile-bim-fr/meetups-et-reunions-1/untitled.md)
+* [Communauté Agile BIM](agile-bim-fr/communaute-agile-bim.md)
 
 ## Agile BIM \[EN\]
 
@@ -23,7 +24,8 @@
   * [Restrospective](agile-bim-en/agile-practices/restrospective.md)
   * [Continuous improvement](agile-bim-en/agile-practices/continuous-improvement-kaizen.md)
   * [Working in pair](agile-bim-en/agile-practices/working-in-pair.md)
-* [Design patterns](agile-bim-en/design-patterns.md)
+* [Agile BIM Meetups](agile-bim-en/agile-bim-meetups/README.md)
+  * [Agile BIM meetup / 14/10/2019](agile-bim-en/agile-bim-meetups/agile-bim-meetup-14-10-2019.md)
 
 ## Ressources
 
