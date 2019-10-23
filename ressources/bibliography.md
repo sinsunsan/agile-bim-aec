@@ -4,7 +4,7 @@ Please help us build this directory of link related to agile BIM:
 
 ### Agile Hardware
 
-* [Scrum for hardware](https://leanpub.com/Scrum-for-Hardware) **/** [Paolo Sammicheli](https://leanpub.com/u/paolosammicheli)
+* [Scrum for hardware](https://leanpub.com/Scrum-for-Hardware) **/** Paolo Sammicheli
 
 ### Agile for AEC 
 
