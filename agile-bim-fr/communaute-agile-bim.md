@@ -8,5 +8,7 @@ Il existe également un [groupe Linkedin Agile4bim](https://www.linkedin.com/gro
 
 Enfin vous pouvez contribuer à ce wiki dédié à l'agilité dans le bâtiment et la construction. Pour cela vous pouvez modifier le [contenu de cette page via  Github](https://github.com/sinsunsan/agile-bim-aec) et nous proposer votre modification.
 
+Nous avons également un [slack](http://bit.ly/agilebimslack) que vous pouvez rejoindre.
+
 
 
