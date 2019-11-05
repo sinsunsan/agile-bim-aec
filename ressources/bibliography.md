@@ -1,6 +1,8 @@
-# Links and bibliography
+---
+description: Links on works and ressources about Agile in AEC and BIM
+---
 
-Please help us build this directory of link related to agile BIM:
+# Links and bibliography
 
 ### Agile Hardware
 
@@ -12,7 +14,7 @@ Please help us build this directory of link related to agile BIM:
 
 
 
-### Other links
+### More links
 
 {% embed url="https://www.zotero.org/groups/1923909/agile\_aec?" %}
 
