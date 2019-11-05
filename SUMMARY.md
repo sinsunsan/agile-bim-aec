@@ -30,5 +30,5 @@
 ## Ressources
 
 * [Links and bibliography](ressources/bibliography.md)
-* [Startups / Influencers](ressources/startups.md)
+* [Startups Agile AEC](ressources/startups.md)
 
