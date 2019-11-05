@@ -30,5 +30,5 @@
 ## Ressources
 
 * [Links and bibliography](ressources/bibliography.md)
-* [Agile BIM people](ressources/agile-bim-people.md)
+* [Startups / Influencers](ressources/agile-bim-people.md)
 
