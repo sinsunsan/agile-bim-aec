@@ -14,3 +14,7 @@ Agile methods in software, industry and services have demonstrated that changing
 
 So let's try to lay down the principles of Agile BIM applied to AEC industry !
 
+To start : 
+
+{% page-ref page="agile-bim-en/join-agile-bim-community/" %}
+

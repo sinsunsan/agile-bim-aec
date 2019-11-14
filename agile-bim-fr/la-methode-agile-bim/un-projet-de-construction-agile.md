@@ -2,7 +2,7 @@
 description: L'application de la méthode agile a toute les phases d'un projet
 ---
 
-# Un projet de construction Agile
+# Projet de construction Agile
 
 ## Phase programmation
 

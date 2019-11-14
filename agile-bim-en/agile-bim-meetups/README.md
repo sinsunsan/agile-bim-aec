@@ -1,2 +1,2 @@
-# Agile BIM Meetups
+# Meetups
 

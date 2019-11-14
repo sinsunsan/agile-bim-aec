@@ -1,5 +1,11 @@
 # Working in pair
 
+
+
+![Peer designing : A good way to share knowledge](../../.gitbook/assets/undraw_pair_programming_njlp.png)
+
+
+
 ### How it works?
 
 You work at 2 co-workers on the same project in a specific session of pair working. One of the two take the lead and work while explaining to the other what he is doing. His team-mate have time to think about the process and guide the other. After a moment you alternate your roles
@@ -12,6 +18,4 @@ You work at 2 co-workers on the same project in a specific session of pair worki
 * Motivate the team especially when working of difficult task
 
 
-
-![](../../.gitbook/assets/undraw_pair_programming_njlp.png)
 
