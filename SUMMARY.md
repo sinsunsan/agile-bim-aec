@@ -34,5 +34,5 @@
 
 * [Links and bibliography](ressources/bibliography.md)
 * [Startups Agile AEC](ressources/startups.md)
-* [Licence](ressources/licence.md)
+* [Licence CC](ressources/licence.md)
 
