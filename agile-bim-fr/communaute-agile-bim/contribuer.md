@@ -1,6 +1,6 @@
 # Contribuer à AgileBIM.org
 
-Si vous êtes intéressé par l'agilité appliquée à l'architecture et à la construction. N'hésiter pas à contribuer à ce wiki ! 
+Si vous êtes intéressé par l'agilité appliquée à l'architecture et à la construction. N'hésitez pas à contribuer à ce wiki ! 
 
 Pour cela il faut tout d'abord que vous rejoignez notre [slack](https://communityinviter.com/apps/agile-bim/agile-bim).   
 Nous vous donnerons alors les accès au wiki basé sur gitbook. 
@@ -17,13 +17,15 @@ Nous recherchons notamment des contributeurs sur les parties :
 
 {% page-ref page="../boite-outil-agile/" %}
 
-* Sur la partie **retours d'expérience** de l'utilisation de l'Agile sur des projets concrets
+* **Retours d'expérience** de l'utilisation de l'Agile sur des projets concrets
 
 {% page-ref page="../retour-dexperience.md" %}
 
-### Creative commons / Open source
+### Licence Creative commons / Publication Open source
 
 Tous les contenus publié sous licence creative commons et disponible également sur [github](https://github.com/sinsunsan/agile-bim-aec).
+
+Pour en savoir plus sur la licence, cliquer sur le lien suivant.
 
 {% page-ref page="../../ressources/licence.md" %}
 
