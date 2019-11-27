@@ -1,4 +1,4 @@
-# Agile Bim meetup \#2 / 9/12/2019
+# Meetup Agile Bim \#2 / 9/12/2019
 
 Inscrivez-vous sur la [page du meetup](https://www.meetup.com/fr-FR/collaborative-architecture/events/266167673/).
 
