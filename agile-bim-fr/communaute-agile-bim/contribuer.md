@@ -7,7 +7,7 @@ Nous vous donnerons alors les accès au wiki basé sur gitbook.
 
 ### Gestion des langues
 
-Le wiki est pour l'instant en 2 langues : Français et en Anglais. Vous pouvez contribuer à l'une comme à l'autre. Idéalement l'arborescence des langues se reflètent et les articles sont traduits dans les deux langues. Mais cette traduction n'est pas forcément fait par vous, si vous ne maitriser pas l'aute langue.
+Le wiki est pour l'instant en 2 langues : Français et en Anglais. Vous pouvez contribuer à l'une comme à l'autre. Idéalement l'arborescence des langues se reflètent et les articles sont traduits dans les deux langues. Mais cette traduction n'est pas forcément faite par vous, si vous ne maitriser pas l'autre langue.
 
 ### Appel à contribution
 
