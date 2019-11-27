@@ -11,7 +11,11 @@
   * [Projet de construction Agile](agile-bim-fr/la-methode-agile-bim/un-projet-de-construction-agile.md)
 * [Boîte à outil Agile](agile-bim-fr/boite-a-outil-agile.md)
 * [Les meetups](agile-bim-fr/meetups-agile-bim/README.md)
-  * [Agile Bim meetup / 14/10/2019](agile-bim-fr/meetups-agile-bim/meetup-14-10-2019.md)
+  * [Meetup Agile Bim \#1 / 14/10/2019 à ENIA](agile-bim-fr/meetups-agile-bim/meetup-14-10-2019.md)
+  * [Agile Bim meetup \#2 / 9/12/2019](agile-bim-fr/meetups-agile-bim/agile-bim-meetup-2-9-12-2019.md)
+* [Pourquoi l'Agile ?](agile-bim-fr/pourquoi-lagile/README.md)
+  * [Problèmes des projets de construction](agile-bim-fr/pourquoi-lagile/problemes-des-projets-de-construction.md)
+  * [Solutions que les méthodes Agile pourraient apporter](agile-bim-fr/pourquoi-lagile/solutions-que-les-methodes-agile-pourraient-apporter.md)
 * [Rejoindre la communauté](agile-bim-fr/communaute-agile-bim/README.md)
   * [Contribuer à AgileBIM.org](agile-bim-fr/communaute-agile-bim/contribuer-a-agilebim.org.md)
 
