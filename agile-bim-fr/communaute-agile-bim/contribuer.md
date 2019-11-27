@@ -11,15 +11,17 @@ Le wiki est pour l'instant en 2 langues : Français et en Anglais. Vous pouvez c
 
 ### Appel à contribution
 
-Nous recherchons notamment des contributeurs sur les parties : 
+Vous pouvez contribuer de beaucoup de manières, en écrivant un nouvel article, précisant un article déjà écrit ou même corrigeant des fautes d'orthographe ou des imprécisions. 
 
-* **Boîte à outil Agile**, sortes de  fiches pratiques sur les pratiques agiles applicables dans la construction
+Nous recherchons plus particulièrement des contributeurs sur les parties suivantes : 
+
+* **Boîte à outil Agile :** sortes de  fiches pratiques sur les pratiques agiles applicables dans la construction
 
 {% page-ref page="../boite-outil-agile/" %}
 
-* **Retours d'expérience** de l'utilisation de l'Agile sur des projets concrets
+* **Retours d'expérience** : des cas concrets de l'utilisation des méthodes Agile sur des projets d'architecture et de construction
 
-{% page-ref page="../retour-dexperience.md" %}
+{% page-ref page="../retour-experience.md" %}
 
 ### Licence Creative commons / Publication Open source
 
