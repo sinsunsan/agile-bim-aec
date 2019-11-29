@@ -1,2 +1,2 @@
-# Le travail par pair
+# Modélisation en binôme
 
