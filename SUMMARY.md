@@ -12,10 +12,10 @@
 * [Boîte à outil Agile](fr/boite-outil-agile/README.md)
   * [Le standup meeting](fr/boite-outil-agile/standup-meeting.md)
   * [Les "demos" du projet](fr/boite-outil-agile/demos-projet.md)
-  * [Travailler en itérations](fr/boite-outil-agile/travailler-en-iterations.md)
-  * [Les restrospectives](fr/boite-outil-agile/les-restrospectives.md)
-  * [L'amélioration continue](fr/boite-outil-agile/lamelioration-continue.md)
-  * [Modélisation en binôme](fr/boite-outil-agile/le-travail-par-pair.md)
+  * [Travailler en itérations](fr/boite-outil-agile/iterations.md)
+  * [Les restrospectives](fr/boite-outil-agile/restrospectives.md)
+  * [L'amélioration continue](fr/boite-outil-agile/amelioration-continue.md)
+  * [Modélisation en binôme](fr/boite-outil-agile/travail-binome.md)
 * [Les meetups](fr/meetups-agile-bim/README.md)
   * [Meetup Agile Bim \#1 / 14/10/2019 à ENIA](fr/meetups-agile-bim/meetup-14-10-2019.md)
   * [Meetup Agile Bim \#2 / 9/12/2019](fr/meetups-agile-bim/meetup-9-12-2019.md)
@@ -39,12 +39,12 @@
 * [Use cases](en/use-cases.md)
 * [Meetups](en/agile-bim-meetups/README.md)
   * [Agile BIM meetup / 14/10/2019](en/agile-bim-meetups/meetup-14-10-2019.md)
-* [Join Agile BIM community](en/join-agile-bim-community/README.md)
-  * [Contribute to AgileBIM.org](en/join-agile-bim-community/contribute.md)
+* [Join Agile BIM community](en/agile-bim-community/README.md)
+  * [Contribute to AgileBIM.org](en/agile-bim-community/contribute.md)
 
 ## Ressources
 
-* [Links and bibliography](ressources/bibliography.md)
+* [Links and bibliography](ressources/links.md)
 * [Startups Agile AEC](ressources/startups.md)
 * [Licence CC](ressources/licence.md)
 
