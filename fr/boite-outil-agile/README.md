@@ -12,5 +12,5 @@
 * Conception pilotée par les tests 
 * .... 
 
-Vous pouvez contribuer à ces fiches pratiques pour mettre en  place même de manière épisodique ou expérimentale certaines de ces pratique agile.
+Vous pouvez contribuer à ces fiches pratiques pour mettre en  place même de manière épisodique ou expérimentale certaines de ces pratiques agile.
 
