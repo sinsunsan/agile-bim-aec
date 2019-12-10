@@ -2,8 +2,10 @@
 
 Si vous êtes intéressé par l'agilité appliquée à l'architecture et à la construction. N'hésitez pas à contribuer à ce wiki ! 
 
-Pour cela il faut tout d'abord que vous rejoignez notre [slack](https://communityinviter.com/apps/agile-bim/agile-bim) et le channel Agile BIM wiki.   
-Vous pourrez alors créer un compte sur gitbook pour éditer le wiki.
+**Comment  contribuer ?** 
+
+Pour cela il faut tout d'abord que vous rejoignez notre [slack](https://communityinviter.com/apps/agile-bim/agile-bim) et la châine **agile-bim-wiki**.   
+Vous pourrez alors créer un compte sur gitbook pour éditer le wiki de manière très simple. Toutes les modifications sont listées dans cette chaîne.
 
 ### Gestion des langues
 
