@@ -1,3 +1,9 @@
+---
+description: >-
+  Contribuer au développement de l'Agile dans le domaine de l'architecture et la
+  construction
+---
+
 # Rejoindre la communauté
 
 
