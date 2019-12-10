@@ -4,6 +4,12 @@
 
 ![Meetup Agile BIM](../../.gitbook/assets/agile-bim-meetup.jpg)
 
+Participer aux échanges :
+
+* [Groupe Linkedin](https://www.linkedin.com/groups/8584849/)
+* [Slack](https://communityinviter.com/apps/agile-bim/agile-bim) 
+* [Groupe sur meetup](https://www.meetup.com/fr-FR/collaborative-architecture/)
+
 Nous organisons régulièrement des [meetups](https://www.meetup.com/fr-FR/collaborative-architecture/) et des groupes de travail pour discuter de l'agilité dans l'architecture et la construction. 
 
 Il existe également un [groupe Linkedin Agile4bim](https://www.linkedin.com/groups/8584849/) pour échanger des liens, des études de cas, discuter des méthodes agiles et des rencontres de la communauté.
