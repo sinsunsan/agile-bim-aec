@@ -4,6 +4,8 @@ description: Links on works and ressources about Agile in AEC and BIM
 
 # Links and bibliography
 
+* Brainstorming technics: [http://www.liberatingstructures.com](http://www.liberatingstructures.com/)
+
 ### Agile Hardware
 
 * [Scrum for hardware](https://leanpub.com/Scrum-for-Hardware) **/** Paolo Sammicheli
