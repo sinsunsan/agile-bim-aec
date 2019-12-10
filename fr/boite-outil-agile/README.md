@@ -1,6 +1,6 @@
 # Boîte à outil Agile
 
-![Les pratiques AGILE](../../.gitbook/assets/agile-practices.png)
+![La galazxy des pratiques AGILE](../../.gitbook/assets/agile-practices.png)
 
 * Daily meeting 
 * Retrospective  
@@ -12,5 +12,5 @@
 * Conception pilotée par les tests 
 * .... 
 
-Vous pouvez contribuer à ces fiches pratiques pour mettre en  place même de manière épisodique ou expérimentale certaines de ces pratiques agile.
+Vous pouvez contribuer à ces fiches pratiques pour mettre en  place même de manière épisodique ou expérimentale certaines de ces pratiques agiles.
 
