@@ -10,7 +10,7 @@ description: >-
 
 ![Meetup Agile BIM](../../.gitbook/assets/agile-bim-meetup.jpg)
 
-Participer aux échanges :
+Participer aux échanges aux travers de nos différents groupes :
 
 * [Groupe Linkedin](https://www.linkedin.com/groups/8584849/)
 * [Slack](https://communityinviter.com/apps/agile-bim/agile-bim) 
