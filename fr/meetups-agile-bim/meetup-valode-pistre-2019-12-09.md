@@ -21,6 +21,8 @@ Le meetup s'est déroulé avec 12 personnes représentant différents domaines :
 * [Sébastien Lucas](https://www.linkedin.com/in/archiref/) \([Bricks](https://www.bricksapp.io/fr/)\)
 * [François Muzard](https://www.linkedin.com/in/fran%C3%A7ois-muzard-bim/) \([Bricks](https://www.bricksapp.io/fr/)\) 
 * [Laurent Coydon](https://www.linkedin.com/in/lcoydon/) / Coach Agile
+* [América Bañuelos](https://www.linkedin.com/in/americabanuelos/) / Architecte
+* [Olivier Rouhaud](https://www.linkedin.com/in/olivier-rouhaud-562b745b/) \([Blog](https://olivierrouhaud.wordpress.com/)\) / Coach Agile
 
 Les slides du meetup : 
 
