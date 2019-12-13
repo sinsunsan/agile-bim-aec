@@ -6,6 +6,8 @@ description: 'Meetup #4 du 09/12/2019 chez Valode et Pistre'
 
 La [page du meetup](https://www.meetup.com/fr-FR/collaborative-architecture/events/266167673/)
 
+Les avis des participants \(ROTI\) [https://roti.express/share-survey/5AMA3NfySPq8NzgFN](https://roti.express/share-survey/5AMA3NfySPq8NzgFN)
+
 ![Meetup dans la salle de r&#xE9;union de Valode et Pistre](../../.gitbook/assets/photo-analisa.jpeg)
 
 Le meetup s'est déroulé avec 12 personnes représentant différents domaines :
