@@ -10,7 +10,7 @@ Les avis des participants \(ROTI\) [https://roti.express/share-survey/5AMA3NfySP
 
 ![Meetup dans la salle de r&#xE9;union de Valode et Pistre](../../.gitbook/assets/photo-analisa.jpeg)
 
-Le meetup s'est déroulé avec 12 personnes représentant différents domaines :
+Le meetup s'est déroulé avec 12 personnes représentant différent domaines :
 
 * Coach agile, Scrum master, PO...
 * Architecte, BIM manager...
