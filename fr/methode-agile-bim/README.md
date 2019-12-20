@@ -1,4 +1,4 @@
-# La méthode Agile BIM
+# 🚀 La méthode Agile BIM
 
 Le BIM peut devenir plus agile en s’appuyant sur trois piliers : l’organisation du groupe, les pratiques métiers et les standards techniques :
 

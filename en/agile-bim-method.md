@@ -1,4 +1,4 @@
-# Agile BIM Method
+# 🚀 Agile BIM Method
 
 BIM can become more agile by relying on three pillars: group organization, functional practices and technical standards:
 

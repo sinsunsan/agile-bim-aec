@@ -1,2 +1,2 @@
-# Meetups
+# 👷‍♀️ Meetups
 

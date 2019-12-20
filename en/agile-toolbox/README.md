@@ -1,4 +1,4 @@
-# Agile toolbox
+# 🛠️ Agile toolbox
 
 ![Agile practices](../../.gitbook/assets/agile-practices.png)
 

@@ -4,7 +4,7 @@ description: >-
   construction
 ---
 
-# Rejoindre la communauté
+# 🙌 Rejoindre la communauté
 
 
 
@@ -12,9 +12,10 @@ description: >-
 
 Participer aux échanges aux travers de nos différents groupes :
 
-* [Groupe Linkedin](https://www.linkedin.com/groups/8584849/)
-* [Slack](https://communityinviter.com/apps/agile-bim/agile-bim) 
-* [Groupe sur meetup](https://www.meetup.com/fr-FR/collaborative-architecture/)
+* le [Groupe Linkedin](https://www.linkedin.com/groups/8584849/)
+* le [Slack](https://communityinviter.com/apps/agile-bim/agile-bim) 
+* le [Groupe sur meetup](https://www.meetup.com/fr-FR/collaborative-architecture/)
+* le [Podcast Agile BIM](https://anchor.fm/agile-bim)
 
 Nous organisons régulièrement des [meetups](https://www.meetup.com/fr-FR/collaborative-architecture/) et des groupes de travail pour discuter de l'agilité dans l'architecture et la construction. 
 

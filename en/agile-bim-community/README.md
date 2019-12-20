@@ -1,4 +1,4 @@
-# Join Agile BIM community
+# 🙌 Join Agile BIM community
 
 ![Agile BIM meetups](../../.gitbook/assets/agile-bim-meetup.jpg)
 

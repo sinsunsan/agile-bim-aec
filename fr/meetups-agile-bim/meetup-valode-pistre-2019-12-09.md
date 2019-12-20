@@ -47,13 +47,13 @@ On peut se dire Agile et ne pas l'être, et également d'être  collaboratif et 
 
 **Est-ce  qu'il y a une taille idéale pour une équipe agile  ?**
 
-D'après  Scrum une petite dizaine.
+D'après Scrum une petite dizaine.
 
 **Est-ce que le client  compte  dans l'équipe ?**   
   
-Il y a le PO \(Product Owner\) qui  représente  le client en Scrum.
+Il y a le PO \(Product Owner\) qui représente le client en Scrum.
 
-Ce qui est très important est de privilégier la relation que le contractuel. La négociation contractuelle doit  changer pour changer la relation de confiance. 
+Ce qui est très important est de privilégier la relation que le contractuel. La négociation contractuelle doit changer pour changer la relation de confiance. 
 
 Une possibilité est de payer les intervenants en fonction de la valeur produite.
 
@@ -61,9 +61,9 @@ L'agile change la manière de raisonner :
 
 ![La m&#xE9;thode traditionnelle conduit au final &#xE0; diminuer la qualit&#xE9; car le  perim&#xE8;tre doit &#xE0; tout prix rester fixe](../../.gitbook/assets/agile-bim-laurent-coydon.jpg)
 
-La méthode traditionnelle : Le périmètre \(le programme\) ne bouge page / Le coût, délai augmente et du coup la qualité diminue.
+**La méthode traditionnelle** : Le périmètre \(le programme\) ne bouge page / Le coût, délai augmente et du coup la qualité diminue.
 
-La méthode agile : le périmètre est négociable / ce qui n'est pas **négociable est la qualité**.
+**La méthode agile** : le périmètre est négociable / ce qui n'est pas **négociable est la qualité**.
 
 Mais donc un gros frein est la contractualisation surtout dans le public. 
 
@@ -75,11 +75,11 @@ Sur la phase étude, moins de différence entre l'informatique et l'architecture
 
 6 mois à 2 ans 
 
-Mais ****Ne serait qu’appliquer certaines méthodes : le daily meeting par exemple peut apporter des améliorations importantes.
+Mais ****appliquer certaines [pratiques agiles](../boite-outil-agile/) : le daily meeting par exemple peut apporter des améliorations importantes.
 
 **Comment coordonner des équipes Agile qui travaillent à distance  ?** 
 
-Il y a des outils, mais il faut avoir de la qualité dans les moyens de communications que l'on choisi et faire attention à ne pas faire de séparation entre ceux qui sont à distance, et ceux qui sont sur place.
+Il y a des outils, mais il faut avoir de la qualité dans les moyens de communications, que l'on choisi et faire attention à ne pas faire de séparation entre ceux qui sont à distance, et ceux qui sont sur place.
 
 **Est-ce que le daily meeting ça marche et pourquoi ?**  
 
@@ -106,11 +106,13 @@ Ce sont des tâches. On doit devoir expliquer le besoin par rapport à la valeur
 
 **Comment on implique le client / Maître d'ouvrage.**
 
-En BIM le client a accès à la maquette. Le client a fait son commentaire sur la maquette. Avantage d'inclure le client dans la prise de décision, l'implique plus. Le client est toujours Ok pour  avoir des retours. Mais pour les architectes difficile de tout montrer.
+En BIM le client a accès à la maquette. Le client a fait son commentaire sur la maquette. Avantage d'inclure le client dans la prise de décision, l'implique plus. Le client est toujours Ok pour  avoir des retours. Mais pour les architectes c'est difficile de tout montrer.
 
 ### **Retours d'expérience** 👨‍💻
 
 #### **François Muzard sur sa pratique des rétrospectives à l'agence ENIA**
+
+Écouter la video pour avoir la présentation de François :\) 
 
 ![Fran&#xE7;ois Muzard pr&#xE9;sente le retour d&apos;exp&#xE9;rience restrospective chez ENIA](../../.gitbook/assets/francois-muzard-rex-retrospectives.jpg)
 
