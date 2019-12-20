@@ -1,4 +1,8 @@
-# Agile BIM : AEC next revolution
+# Agile BIM : Architecture & Construction design with Agility
+
+![Agile BIM / Make Architecture design iterative and transparent](.gitbook/assets/agile_bim.jpeg)
+
+
 
 Agile  BIM is a new paradigm inspired by Agile in software industries, Agile in hardware , Scrum, Kanban & Extreme programming methods. 
 

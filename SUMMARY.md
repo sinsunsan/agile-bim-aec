@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Agile BIM : AEC next revolution](README.md)
+* [Agile BIM : Architecture & Construction design with Agility](README.md)
 
 ## Agile BIM \[FR\] <a id="fr"></a>
 
