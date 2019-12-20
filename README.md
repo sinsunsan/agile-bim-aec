@@ -1,3 +1,7 @@
+---
+description: The community of Agile approach of architecture & construction industry
+---
+
 # Agile BIM : Architecture & Construction design with Agility
 
 ![Agile BIM / Make Architecture design iterative and transparent](.gitbook/assets/agile_bim.jpeg)

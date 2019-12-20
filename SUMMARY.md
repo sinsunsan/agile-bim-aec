@@ -2,7 +2,7 @@
 
 * [Agile BIM : Architecture & Construction design with Agility](README.md)
 
-## Agile BIM \[FR\] <a id="fr"></a>
+## En Français <a id="fr"></a>
 
 * [La méthode Agile BIM](fr/methode-agile-bim/README.md)
   * [Qu'est-ce que le BIM Agile](fr/methode-agile-bim/bim-agile.md)
@@ -28,7 +28,7 @@
 * [Rejoindre la communauté](fr/communaute-agile-bim/README.md)
   * [Contribuer à AgileBIM.org](fr/communaute-agile-bim/contribuer.md)
 
-## Agile BIM \[EN\] <a id="en"></a>
+## In English <a id="en"></a>
 
 * [Agile BIM Method](en/agile-bim-method.md)
 * [Agile toolbox](en/agile-toolbox/README.md)
