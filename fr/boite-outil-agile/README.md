@@ -1,4 +1,4 @@
-# Boîte à outil Agile
+# 🛠️ Boîte à outil Agile
 
 ![La galazxy des pratiques AGILE](../../.gitbook/assets/agile-practices.png)
 

@@ -1,4 +1,4 @@
-# \#2/ WOMA
+# \#2/ Chez WOMA
 
 ![Meetup Agile BIM chez ENIA](../../.gitbook/assets/agile-bim-meetup.jpg)
 

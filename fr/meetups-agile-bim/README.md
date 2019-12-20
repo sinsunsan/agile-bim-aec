@@ -1,4 +1,4 @@
-# Les meetups
+# 👷‍♀️ Les meetups
 
 Pour être tenu au courant de tous les meetups   
 rejoignez notre [Groupe sur meetup.org](https://www.meetup.com/fr-FR/collaborative-architecture/)  
