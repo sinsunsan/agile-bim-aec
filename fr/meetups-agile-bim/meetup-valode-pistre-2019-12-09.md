@@ -8,7 +8,9 @@ La [page du meetup](https://www.meetup.com/fr-FR/collaborative-architecture/even
 
 ### La video
 
-Bientôt...
+{% embed url="https://www.youtube.com/watch?v=H-tOCuO32SI&feature=youtu.be" %}
+
+
 
 ### Les participants 👷‍♀️🙍🙎‍♂️
 
