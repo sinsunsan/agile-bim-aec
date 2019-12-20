@@ -2,20 +2,26 @@
 description: 'Meetup #4 du 09/12/2019 chez Valode et Pistre'
 ---
 
-# \#4/ Valode et Pistre
+# \#4/ Valode et Pistre4️
 
 La [page du meetup](https://www.meetup.com/fr-FR/collaborative-architecture/events/266167673/)
+
+### La video
+
+Bientôt...
+
+### Les participants 👷‍♀️🙍🙎‍♂️
 
 Les avis des participants \(ROTI\) [https://roti.express/share-survey/5AMA3NfySPq8NzgFN](https://roti.express/share-survey/5AMA3NfySPq8NzgFN)
 
 ![Meetup dans la salle de r&#xE9;union de Valode et Pistre](../../.gitbook/assets/photo-analisa.jpeg)
 
-Le meetup s'est déroulé avec 12 personnes représentant différent domaines :
+Le meetup s'est déroulé avec 12 personnes représentant différents domaines :
 
 * Coach agile, Scrum master, PO...
 * Architecte, BIM manager...
 
-**Merci pour l'organisation à :** 
+**Merci  à tous :** 
 
 * [Anna-Lisa de Maestri](https://www.linkedin.com/in/annalisademaestri/) \([Valode et Pistre](http://www.v-p.com/en)\)
 * [Sébastien Lucas](https://www.linkedin.com/in/archiref/) \([Bricks](https://www.bricksapp.io/fr/)\)
@@ -23,8 +29,9 @@ Le meetup s'est déroulé avec 12 personnes représentant différent domaines :
 * [Laurent Coydon](https://www.linkedin.com/in/lcoydon/) / Coach Agile
 * [América Bañuelos](https://www.linkedin.com/in/americabanuelos/) / Architecte
 * [Olivier Rouhaud](https://www.linkedin.com/in/olivier-rouhaud-562b745b/) \([Blog](https://olivierrouhaud.wordpress.com/)\) / Coach Agile
+* Pour ceux qui ne sont pas dans la liste vous pouvez [rajouter votre nom](../communaute-agile-bim/) en rejoignant en devenant éditeur de ce wiki :\) 
 
-Les slides du meetup : 
+### Les slides 🖼️ 
 
 {% embed url="https://www.scribd.com/document/439024442/Meetup-Agile-BIM-09-12" %}
 
@@ -32,7 +39,9 @@ Les slides du meetup :
 
 ![](../../.gitbook/assets/agile4bim-presentation-meetup-12-2019.jpg)
 
-**Puis débat animé par les Coach agile de l'assistance.**
+### **Le débat** ☝️
+
+Puis débat animé par les Coachs agile de l'assistance.
 
 On peut se dire Agile et ne pas l'être, et également d'être  collaboratif et agile, mais ne pas utiliser de framework. 
 
@@ -52,32 +61,31 @@ L'agile change la manière de raisonner :
 
 ![La m&#xE9;thode traditionnelle conduit au final &#xE0; diminuer la qualit&#xE9; car le  perim&#xE8;tre doit &#xE0; tout prix rester fixe](../../.gitbook/assets/agile-bim-laurent-coydon.jpg)
 
-La méthode traditionnelle : Le périmètre \(le programme\) ne bouge page / Le coût, délai augmente et du coup la qualité diminue
+La méthode traditionnelle : Le périmètre \(le programme\) ne bouge page / Le coût, délai augmente et du coup la qualité diminue.
 
-La méthode agile : le périmètre est négociable / ce qui n'est pas négociable est la qualité.
+La méthode agile : le périmètre est négociable / ce qui n'est pas **négociable est la qualité**.
 
 Mais donc un gros frein est la contractualisation surtout dans le public. 
 
-Aussi une différence est la notion de devoir terminer le bâtiment à tout prix, ce qui n'est pas toujours le cas dans un logiciel. 
+Aussi une différence importante entre le logiciel et le bâtiment, est la notion de devoir terminer le bâtiment à tout prix, ce qui n'est pas toujours le cas dans un logiciel. 
 
 Sur la phase étude, moins de différence entre l'informatique et l'architecture. 
 
-**Quelle durée est nécessaire pour adopter les pratiques et états d'esprit agile :**   
+**Quelle durée est nécessaire pour adopter les pratiques et états d'esprit agile :** 
+
 6 mois à 2 ans 
 
-Ne serait qu’appliquer certaines méthodes : le daily meeting par exemple peut apporter des choses.
+Mais ****Ne serait qu’appliquer certaines méthodes : le daily meeting par exemple peut apporter des améliorations importantes.
 
 **Comment coordonner des équipes Agile qui travaillent à distance  ?** 
 
-Il y a des outils, mais il faut avoir de la qualité des communications et faire  attention à ne pas faire de séparation entre ceux  qui sont à distance, et ceux qui sont sur  place.
+Il y a des outils, mais il faut avoir de la qualité dans les moyens de communications que l'on choisi et faire attention à ne pas faire de séparation entre ceux qui sont à distance, et ceux qui sont sur place.
 
 **Est-ce que le daily meeting ça marche et pourquoi ?**  
 
-Anna Lisa de Maestri a mis  en place un daily,  mais a été  déçu par son impact. Le standup est pour l'équipe et non un rôle de reporting. 
+Anna Lisa de Maestri \(Valode\) a mis  en place un daily,  mais a été déçu par son impact.
 
-L'équipe doit être autonome dans son flux de valeur.
-
-Nécessaire d'avoir un coach extérieur  pour recadrer. 
+Le standup est pour l'équipe et non un rôle de reporting. L'équipe doit être autonome dans son flux de valeur. Nécessaire d'avoir un coach extérieur  pour recadrer. 
 
 Le daily meeting ne sert pas à communiquer, mais à prendre du recul sur ce qu'on a fait pour faire le point sur ce qui bloque sur la manière d'atteindre les objectifs. 
 
@@ -92,19 +100,25 @@ C'est un rapport coût  / bénéfice important car 15 minutes faible investissem
 
 Oui à chaque sprint on peut notamment réévaluer la priorité des tâches et commencer plusieurs tâches en parallèle. Néanmoins il est important de terminer  des incréments de tâches et de les livrer. D'où l'importance de découper les tâches importantes en plus petites tâches.
 
-**Comment on gère les tâches qui ne sont pas de la production ?** 
+**Comment on gère les tâches qui ne sont pas de la production \(technique\) ?** 
 
 Ce sont des tâches. On doit devoir expliquer le besoin par rapport à la valeur produite.
 
 **Comment on implique le client / Maître d'ouvrage.**
 
-En BIM le client a accès à la maquette. Le client a fait son commentaire sur la maquette. Avantage d'inclure le client dans la prise de décision, l'implique plus. Le client est toujours Ok pour  avoir des retours. Mais pour les architectes difficiles de  tout montrer.
+En BIM le client a accès à la maquette. Le client a fait son commentaire sur la maquette. Avantage d'inclure le client dans la prise de décision, l'implique plus. Le client est toujours Ok pour  avoir des retours. Mais pour les architectes difficile de tout montrer.
 
-**Retours d'expérience de François Muzard sur sa pratique des rétrospectives à l'agence  ENIA**
+### **Retours d'expérience** 👨‍💻
+
+#### **François Muzard sur sa pratique des rétrospectives à l'agence ENIA**
 
 ![Fran&#xE7;ois Muzard pr&#xE9;sente le retour d&apos;exp&#xE9;rience restrospective chez ENIA](../../.gitbook/assets/francois-muzard-rex-retrospectives.jpg)
 
 ![](../../.gitbook/assets/agile4bim-presentation-meetup-12-2019-1.jpg)
 
- 
+ Voilà vous avez tout lu ! 👍
+
+Venez au prochain meetup, pour cela rejoignez notre [communauté Agile BIM](../communaute-agile-bim/) vous serez tenu au courant de la suite. De même si vous souhaiteriez organiser  le meetup dans votre agence.
+
+
 
