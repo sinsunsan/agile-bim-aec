@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Agile BIM : Architecture & Construction design with Agility](README.md)
+* [Architecture & Construction with Agility](README.md)
 
 ## En Français <a id="fr"></a>
 
@@ -27,7 +27,7 @@
   * [Que peut apporter l'approche Agile ?](fr/pourquoi-agile/solutions-methodes-agile-construction.md)
 * [🎢 Retour d'expériences](fr/retour-experience.md)
 * [🙌 Rejoindre la communauté](fr/communaute-agile-bim/README.md)
-  * [Contribuer à AgileBIM.org](fr/communaute-agile-bim/contribuer.md)
+  * [🖋️ Contribuer à AgileBIM.org](fr/communaute-agile-bim/contribuer.md)
 
 ## In English <a id="en"></a>
 
@@ -43,7 +43,7 @@
 * [👷‍♀️ Meetups](en/agile-bim-meetups/README.md)
   * [\#3/ ENIA](en/agile-bim-meetups/meetup-14-10-2019.md)
 * [🙌 Join Agile BIM community](en/agile-bim-community/README.md)
-  * [Contribute to AgileBIM.org](en/agile-bim-community/contribute.md)
+  * [🖋️ Contribute to AgileBIM.org](en/agile-bim-community/contribute.md)
 
 ## Ressources
 

@@ -1,11 +1,17 @@
-# Contribuer à AgileBIM.org
+---
+description: Contribuer à ce wiki sur l'agile dans l'architecture et la construction
+---
+
+# 🖋️ Contribuer à AgileBIM.org
 
 Si vous êtes intéressé par l'agilité appliquée à l'architecture et à la construction. N'hésitez pas à contribuer à ce wiki ! 
 
 **Comment  contribuer ?** 
 
-Pour cela il faut tout d'abord que vous rejoignez notre [slack](https://communityinviter.com/apps/agile-bim/agile-bim) et la châine **agile-bim-wiki**.   
+Pour cela il faut tout d'abord que vous rejoignez notre [slack](https://communityinviter.com/apps/agile-bim/agile-bim) et la chaîne **agile-bim-wiki**.   
 Vous pourrez alors créer un compte sur gitbook pour éditer le wiki de manière très simple. Toutes les modifications sont listées dans cette chaîne.
+
+![](../../.gitbook/assets/screen-shot-2019-12-20-at-18.52.47.png)
 
 ### Gestion des langues
 
