@@ -17,6 +17,7 @@
   * [L'amélioration continue](fr/boite-outil-agile/amelioration-continue.md)
   * [Modélisation en binôme](fr/boite-outil-agile/travail-binome.md)
 * [👷‍♀️ Les meetups](fr/meetups-agile-bim/README.md)
+  * [\#5 / Chez Talan Labs](fr/meetups-agile-bim/meetup-talan-labs-2020-02-24.md)
   * [\#4/ Chez Valode et Pistre](fr/meetups-agile-bim/meetup-valode-pistre-2019-12-09.md)
   * [\#3/ Chez ENIA II](fr/meetups-agile-bim/meetup-enia-2019-10-14.md)
   * [\#2/ Chez WOMA](fr/meetups-agile-bim/meetup-2-chez-woma.md)

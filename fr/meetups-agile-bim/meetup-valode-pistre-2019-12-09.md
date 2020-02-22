@@ -4,7 +4,9 @@ description: 'Meetup #4 du 09/12/2019 chez Valode et Pistre'
 
 # \#4/ Chez Valode et Pistre
 
-La [page du meetup](https://www.meetup.com/fr-FR/collaborative-architecture/events/266167673/)
+{% embed url="https://www.meetup.com/fr-FR/collaborative-architecture/events/266167673/" %}
+
+
 
 ### La video
 
