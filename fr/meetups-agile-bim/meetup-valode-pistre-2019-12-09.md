@@ -8,9 +8,7 @@ La [page du meetup](https://www.meetup.com/fr-FR/collaborative-architecture/even
 
 ### La video
 
-{% embed url="https://www.youtube.com/watch?v=H-tOCuO32SI&feature=youtu.be" %}
-
-
+{% embed url="https://youtu.be/JcmmPZicELA" caption="Meetup Agile BIM chez Valode et Pistre / 9/12/2019" %}
 
 ### Les participants 👷‍♀️🙍🙎‍♂️
 
@@ -31,7 +29,7 @@ Le meetup s'est déroulé avec 12 personnes représentant différents domaines :
 * [Laurent Coydon](https://www.linkedin.com/in/lcoydon/) / Coach Agile
 * [América Bañuelos](https://www.linkedin.com/in/americabanuelos/) / Architecte
 * [Olivier Rouhaud](https://www.linkedin.com/in/olivier-rouhaud-562b745b/) \([Blog](https://olivierrouhaud.wordpress.com/)\) / Coach Agile
-* Pour ceux qui ne sont pas dans la liste vous pouvez [rajouter votre nom](../communaute-agile-bim/) en rejoignant en devenant éditeur de ce wiki :\) 
+* Pour ceux qui ne sont pas dans la liste vous pouvez [rajouter votre nom](../communaute-agile-bim/) en rejoignant le slack en devenant éditeur de ce wiki :\) 
 
 ### Les slides 🖼️ 
 
