@@ -2,7 +2,7 @@
 description: 'Meetup #4 du 09/12/2019 chez Valode et Pistre'
 ---
 
-# \#4/ Chez Valode et Pistre
+# \#4/ Les méthodes Agile dans le bâtiment
 
 {% embed url="https://www.meetup.com/fr-FR/collaborative-architecture/events/266167673/" %}
 

@@ -2,7 +2,7 @@
 description: 'Meetup #4 du 24/02/2020 chez Talan Labs'
 ---
 
-# \#5 / Chez Talan Labs
+# \#5 / Conception par les tests
 
 {% embed url="https://www.meetup.com/fr-FR/collaborative-architecture/events/267772768/" %}
 
@@ -89,8 +89,13 @@ L'open source est fou par rapport aux logiciels propriétaires, les logiciels pr
 
 On a une liste de tâche. On en a fait moins que prévu. À la fin, on ne fait pas tout ce qui est prévu. Mais souvent le budget dépasse. 
 
+### Les tests automatisés en BIM 
 
-
+* Rapport de contrôleur technique \(équivalent des QA ? \)
+* Nomenclature d'autocontrôle.
+* Outils chemins d'évacuation 
+  * avertissement par exemple si les objets sont crées au même endroits
+* 
 
 
 
