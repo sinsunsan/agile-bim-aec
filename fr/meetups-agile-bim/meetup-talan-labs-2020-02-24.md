@@ -91,11 +91,15 @@ On a une liste de tâche. On en a fait moins que prévu. À la fin, on ne fait p
 
 ### Les tests automatisés en BIM 
 
-* Rapport de contrôleur technique \(équivalent des QA ? \)
-* Nomenclature d'autocontrôle.
-* Outils chemins d'évacuation 
-  * avertissement par exemple si les objets sont crées au même endroits
-* 
+Ce qui se fait déjà dans l'architecture : 
+
+* Rapport de contrôleur techniques
+* Nomenclature d'autocontrôle
+* Outils intégrés au logiciel de BIM:  Outils chemins d'évacuation : avertissement par exemple si les objets sont crées au même endroits
+* [Solibri model checker](https://www.solibri.com/), mais souvent que pour les BIM manager
+* Outil de vérifications d’IFC comme [BIM SPOT](https://bimspot.io/)
+* SOCOTET, VERITAS et autres bureaux de contrôle essaie de suivre le mouvement, la culture du contrôle
+
 
 
 
