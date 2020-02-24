@@ -10,21 +10,19 @@ description: 'Meetup #4 du 24/02/2020 chez Talan Labs'
 
 à venir...
 
-### Les participants 👷‍♀️🙍🙎‍♂️
+### Les 15 participants 👷‍♀️🙍🙎‍♂️
 
 Les avis des participants \(ROTI\) [https://roti.express/r/gwegh3](https://roti.express/r/gwegh3)
 
 Une majorité d'agiliste cette fois-ci  intéressé par l'agilité au-delà de l'IT, soit par un lien personnel avec des professionnels de l'architecture, soit par un intérêt pour l'agilité au-delà de l'IT. 
 
-Vous avez participé à ce meetup et souhaitez-vous rajouter à la liste
+Vous avez participé à ce meetup et souhaitez-vous rajouter à la liste. 
 
 * [Sébastien Lucas](https://www.linkedin.com/in/archiref/) \([Bricks](https://www.bricksapp.io/fr/)\)
 * [François Muzard](https://www.linkedin.com/in/fran%C3%A7ois-muzard-bim/) \([Bricks](https://www.bricksapp.io/fr/)\) 
 * [Laurent Coydon](https://www.linkedin.com/in/lcoydon/) / Coach Agile
 * [Constantin Guay](https://app.slack.com/team/UR79ZMQFK) / Coach agile chez[ Talan labs](https://talan.com/)
-
-
-
+* 
 ### Les slides 🖼️
 
 [Meetup Agile BIM / 09/12 by Anonymous 9az1At on Scribd](https://www.scribd.com/document/439024442/Meetup-Agile-BIM-09-12#from_embed)
@@ -68,6 +66,34 @@ Mais aussi une grosse différence est le fait qu'en informatique, on reste tout 
 **Problème de la fragmentation des entreprises**
 
 Les gens ne travaillent pas dans le même lieu mais en plus ce sont de petites équipes morcelées, appartenant à des entreprises différentes. Et aussi intérêt divergent entre les différentes sociétés notamment économiquement.
+
+**L'agile BIM** 
+
+![](../../.gitbook/assets/agilebim-schema-20190605-01%20%281%29.png)
+
+**La conception objet fait penser au design system dans l'UI**
+
+ La construction modulaire, le off-site, le lean bâtiment. Chez St Gobain, la découpe des plaques sur mesure livré en palette. Le plaquiste pose des plaques pré-découpés. Un F3 peut être répété en 2-3 modules. [**BIM object**](https://www.bimobject.com/en), une plateforme, où on peut partager les objets BIM et les partager. Les fabricants veulent lier les objets BIM avec le PIM \(Product Information Management\) qui alimente les catalogues, les fiches techniques. Question de version sur les objets. 
+
+Est-ce que les logiciels ont fait émerger un standard. Famille générique qui sont poussées par les industriels.  La conception par composant et par module est assez avancée pour les industriels, mais plus embryonnaire pour les concepteurs, qui ont une relation un peu passive par rapport aux industriels.
+
+Le fait de ne pas avoir tous les produits au format BIM en partage, peut être un frein. Du coup devient important. 
+
+Le poids des objets BIM est un problème parfois, car trop de détail souvent et problème d'affichage. Demanderait aussi à avoir plus de discussion entre les gens qui conçoivent les modélisations d'objet et les logiciels de CAO. 
+
+**Open source et logiciel propriétaire**
+
+L'open source est fou par rapport aux logiciels propriétaires, les logiciels propriétaires avancent moins vite.  Il commence à avoir un écosystème open source notamment du coté de l'architecture paramétrique ou avec des projets comme [Speckle](https://github.com/speckleworks) poussé par les ingénieurs de [ARUP](https://www.arup.com/) notamment.   
+
+**Comment est géré cette notion de scope : le programme en architecture** 
+
+On a une liste de tâche. On en a fait moins que prévu. À la fin, on ne fait pas tout ce qui est prévu. Mais souvent le budget dépasse. 
+
+
+
+
+
+
 
 Voilà vous avez tout lu ! 👍
 
