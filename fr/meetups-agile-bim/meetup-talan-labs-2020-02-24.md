@@ -6,6 +6,10 @@ description: 'Meetup #4 du 24/02/2020 chez Talan Labs'
 
 {% embed url="https://www.meetup.com/fr-FR/collaborative-architecture/events/267772768/" %}
 
+### La video 📽️
+
+à venir...
+
 ### Les participants 👷‍♀️🙍🙎‍♂️
 
 Les avis des participants \(ROTI\) [https://roti.express/r/gwegh3](https://roti.express/r/gwegh3)
@@ -19,7 +23,11 @@ Vous avez participé à ce meetup et souhaitez-vous rajouter à la liste
 * [Laurent Coydon](https://www.linkedin.com/in/lcoydon/) / Coach Agile
 * [Constantin Guay](https://app.slack.com/team/UR79ZMQFK) / Coach agile chez[ Talan labs](https://talan.com/)
 
+
+
 ### Les slides 🖼️
+
+[Meetup Agile BIM / 09/12 by Anonymous 9az1At on Scribd](https://www.scribd.com/document/439024442/Meetup-Agile-BIM-09-12#from_embed)
 
 ### **La discussion** ☝️
 
@@ -29,7 +37,7 @@ C'est vrai que c'est la difficulté. Les retro sur 3 mois compliqué car il faut
 
 **Est-ce que la phase est découpable ? Notamment en interne ?**
 
-Tout est très intriqué, donc difficile de découper. Les grandes phases très difficiles à changer. A l'intérieur d'une phase, est ce qu'il y  a des choses qu'on ne peut pas découper ? 
+Tout est très intriqué, donc difficile de découper. Les grandes phases très difficiles à changer. À l'intérieur d'une phase, est ce qu'il y  a des choses qu'on ne peut pas découper ? 
 
 Dans [SAFE](https://www.scaledagile.com/), on a la notion de phase et on peut garder les phases. Difficile de faire de l'itératif par phases, mais chaque phase peut se faire en itératif.
 
@@ -44,6 +52,22 @@ Cela fait partie de l'approche BIM d'avoir tout le monde sur une maquette. Il y 
 **Est-ce que le plombier est déjà consultée en amont ?** 
 
 Non :\) Mais aussi fait penser dans le logiciel au phénomène de l'[architecte tour d'ivoir](https://youtu.be/jRz1mYIFxlk)e qui est trop décalé par rapport à la réalité. 
+
+**La responsabilisation des acteurs notamment jusqu'à la maintenant, une piste pour augmenter la qualité** 
+
+Dans le bâtiment, il y a des lois, décennal... Donc plus facile de faire n'importe quoi dans le logiciel. Car souvent les produits sont sur-vendus avec des équipes trop juniors. La maintenance est souvent faite en offshore avec une main d'œuvre à bas-coup. Quand le développeur sait qu'il ne fera pas la maintenance, il travaille un peu différemment. En responsabilisant donc les développeurs, permet d'améliorer la qualité.
+
+**Et le feedback des utilisateurs finaux ?** 
+
+Difficile d'avoir le feedback des utilisateurs finaux.  Au début on a que le feedback des donneurs d'ordre . Mais ça change aussi. Notamment avec [conception en coopératives](https://fr.wikipedia.org/wiki/Coop%C3%A9rative_d%27habitation), la réalité virtuelle et les ateliers utilisateurs en urbanisme. Une question de culture mais permettrait de détecter en amonts des problèmes.
+
+**En architecture,  on n’est pas maître du projet de bout en bout**
+
+Mais aussi une grosse différence est le fait qu'en informatique, on reste tout le temps maître de son ouvrage, alors qu’en architecture, on est dépendant des équipes de construction. L'architecte n'a aussi pas la maîtrise des plans d'exécution 
+
+**Problème de la fragmentation des entreprises**
+
+Les gens ne travaillent pas dans le même lieu mais en plus ce sont de petites équipes morcelées, appartenant à des entreprises différentes. Et aussi intérêt divergent entre les différentes sociétés notamment économiquement.
 
 Voilà vous avez tout lu ! 👍
 
