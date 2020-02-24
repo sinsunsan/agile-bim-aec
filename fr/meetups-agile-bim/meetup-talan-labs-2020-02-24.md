@@ -100,7 +100,11 @@ Ce qui se fait déjà dans l'architecture :
 * Outil de vérifications d’IFC comme [BIM SPOT](https://bimspot.io/)
 * SOCOTET, VERITAS et autres bureaux de contrôle essaie de suivre le mouvement, la culture du contrôle
 
+### Conclusion : 
 
+Un intérêt mutuel car par exemple le monde de l'architecture intéresse par sa culture de la qualité et du contrôle. Est-ce qu'un scrum master non technique peut comprendre le bâtiment sans forcément. Formation Agile pour le bâtiment et formation bâtiment pour l'Agile ? 
+
+Retrouver le [compte rendu sur cette page](https://roti.express/r/gwegh3)
 
 
 
