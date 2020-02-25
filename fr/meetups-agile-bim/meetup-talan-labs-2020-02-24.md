@@ -10,19 +10,19 @@ description: 'Meetup #4 du 24/02/2020 chez Talan Labs'
 
 à venir...
 
-### Les 15 participants 👷‍♀️🙍🙎‍♂️
+### Les participants 👷‍♀️🙍🙎‍♂️
 
-Les avis des participants \(ROTI\) [https://roti.express/r/gwegh3](https://roti.express/r/gwegh3)
+Découvrir [Les avis des participants](https://roti.express/share-survey/AhHzqFtAcoSZeXat9) \(ROTI\) 
 
 Une majorité d'agiliste cette fois-ci  intéressé par l'agilité au-delà de l'IT, soit par un lien personnel avec des professionnels de l'architecture, soit par un intérêt pour l'agilité au-delà de l'IT. 
 
-Vous avez participé à ce meetup et souhaitez-vous rajouter à la liste. 
+**Les organisateurs**
 
-* [Sébastien Lucas](https://www.linkedin.com/in/archiref/) \([Bricks](https://www.bricksapp.io/fr/)\)
+* \*\*\*\*[Sébastien Lucas](https://www.linkedin.com/in/archiref/) \([Bricks](https://www.bricksapp.io/fr/)\)
 * [François Muzard](https://www.linkedin.com/in/fran%C3%A7ois-muzard-bim/) \([Bricks](https://www.bricksapp.io/fr/)\) 
 * [Laurent Coydon](https://www.linkedin.com/in/lcoydon/) / Coach Agile
 * [Constantin Guay](https://app.slack.com/team/UR79ZMQFK) / Coach agile chez[ Talan labs](https://talan.com/)
-* 
+
 ### Les slides 🖼️
 
 [Meetup Agile BIM / 09/12 by Anonymous 9az1At on Scribd](https://www.scribd.com/document/439024442/Meetup-Agile-BIM-09-12#from_embed)
@@ -49,15 +49,15 @@ Cela fait partie de l'approche BIM d'avoir tout le monde sur une maquette. Il y 
 
 **Est-ce que le plombier est déjà consultée en amont ?** 
 
-Non :\) Mais aussi fait penser dans le logiciel au phénomène de l'[architecte tour d'ivoir](https://youtu.be/jRz1mYIFxlk)e qui est trop décalé par rapport à la réalité. 
+Non :\) Mais aussi fait penser dans le logiciel au phénomène de l'[architecte tour d'ivoire](https://youtu.be/jRz1mYIFxlk) qui est trop décalé par rapport à la réalité**.** Donc idéalement ce serait intéressant d'avoir tous les intervenants qui travaillent ensemble dés le début.
 
 **La responsabilisation des acteurs notamment jusqu'à la maintenant, une piste pour augmenter la qualité** 
 
-Dans le bâtiment, il y a des lois, décennal... Donc plus facile de faire n'importe quoi dans le logiciel. Car souvent les produits sont sur-vendus avec des équipes trop juniors. La maintenance est souvent faite en offshore avec une main d'œuvre à bas-coup. Quand le développeur sait qu'il ne fera pas la maintenance, il travaille un peu différemment. En responsabilisant donc les développeurs, permet d'améliorer la qualité.
+Dans le bâtiment, il y a des lois, décennal... A l'inverse plus facile de faire n'importe quoi dans le logiciel. Car souvent les produits sont sur-vendus avec des équipes trop juniors. La maintenance est souvent faite en offshore avec une main d'œuvre à bas-coup. Quand le développeur sait qu'il ne fera pas la maintenance, il travaille un peu différemment. En responsabilisant donc les développeurs, permet d'améliorer la qualité.
 
 **Et le feedback des utilisateurs finaux ?** 
 
-Difficile d'avoir le feedback des utilisateurs finaux.  Au début on a que le feedback des donneurs d'ordre . Mais ça change aussi. Notamment avec [conception en coopératives](https://fr.wikipedia.org/wiki/Coop%C3%A9rative_d%27habitation), la réalité virtuelle et les ateliers utilisateurs en urbanisme. Une question de culture mais permettrait de détecter en amonts des problèmes.
+Difficile d'avoir le feedback des utilisateurs finaux.  Au début on a que le feedback des donneurs d'ordre \(maître d'ouvrage\). Mais ça change aussi. Notamment avec  les pratiques comme la [conception en coopératives](https://fr.wikipedia.org/wiki/Coop%C3%A9rative_d%27habitation), la réalité virtuelle et les ateliers utilisateurs en urbanisme. Une question de culture mais permettrait de détecter en amonts des problèmes et d'éviter des reconstructions, réaménagements couteux.
 
 **En architecture,  on n’est pas maître du projet de bout en bout**
 
@@ -73,21 +73,29 @@ Les gens ne travaillent pas dans le même lieu mais en plus ce sont de petites �
 
 **La conception objet fait penser au design system dans l'UI**
 
- La construction modulaire, le off-site, le lean bâtiment. Chez St Gobain, la découpe des plaques sur mesure livré en palette. Le plaquiste pose des plaques pré-découpés. Un F3 peut être répété en 2-3 modules. [**BIM object**](https://www.bimobject.com/en), une plateforme, où on peut partager les objets BIM et les partager. Les fabricants veulent lier les objets BIM avec le PIM \(Product Information Management\) qui alimente les catalogues, les fiches techniques. Question de version sur les objets. 
+ La construction modulaire, le off-site, le lean bâtiment. 
 
-Est-ce que les logiciels ont fait émerger un standard. Famille générique qui sont poussées par les industriels.  La conception par composant et par module est assez avancée pour les industriels, mais plus embryonnaire pour les concepteurs, qui ont une relation un peu passive par rapport aux industriels.
+Chez St Gobain, la découpe des plaques sur mesure livrée en palette. Le plaquiste pose des plaques pré-découpés. 
 
-Le fait de ne pas avoir tous les produits au format BIM en partage, peut être un frein. Du coup devient important. 
+Ou une autre apporche, un F3 peut être répété en 2-3 modules. 
 
-Le poids des objets BIM est un problème parfois, car trop de détail souvent et problème d'affichage. Demanderait aussi à avoir plus de discussion entre les gens qui conçoivent les modélisations d'objet et les logiciels de CAO. 
+Sinon ils y a les plateformes d'objets BI. [**BIM object**](https://www.bimobject.com/en), une plateforme, où on peut partager les objets BIM et les partager. Les fabricants veulent lier les objets BIM avec le PIM \(Product Information Management\) qui alimente les catalogues, les fiches techniques. Question de version sur les objets. Serait bien qu'on ait les mises à jours directement dans les maquettes BIM.
+
+**Est-ce que les logiciels ont fait émerger un standard ?** 
+
+Famille générique qui sont poussées par les industriels.  La conception par composant et par module est assez avancée pour les industriels, mais plus embryonnaire pour les concepteurs, qui ont une relation un peu passive par rapport aux industriels.
+
+Le fait de ne pas avoir tous les produits au format BIM en partage, peut être un frein. Du coup devient important pour les industriels.
+
+Le poids des objets BIM est un problème parfois, car trop de détail souvent et problème d'affichage. Demanderait aussi à avoir plus de discussions entre les gens qui conçoivent les modélisations d'objet et les logiciels de CAO, et les utilisateurs de ces objets \(les architectes, ingénieurs....\)
 
 **Open source et logiciel propriétaire**
 
-L'open source est fou par rapport aux logiciels propriétaires, les logiciels propriétaires avancent moins vite.  Il commence à avoir un écosystème open source notamment du coté de l'architecture paramétrique ou avec des projets comme [Speckle](https://github.com/speckleworks) poussé par les ingénieurs de [ARUP](https://www.arup.com/) notamment.   
+La dynamique de l'open source est impressionnante par rapport aux logiciels propriétaires, les logiciels propriétaires avancent moins vite.  Il commence à avoir un écosystème open source notamment du coté de l'architecture paramétrique ou avec des projets comme [Speckle](https://github.com/speckleworks) poussé par les ingénieurs de [ARUP](https://www.arup.com/) notamment. 
 
 **Comment est géré cette notion de scope : le programme en architecture** 
 
-On a une liste de tâche. On en a fait moins que prévu. À la fin, on ne fait pas tout ce qui est prévu. Mais souvent le budget dépasse. 
+On a une liste de tâche. On en a fait moins que prévu. À la fin, on ne fait pas tout ce qui est prévu. Car souvent le budget dépasse. Cette pratique d'exécution partielle du programme est finalement commune entre l'informatique et le bâtiment. Mais l'art de prioriser et découper les sujets de l'Agile pourrait être intéressant pour re-prioriser le programme.
 
 ### Les tests automatisés en BIM 
 
@@ -99,14 +107,13 @@ Ce qui se fait déjà dans l'architecture :
 * [Solibri model checker](https://www.solibri.com/), mais souvent que pour les BIM manager
 * Outil de vérifications d’IFC comme [BIM SPOT](https://bimspot.io/)
 * SOCOTET, VERITAS et autres bureaux de contrôle essaie de suivre le mouvement, la culture du contrôle
+* ....
 
 ### Conclusion : 
 
-Un intérêt mutuel car par exemple le monde de l'architecture intéresse par sa culture de la qualité et du contrôle. Est-ce qu'un scrum master non technique peut comprendre le bâtiment sans forcément. Formation Agile pour le bâtiment et formation bâtiment pour l'Agile ? 
+Un intérêt mutuel entre professionnels de l'architecture et agiliste. Par exemple le monde de l'architecture intéresse par sa culture de la qualité et du contrôle. Est-ce qu'un scrum master non technique peut travailler dans le bâtiment sans forcément conn^aître le secteur. Il y a des scrum master technique \(qui connaisse le métier\) et non technique dans l'IT. Donc oui sans aucun doute possible. Après en termes de crédibilité pour parler aux équipes, ce seraient intéressant d'avoir une connaissance ou une culture du bâtiment.  On aurait donc besoin d'une formation Agile pour le bâtiment et pourquoi pas d'une formation bâtiment pour l'Agile ? :\)
 
-Retrouver le [compte rendu sur cette page](https://roti.express/r/gwegh3)
-
-
+### A bientôt pour le prochain meetup : 
 
 Voilà vous avez tout lu ! 👍
 
