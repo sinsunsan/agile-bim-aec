@@ -4,11 +4,13 @@ description: 'Meetup #4 du 24/02/2020 chez Talan Labs'
 
 # \#5 / Conception par les tests
 
+Pour venir au [prochain meetup](https://www.meetup.com/fr-FR/collaborative-architecture), rejoignez notre [communauté Agile BIM](../communaute-agile-bim/). Si vous souhaitez inviter le prochain meetup dans votre entreprise ou présentez un sujet [Contactez nous](mailto:hello@bricksapp.io?subject=A%20propos%20des%20meetups%20agile%20BIM) !
+
 {% embed url="https://www.meetup.com/fr-FR/collaborative-architecture/events/267772768/" %}
 
 ### La video 📽️
 
-à venir...
+Bientôt, montage en cours...
 
 ### Les participants 👷‍♀️🙍🙎‍♂️
 
@@ -22,10 +24,6 @@ Une majorité d'agiliste cette fois-ci  intéressé par l'agilité au-delà de l
 * [François Muzard](https://www.linkedin.com/in/fran%C3%A7ois-muzard-bim/) \([Bricks](https://www.bricksapp.io/fr/)\) 
 * [Laurent Coydon](https://www.linkedin.com/in/lcoydon/) / Coach Agile
 * [Constantin Guay](https://app.slack.com/team/UR79ZMQFK) / Coach agile chez[ Talan labs](https://talan.com/)
-
-### Les slides 🖼️
-
-[Meetup Agile BIM / 09/12 by Anonymous 9az1At on Scribd](https://www.scribd.com/document/439024442/Meetup-Agile-BIM-09-12#from_embed)
 
 ### **La discussion** ☝️
 
@@ -109,15 +107,19 @@ Ce qui se fait déjà dans l'architecture :
 * SOCOTET, VERITAS et autres bureaux de contrôle essaie de suivre le mouvement, la culture du contrôle
 * ....
 
+### Les slides de la présentation 🖼️
+
+{% embed url="https://www.scribd.com/document/448890887/Agile-BIM-5-La-conception-pilotee-par-les-tests-appliquee-a-l-architecture-et-de-construction" %}
+
+
+
 ### Conclusion : 
 
-Un intérêt mutuel entre professionnels de l'architecture et agiliste. Par exemple le monde de l'architecture intéresse par sa culture de la qualité et du contrôle. Est-ce qu'un scrum master non technique peut travailler dans le bâtiment sans forcément conn^aître le secteur. Il y a des scrum master technique \(qui connaisse le métier\) et non technique dans l'IT. Donc oui sans aucun doute possible. Après en termes de crédibilité pour parler aux équipes, ce seraient intéressant d'avoir une connaissance ou une culture du bâtiment.  On aurait donc besoin d'une formation Agile pour le bâtiment et pourquoi pas d'une formation bâtiment pour l'Agile ? :\)
+Un intérêt mutuel entre professionnels de l'architecture et agiliste. Par exemple le monde de l'architecture intéresse par sa culture de la qualité et du contrôle. Est-ce qu'un scrum master non technique peut travailler dans le bâtiment sans forcément connaître le secteur. Il y a des scrum master technique \(qui connaissent le métier dans lesquels ils travaillent en général le développement logiciel\) et non techniques dans l'IT. Donc oui sans aucun doute possible. Après en termes de crédibilité pour parler aux équipes, ce serait intéressant d'avoir une connaissance ou au moins une bonne culture du bâtiment.  On aurait donc besoin d'une formation Agile pour le bâtiment et pourquoi pas d'une formation bâtiment pour l'Agile ? :\)
 
 ### A bientôt pour le prochain meetup : 
 
-Voilà vous avez tout lu ! 👍
-
-Venez au [prochain meetup](https://www.meetup.com/fr-FR/collaborative-architecture), pour cela rejoignez notre [communauté Agile BIM](../communaute-agile-bim/) vous serez tenu au courant de la suite. De même si vous souhaiteriez organiser le meetup dans votre entreprise. [Contactez nous](mailto:hello@bricksapp.io?subject=A%20propos%20des%20meetups%20agile%20BIM).
+Venez au [prochain meetup](https://www.meetup.com/fr-FR/collaborative-architecture), pour cela rejoignez notre [communauté Agile BIM](../communaute-agile-bim/) vous serez tenu au courant de la suite. De même si vous souhaiteriez organiser le prochain meetup ou présentez un sujet [Contactez nous](mailto:hello@bricksapp.io?subject=A%20propos%20des%20meetups%20agile%20BIM) !
 
 
 
