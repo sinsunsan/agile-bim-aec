@@ -49,7 +49,7 @@ Mais un fourmillement d'innovations : la maquette 3D, la [procédure conception 
 
 Cela fait partie de l'approche BIM d'avoir tout le monde sur une maquette. Il y a aussi la réalité virtuelle qui permet de faire contribuer beaucoup de gens pour donner leur feedback.
 
-**Est-ce que le plombier est déjà consultée en amont ?** 
+**Est-ce que le plombier est déjà consulté en amont ?** 
 
 Non :\) Mais aussi fait penser dans le logiciel au phénomène de l'[architecte tour d'ivoire](https://youtu.be/jRz1mYIFxlk) qui est trop décalé par rapport à la réalité**.** Donc idéalement ce serait intéressant d'avoir tous les intervenants qui travaillent ensemble dés le début.
 
