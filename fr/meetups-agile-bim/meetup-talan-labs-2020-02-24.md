@@ -4,7 +4,7 @@ description: 'Meetup #4 du 24/02/2020 chez Talan Labs'
 
 # \#5 / Conception par les tests
 
-Pour venir au [prochain meetup](https://www.meetup.com/fr-FR/collaborative-architecture), rejoignez notre [communauté Agile BIM](../communaute-agile-bim/). Si vous souhaitez inviter le prochain meetup dans votre entreprise ou présentez un sujet [Contactez nous](mailto:hello@bricksapp.io?subject=A%20propos%20des%20meetups%20agile%20BIM) !
+Pour venir au [prochain meetup](https://www.meetup.com/fr-FR/collaborative-architecture), rejoignez notre [communauté Agile BIM](../communaute-agile-bim/). Si vous souhaitez recevoir le prochain meetup dans votre entreprise ou présentez un sujet [Contactez nous](mailto:hello@bricksapp.io?subject=A%20propos%20des%20meetups%20agile%20BIM) !
 
 {% embed url="https://www.meetup.com/fr-FR/collaborative-architecture/events/267772768/" %}
 
@@ -16,7 +16,7 @@ Bientôt, montage en cours...
 
 Découvrir [Les avis des participants](https://roti.express/share-survey/AhHzqFtAcoSZeXat9) \(ROTI\) 
 
-Une majorité d'agiliste cette fois-ci  intéressé par l'agilité au-delà de l'IT, soit par un lien personnel avec des professionnels de l'architecture, soit par un intérêt pour l'agilité au-delà de l'IT. 
+Une majorité d'agiliste cette fois-ci  intéressés par l'agilité au-delà de l'IT, soit par un lien personnel avec des professionnels de l'architecture, soit par un intérêt pour l'agilité au-delà de l'IT. 
 
 **Les organisateurs**
 
@@ -24,6 +24,10 @@ Une majorité d'agiliste cette fois-ci  intéressé par l'agilité au-delà de l
 * [François Muzard](https://www.linkedin.com/in/fran%C3%A7ois-muzard-bim/) \([Bricks](https://www.bricksapp.io/fr/)\) 
 * [Laurent Coydon](https://www.linkedin.com/in/lcoydon/) / Coach Agile
 * [Constantin Guay](https://app.slack.com/team/UR79ZMQFK) / Coach agile chez[ Talan labs](https://talan.com/)
+
+{% embed url="https://www.instagram.com/p/B89xv-uoOea/?utm\_source=ig\_web\_copy\_link" %}
+
+
 
 ### **La discussion** ☝️
 
@@ -49,13 +53,17 @@ Cela fait partie de l'approche BIM d'avoir tout le monde sur une maquette. Il y 
 
 Non :\) Mais aussi fait penser dans le logiciel au phénomène de l'[architecte tour d'ivoire](https://youtu.be/jRz1mYIFxlk) qui est trop décalé par rapport à la réalité**.** Donc idéalement ce serait intéressant d'avoir tous les intervenants qui travaillent ensemble dés le début.
 
+{% embed url="https://www.instagram.com/p/B89yyvGoifI/?utm\_source=ig\_web\_copy\_link" %}
+
+
+
 **La responsabilisation des acteurs notamment jusqu'à la maintenant, une piste pour augmenter la qualité** 
 
-Dans le bâtiment, il y a des lois, décennal... A l'inverse plus facile de faire n'importe quoi dans le logiciel. Car souvent les produits sont sur-vendus avec des équipes trop juniors. La maintenance est souvent faite en offshore avec une main d'œuvre à bas-coup. Quand le développeur sait qu'il ne fera pas la maintenance, il travaille un peu différemment. En responsabilisant donc les développeurs, permet d'améliorer la qualité.
+Dans le bâtiment, il y a des lois, garantie décennale... À l'inverse plus facile de faire "n'importe quoi" dans le logiciel. Car souvent les produits sont sur-vendus avec des équipes trop juniors. La maintenance est souvent faite en offshore avec une main d'œuvre à bas-coup. Quand le développeur sait qu'il ne fera pas la maintenance, il travaille un peu différemment. En responsabilisant donc les développeurs, permet d'améliorer la qualité.
 
 **Et le feedback des utilisateurs finaux ?** 
 
-Difficile d'avoir le feedback des utilisateurs finaux.  Au début on a que le feedback des donneurs d'ordre \(maître d'ouvrage\). Mais ça change aussi. Notamment avec  les pratiques comme la [conception en coopératives](https://fr.wikipedia.org/wiki/Coop%C3%A9rative_d%27habitation), la réalité virtuelle et les ateliers utilisateurs en urbanisme. Une question de culture mais permettrait de détecter en amonts des problèmes et d'éviter des reconstructions, réaménagements couteux.
+Difficile d'avoir le feedback des utilisateurs finaux en architecture. Au début on a que le feedback des donneurs d'ordre \(maître d'ouvrage\). Mais ça change aussi. Notamment avec  les pratiques comme la [conception en coopératives](https://fr.wikipedia.org/wiki/Coop%C3%A9rative_d%27habitation), la réalité virtuelle et les ateliers utilisateurs en urbanisme. Une question de culture, mais permettrait de détecter en amonts des problèmes et d'éviter des reconstructions, réaménagements couteux.
 
 **En architecture,  on n’est pas maître du projet de bout en bout**
 
@@ -75,9 +83,9 @@ Les gens ne travaillent pas dans le même lieu mais en plus ce sont de petites �
 
 Chez St Gobain, la découpe des plaques sur mesure livrée en palette. Le plaquiste pose des plaques pré-découpés. 
 
-Ou une autre apporche, un F3 peut être répété en 2-3 modules. 
+Ou une autre approche, un F3 peut être répété en 2-3 modules. 
 
-Sinon ils y a les plateformes d'objets BI. [**BIM object**](https://www.bimobject.com/en), une plateforme, où on peut partager les objets BIM et les partager. Les fabricants veulent lier les objets BIM avec le PIM \(Product Information Management\) qui alimente les catalogues, les fiches techniques. Question de version sur les objets. Serait bien qu'on ait les mises à jours directement dans les maquettes BIM.
+Sinon il y a les plateformes d'objets BIM comme BIM object. [**BIM object**](https://www.bimobject.com/en), une plateforme, où on peut partager les objets BIM et les partager. Les fabricants veulent lier les objets BIM avec le PIM \(Product Information Management\) qui alimente les catalogues, les fiches techniques. Question de version sur les objets. Serait bien qu'on ait les mises à jour directement dans les maquettes BIM.
 
 **Est-ce que les logiciels ont fait émerger un standard ?** 
 
@@ -89,11 +97,11 @@ Le poids des objets BIM est un problème parfois, car trop de détail souvent et
 
 **Open source et logiciel propriétaire**
 
-La dynamique de l'open source est impressionnante par rapport aux logiciels propriétaires, les logiciels propriétaires avancent moins vite.  Il commence à avoir un écosystème open source notamment du coté de l'architecture paramétrique ou avec des projets comme [Speckle](https://github.com/speckleworks) poussé par les ingénieurs de [ARUP](https://www.arup.com/) notamment. 
+La dynamique de l'open source est impressionnante par rapport aux logiciels propriétaires, les logiciels propriétaires avancent moins vite.  Il commence à avoir un écosystème open source notamment du côté de l'architecture paramétrique ou avec des projets comme [Speckle](https://github.com/speckleworks) poussés par les ingénieurs de [ARUP](https://www.arup.com/) notamment. 
 
 **Comment est géré cette notion de scope : le programme en architecture** 
 
-On a une liste de tâche. On en a fait moins que prévu. À la fin, on ne fait pas tout ce qui est prévu. Car souvent le budget dépasse. Cette pratique d'exécution partielle du programme est finalement commune entre l'informatique et le bâtiment. Mais l'art de prioriser et découper les sujets de l'Agile pourrait être intéressant pour re-prioriser le programme.
+À la fin, on ne fait pas tout ce qui est prévu. Car souvent le budget dépasse. Cette pratique d'exécution partielle du programme est finalement commune entre l'informatique et le bâtiment. Mais l'art de prioriser et découper les sujets de l'Agile pourrait être intéressant pour re-prioriser le programme.
 
 ### Les tests automatisés en BIM 
 
@@ -101,10 +109,10 @@ Ce qui se fait déjà dans l'architecture :
 
 * Rapport de contrôleur techniques
 * Nomenclature d'autocontrôle
-* Outils intégrés au logiciel de BIM:  Outils chemins d'évacuation : avertissement par exemple si les objets sont crées au même endroits
+* Outils intégrés au logiciel de BIM:  Outils chemins d'évacuation : avertissement par exemple si les objets sont crées aux même endroits
 * [Solibri model checker](https://www.solibri.com/), mais souvent que pour les BIM manager
 * Outil de vérifications d’IFC comme [BIM SPOT](https://bimspot.io/)
-* SOCOTET, VERITAS et autres bureaux de contrôle essaie de suivre le mouvement, la culture du contrôle
+* SOCOTET, VERITAS et autres bureaux de contrôle essaient de suivre le mouvement
 * ....
 
 ### Les slides de la présentation 🖼️
@@ -115,7 +123,11 @@ Ce qui se fait déjà dans l'architecture :
 
 ### Conclusion : 
 
-Un intérêt mutuel entre professionnels de l'architecture et agiliste. Par exemple le monde de l'architecture intéresse par sa culture de la qualité et du contrôle. Est-ce qu'un scrum master non technique peut travailler dans le bâtiment sans forcément connaître le secteur. Il y a des scrum master technique \(qui connaissent le métier dans lesquels ils travaillent en général le développement logiciel\) et non techniques dans l'IT. Donc oui sans aucun doute possible. Après en termes de crédibilité pour parler aux équipes, ce serait intéressant d'avoir une connaissance ou au moins une bonne culture du bâtiment.  On aurait donc besoin d'une formation Agile pour le bâtiment et pourquoi pas d'une formation bâtiment pour l'Agile ? :\)
+Un intérêt mutuel entre professionnels de l'architecture et agilistes. Par exemple le monde de l'architecture intéresse par sa culture de la qualité et du contrôle. Est-ce qu'un scrum master non technique peut travailler dans le bâtiment sans forcément connaître le secteur ? Il y a des scrum master technique \(qui connaissent le métier dans lesquels ils travaillent en général le développement logiciel\) et non techniques dans l'IT. Donc oui sans aucun doute possible. Après en termes de crédibilité pour parler aux équipes, ce serait intéressant d'avoir une connaissance ou au moins une bonne culture du bâtiment.  On aurait donc besoin d'une formation Agile pour le bâtiment et pourquoi pas d'une formation bâtiment pour l'Agile ? :\)
+
+{% embed url="https://www.instagram.com/p/B89yStzoqKD/?utm\_source=ig\_web\_copy\_link" %}
+
+
 
 ### A bientôt pour le prochain meetup : 
 
