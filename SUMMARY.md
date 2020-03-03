@@ -12,7 +12,7 @@
 * [🛠️ Boîte à outil Agile](fr/boite-outil-agile/README.md)
   * [Le standup meeting](fr/boite-outil-agile/standup-meeting.md)
   * [Les "demos" du projet](fr/boite-outil-agile/demos-projet.md)
-  * [Les retours de l'utilisateur](fr/boite-outil-agile/les-retours-de-lutilisateurs-final.md)
+  * [Les retours de l'utilisateur](fr/boite-outil-agile/retours-utilisateurs.md)
   * [Travailler en itérations](fr/boite-outil-agile/iterations.md)
   * [Les rétrospectives](fr/boite-outil-agile/restrospectives.md)
   * [L'amélioration continue](fr/boite-outil-agile/amelioration-continue.md)
