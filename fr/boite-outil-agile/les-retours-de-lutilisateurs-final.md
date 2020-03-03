@@ -1,4 +1,4 @@
-# Les retours de l'utilisateurs final
+# Les retours de l'utilisateur
 
 ### Faire participer les habitants, une pratique qui se développe
 
