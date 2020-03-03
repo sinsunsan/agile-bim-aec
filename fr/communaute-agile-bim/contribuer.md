@@ -8,8 +8,8 @@ Si vous êtes intéressé par l'agilité appliquée à l'architecture et à la c
 
 **Comment  contribuer ?** 
 
-Pour cela il faut tout d'abord que vous rejoignez notre [slack](https://communityinviter.com/apps/agile-bim/agile-bim) et la chaîne **agile-bim-wiki**.   
-Vous pourrez alors créer un compte sur gitbook pour éditer le wiki de manière très simple. Toutes les modifications sont listées dans cette chaîne.
+*  Rejoignez notre [slack](https://communityinviter.com/apps/agile-bim/agile-bim) et la chaîne agilebim-org
+* Devenez éditeur du WIKI sur [gitbook](https://app.gitbook.com/invite/agilebim?invite=-LfYge_EcAUks2zJxscv) Vous pourrez alors modifier ce site de manière très simple. 
 
 ![](../../.gitbook/assets/screen-shot-2019-12-20-at-18.52.47.png)
 
