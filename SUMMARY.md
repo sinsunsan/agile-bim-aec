@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Architecture & Construction with Agility](README.md)
+* [Agile Architecture & Construction \(AGILE + AEC\)](README.md)
 
 ## En Français <a id="fr"></a>
 
