@@ -45,3 +45,7 @@ Autre Exemple de démarche collaborative pour la conception d'un quartier : La Z
 
 ![Atelier Clichy Batignolles / Conception participative](../../.gitbook/assets/secteur_ouest_phase_2_1d381.jpg)
 
+{% file src="../../.gitbook/assets/cr\_atelier\_batignolles\_so-phase2\_seance2\_2013\_05\_28\_0.pdf" caption="Exemple de compte-rendu / ZAC Clichy-Batignolles" %}
+
+
+
