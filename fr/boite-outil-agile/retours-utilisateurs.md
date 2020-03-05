@@ -27,9 +27,21 @@ Cette démarche a de nombreux atouts :
 
 ### Le développement de l'architecture collaborative
 
+#### Exemple 1 / Atelier d'architecture autogérée - Projet Civic Lab 2016
+
 Certaines agences se sont fait la spécialité de travailler de manière collaborative avec les habitants. On peut citer par exemple l'**atelier d'architecture autogérée** qui présentent sur son [site](http://www.urbantactics.org/projets/civic-lab/) plusieurs projets appliquant la démarche collaborative. 
 
 ![Atelier utilisateurs avec l&apos;atelier d&apos;architecture autog&#xE9;r&#xE9; / Projet CivicLab 2016 ](../../.gitbook/assets/003-civiclab-1200x900.jpg)
 
 ![Atelier utilisateurs avec l&apos;atelier d&apos;architecture autog&#xE9;r&#xE9; / Projet CivicLab 2016 ](../../.gitbook/assets/20690436_1911963575682312_7059424433116275086_o-1200x900.jpg)
+
+#### Exemple 2 : La ZAC Clichy Batignolle
+
+Autre Exemple de démarche collaborative pour la conception d'un quartier : La ZAC Clichy Batignolle 
+
+{% embed url="https://archive-clichy-batignolles.parisetmetropole-amenagement.fr/latelier-batignolles.html" %}
+
+![Atelier Clichy Batignolle / Conception participative](../../.gitbook/assets/secteur_ouest_phase_2_23a10.jpg)
+
+![Atelier Clichy Batignolle / Conception participative](../../.gitbook/assets/secteur_ouest_phase_2_1d381.jpg)
 
