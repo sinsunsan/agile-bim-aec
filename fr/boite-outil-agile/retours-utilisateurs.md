@@ -37,11 +37,11 @@ Certaines agences se sont fait la spécialité de travailler de manière collabo
 
 #### Exemple 2 : La ZAC Clichy Batignolle
 
-Autre Exemple de démarche collaborative pour la conception d'un quartier : La ZAC Clichy Batignolle 
+Autre Exemple de démarche collaborative pour la conception d'un quartier : La ZAC Clichy Batignolles 
 
 {% embed url="https://archive-clichy-batignolles.parisetmetropole-amenagement.fr/latelier-batignolles.html" %}
 
-![Atelier Clichy Batignolle / Conception participative](../../.gitbook/assets/secteur_ouest_phase_2_23a10.jpg)
+![Atelier Clichy Batignolles / Conception participative](../../.gitbook/assets/secteur_ouest_phase_2_23a10.jpg)
 
-![Atelier Clichy Batignolle / Conception participative](../../.gitbook/assets/secteur_ouest_phase_2_1d381.jpg)
+![Atelier Clichy Batignolles / Conception participative](../../.gitbook/assets/secteur_ouest_phase_2_1d381.jpg)
 
