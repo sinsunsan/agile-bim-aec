@@ -1,8 +1,10 @@
-# ⏳ Time tracking vs Objectifs 🎯
+# ⏳ Temps passé / Objectif 🎯
 
-Pourquoi calculer le temps passé ⏳sur un projet n'est pas forcément une bonne idée ?
+### Pourquoi calculer le temps passé n'est pas forcément une bonne idée ?
 
-Dans un projet d'architecture, 📐🏗️ la rentabilité est souvent un problème. De nombreuses tâches sont très chronophages. La relation avec le client peut également impacter, si par exemple il demande beaucoup de réunions ou change d'avis souvent. Vous voyez ce dont je veux parler ? 🤣
+![](../../.gitbook/assets/veri-ivanova-p3pj7joyvnm-unsplash.jpg)
+
+Dans un projet d'architecture,  la rentabilité est souvent un problème. De nombreuses tâches sont très chronophages. La relation avec le client peut également impacter, si par exemple il demande beaucoup de réunions ou change d'avis souvent. Vous voyez ce dont je veux parler ? 🤣
 
 On est donc tenté de calculer le temps de tout ce que l'on fait et de demander à l'équipe de le faire. Cette stratégie n'est en soi pas mauvaise. Mais elle peut être perçue comme un poids pour l'équipe, 😤notamment pour une majorité d'entre nous qui ne voient pas d'un très bon œil, de se surcharger à faire ces tâches, perçues qu'on le veuille ou nous comme du "reporting".
 

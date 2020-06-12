@@ -1,8 +1,10 @@
-# ⏳ Time tracking vs Target 🎯
+# ⏳ Time vs Objective 🎯
 
-### Why calculating the time spent ⏳on a project is not necessarily a good idea? 
+### Why calculating the time spent on a project is not necessarily a good idea? 
 
-In an architecture project, 📐🏗️ profitability is often a problem. Many tasks are very time-consuming. The relationship with the client can also have an impact, if for example he requires a lot of meetings or changes his mind often. You see what I'm talking about? 🤣 
+![](../../.gitbook/assets/veri-ivanova-p3pj7joyvnm-unsplash.jpg)
+
+In an architecture project,  profitability is often a problem. Many tasks are very time-consuming. The relationship with the client can also have an impact, if for example he requires a lot of meetings or changes his mind often. You see what I'm talking about? 🤣 
 
 So you're tempted to calculate the time of everything you do and ask the team to do it. This strategy in itself is not a bad one. But it can be seen as a burden on the team, including for a majority of us who do not see it as a very good thing to overload ourselves with these tasks, often perceived as "reporting". 
 
