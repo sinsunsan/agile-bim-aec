@@ -1,4 +1,4 @@
-# Time tracking vs Objectifs
+# ⏳ Time tracking vs Objectifs 🎯
 
 Pourquoi calculer le temps passé ⏳sur un projet n'est pas forcément une bonne idée ?
 

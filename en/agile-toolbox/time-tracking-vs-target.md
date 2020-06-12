@@ -1,4 +1,4 @@
-# Time tracking ⏳ vs Target 🎯
+# ⏳ Time tracking vs Target 🎯
 
 ### Why calculating the time spent ⏳on a project is not necessarily a good idea? 
 
