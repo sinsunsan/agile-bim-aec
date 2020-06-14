@@ -2,7 +2,7 @@
 description: The community of Agilist in architecture & construction industry (AEC)
 ---
 
-# Agile Architecture & Construction \(AGILE + AEC\)
+# Agile For Architecture & Construction
 
 ![Agile BIM / Make Architecture design iterative and transparent](.gitbook/assets/agile_bim.jpeg)
 
