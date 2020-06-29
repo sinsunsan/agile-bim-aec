@@ -18,6 +18,15 @@ description: Links on works and ressources about Agile in AEC and BIM
 
 * [Scrum for hardware](https://leanpub.com/Scrum-for-Hardware) **/** Paolo Sammicheli
 
+### Lean construction
+
+#### Institute, association 
+
+* [https://www.leanconstruction.org](https://www.leanconstruction.org/) 
+* [https://www.associationleanconstruction.fr](https://www.associationleanconstruction.fr/)
+
+#### Books
+
 ### Agile for AEC 
 
 * [A utilização da metodologia ágil scrum como estratégia para a otimização do desenvolvimento dos projetos de arquitetura](https://issuu.com/ricardomarinhodemattos/docs/a_utiliza____o_da_metodologia___gil) / Ricardo Gonzalez Marinho de Mattos 2015
