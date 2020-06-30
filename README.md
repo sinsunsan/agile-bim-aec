@@ -17,7 +17,7 @@ Agile methods in software, industry and services have demonstrated that changing
 * fewer errors and ways to fix them quickly
 * a final product more adapted to the market & to the client wish
 
-![Agile BIM logo](.gitbook/assets/49362144_padded_logo.png)
+![Agile BIM logo](.gitbook/assets/agilebim-logo-blancbleu-1000.png)
 
 So let's try to lay down the principles of Agile BIM applied to AEC industry !
 
