@@ -10,7 +10,9 @@ Pour venir au [prochain meetup](https://www.meetup.com/fr-FR/collaborative-archi
 
 ### La video 📽️
 
-Bientôt, montage en cours...
+{% embed url="https://www.youtube.com/watch?v=KTCVFKl\_Ew0" %}
+
+
 
 ### Les participants 👷‍♀️🙍🙎‍♂️
 
