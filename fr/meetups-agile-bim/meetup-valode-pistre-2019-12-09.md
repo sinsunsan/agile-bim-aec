@@ -16,9 +16,9 @@ description: 'Meetup #4 du 09/12/2019 chez Valode et Pistre'
 
 Les avis des participants \(ROTI\) [https://roti.express/share-survey/5AMA3NfySPq8NzgFN](https://roti.express/share-survey/5AMA3NfySPq8NzgFN)
 
-![Meetup dans la salle de r&#xE9;union de Valode et Pistre](../../.gitbook/assets/photo-analisa.jpeg)
-
 Le meetup s'est déroulé avec 12 personnes représentant différents domaines :
+
+{% embed url="https://www.instagram.com/p/CEmUxZZMzCH/" %}
 
 * Coach agile, Scrum master, PO...
 * Architecte, BIM manager...
