@@ -2,7 +2,7 @@
 description: Meetup du 14/10 /2019 chez ENIA
 ---
 
-# \#3/ Les freins à l'Agile dans le BTP
+# 3/ Les freins à l'Agile dans le BTP
 
 ![Agile BIM meetup du 14/10/2019](../../.gitbook/assets/2019-10-14-agile-bim-meetup.jpg)
 

@@ -1,4 +1,4 @@
-# \#2/ Négocier le programme
+# 2/ Négocier le programme
 
 ![Meetup Agile BIM chez ENIA](../../.gitbook/assets/agile-bim-meetup.jpg)
 

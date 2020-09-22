@@ -1,8 +1,8 @@
 ---
-description: 'Meetup #4 du 24/02/2020 chez Talan Labs'
+description: 'Meetup #5 du 24/02/2020 chez Talan Labs'
 ---
 
-# \#5 / Conception par les tests
+# 5 / Conception par les tests
 
 Pour venir au [prochain meetup](https://www.meetup.com/fr-FR/collaborative-architecture), rejoignez notre [communauté Agile BIM](../communaute-agile-bim/). Si vous souhaitez recevoir le prochain meetup dans votre entreprise ou présentez un sujet [Contactez nous](mailto:hello@bricksapp.io?subject=A%20propos%20des%20meetups%20agile%20BIM) !
 
