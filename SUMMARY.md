@@ -57,7 +57,3 @@
 * [Startups Agile AEC](ressources/startups.md)
 * [Licence CC](ressources/licence.md)
 
----
-
-* [Untitled](untitled.md)
-
