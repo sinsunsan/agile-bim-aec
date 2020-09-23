@@ -8,7 +8,15 @@ description: >-
 
 [Vous pouvez contribuer ! ](../communaute-agile-bim/contribuer.md)
 
+### Industry
 
+![](../../.gitbook/assets/photo-1455165814004-1126a7199f9b.jpeg)
+
+vs 
+
+### Architecture
+
+![](../../.gitbook/assets/photo-1503387762-592deb58ef4e.jpeg)
 
 ### Ce qui est pareil ou similaire
 

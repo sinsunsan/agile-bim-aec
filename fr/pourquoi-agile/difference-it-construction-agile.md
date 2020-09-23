@@ -8,9 +8,15 @@ description: >-
 
 [Vous pouvez contribuer ! ](../communaute-agile-bim/contribuer.md)
 
-![](../../.gitbook/assets/photo-1503387762-592deb58ef4e.jpeg)
+### Logiciel 
 
 ![](../../.gitbook/assets/photo-1551434678-e076c223a692.jpeg)
+
+vs 
+
+### Architecture
+
+![](../../.gitbook/assets/photo-1503387762-592deb58ef4e.jpeg)
 
 ### Ce qui est pareil ou similaire
 
