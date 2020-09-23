@@ -4,7 +4,8 @@
 
 ### Ce qui est pareil ou similaire
 
-
+* La mélange de professionnels techniques \(les ingénieurs\) et créatifs \(les architectes\) et un client \(le maître d'ouvrage\)
+* Un format d'échange le code pour le développement, une maquette BIM pour le bâtiment
 
 
 
