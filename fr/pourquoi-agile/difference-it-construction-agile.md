@@ -2,10 +2,16 @@
 
 [Vous pouvez contribuer ! ](../communaute-agile-bim/contribuer.md)
 
+![](../../.gitbook/assets/photo-1503387762-592deb58ef4e.jpeg)
+
+![](../../.gitbook/assets/photo-1551434678-e076c223a692.jpeg)
+
 ### Ce qui est pareil ou similaire
 
 * La mélange de professionnels techniques \(les ingénieurs\) et créatifs \(les architectes\) et un client \(le maître d'ouvrage\)
 * Un format d'échange le code pour le développement, une maquette BIM pour le bâtiment
+
+
 
 ### Ce qui est différent
 
