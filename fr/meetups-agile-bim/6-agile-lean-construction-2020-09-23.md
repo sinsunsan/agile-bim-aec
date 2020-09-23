@@ -8,8 +8,6 @@ description: 'Meetup #6 du 22/09/2020 en ligne'
 
 {% embed url="https://www.meetup.com/fr-FR/collaborative-architecture/events/272802999" %}
 
-### 
-
 ### L'invité du jour : Vincent Morael / Le Lean Construction
 
 ![Le lean construction par Vincent Moral Coef](../../.gitbook/assets/lean-construction-coeff.png)
@@ -28,7 +26,9 @@ A venir...
 
 ### 🖼️ Les slides 
 
-A venir...
+{% embed url="https://www.scribd.com/document/477152981/Lean-construction-Agile-Meetup-Agile-BIM-6" %}
+
+
 
 ### 👷‍♀️ Les participants 🙍🙎‍♂️
 
