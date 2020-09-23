@@ -110,7 +110,17 @@ Par exemple l'amélioration continue est à la base du Lean et de l'Agile. le sc
 
 Toutes les équipes agile utilisent un tableau Kanban.
 
-Beaucoup de choses se retrouvent entre le bâtiment et l'IT.  Mais aussi des différences.
+Beaucoup de choses se retrouvent entre le bâtiment et l'IT.  Mais aussi des différences. Comme on peut le voir dans cette [page](../pourquoi-agile/difference-it-construction-agile.md).
+
+### Un sprint par phase ?
+
+Une réunion en chaque début de phase pour mettre tous le monde d'accord sur les objectifs, sur le planning de rendu, avec des engagements communs. 
+
+Il faut une liste des livrables qui permet à chacun de savoir ce qu'il doit faire.
+
+Est-ce que c'est contradictoire avec la méthode agile ? 
+
+En IT ou peut faire varier les fonctionnalités pour garder la qualité, mais est ce possible en bâtiment ? 
 
 
 

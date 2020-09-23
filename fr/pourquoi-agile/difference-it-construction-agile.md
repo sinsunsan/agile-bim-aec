@@ -12,6 +12,8 @@
 ### Ce qui est différent
 
 * Le bâtiment c'est du dur : difficile de démolir ce qui est fait en supprimer des fichiers
+* Les membres de l'équipes ne sont pas une seule société et ne partagent pas les même locaux
+* Ils sont également parfois en conflit 
 
 
 
