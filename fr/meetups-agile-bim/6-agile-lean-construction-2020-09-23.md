@@ -36,7 +36,29 @@ A venir...
 
 ### ☝️ La discussion  
 
-A venir...
+#### Est-ce que Lean peut se décomposer en méthode ?
+
+Oui,  il y a au moins une vingtaine d'outil, qui peuvent être utilisé : 
+
+* le rapport A3
+* le last planner système
+* ....
+
+Mais le LEAN ne fonctionne que si le client est partie prenante. 
+
+#### Le BIM  et le LEAN
+
+Le BIM permet de synthétiser tous le projet, et de définir des process.
+
+C'est un outil de conception itérative également
+
+Mais au début il faut être clair sur pourquoi on va avoir besoin du BIM. 
+
+Le management visuel est un point commun entre le BIM et le LEAN. 
+
+Mais c'est également un outil de collaboration, qui permet de faire contribuer plus en amont chaque membre de l'équipe.
+
+
 
 ### [ 🔗](https://emojipedia.org/link/) Des liens pour aller plus loin 
 
