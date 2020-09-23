@@ -10,14 +10,14 @@
 
 * La mélange de professionnels techniques \(les ingénieurs\) et créatifs \(les architectes\) et un client \(le maître d'ouvrage\)
 * Un format d'échange le code pour le développement, une maquette BIM pour le bâtiment
-
-
+* Un avancement depuis une [esquisse jusqu'à la réalisation ](../methode-agile-bim/projet-construction-agile.md)
 
 ### Ce qui est différent
 
-* Le bâtiment c'est du dur : difficile de démolir ce qui est fait en supprimer des fichiers
+* Le bâtiment c'est du dur : difficile de démolir ce qui est fait en supprimant des fichiers
 * Les membres de l'équipes ne sont pas une seule société et ne partagent pas les même locaux 
-* La possibilité de varier les fonctionnalités pour le MVP, la première version du logiciel est partiellement faisable en bâtiment. 
+* La possibilité de varier les fonctionnalités pour le MVP, la première version du logiciel est partiellement faisable en bâtiment ou il faut déja énormément de choses pour que le bâtiment  soit utilisable et ou la modification du bâti est toujours complexe
+* En IT, on construit tout de suite, dès les premières lignes de codes, le logiciel peut être fonctionnel. Dans le bâtiment, il y a deux phases : la conception et la réalisations qui sont opérés par les acteurs différents.
 
 
 
