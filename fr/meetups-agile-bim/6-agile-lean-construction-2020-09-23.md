@@ -32,7 +32,34 @@ A venir...sur notre [chaîne you tube](https://www.youtube.com/channel/UCTjcoh15
 
 ### 👷‍♀️ Les participants 🙍🙎‍♂️
 
-A venir...
+#### Les organisateurs
+
+* François Muzard
+* Billel Zedazi
+* Sébastien Lucas
+
+#### Le présentateur
+
+* Vincent Morael 
+
+#### Le public
+
+* Anthony Carta 
+* Aurélie Maury
+* Bédis Damergi
+* David Ravigneaux
+* J.L. Romano
+* Laurent Coydon
+* Marie Baal 
+* Marie Rouleau
+* Marie-Christine Duong
+* Mourad Bencheikh
+* O.L. Ely
+* Olivier Farlotti
+* Victoire Schellenberg
+* Inventive.city
+
+
 
 ### ☝️ La discussion  
 
@@ -57,6 +84,8 @@ Mais au début il faut être clair sur pourquoi on va avoir besoin du BIM.
 Le management visuel est un point commun entre le BIM et le LEAN. 
 
 Mais c'est également un outil de collaboration, qui permet de faire contribuer plus en amont chaque membre de l'équipe.
+
+
 
 
 
