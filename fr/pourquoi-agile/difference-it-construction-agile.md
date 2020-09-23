@@ -1,4 +1,10 @@
-# Différence entre l'IT et la construction
+---
+description: >-
+  Ce qui est comparable ou pas dans l'agilité appliquée dans  l'IT ou dans le
+  bâtiment
+---
+
+# Différences entre l'IT et la construction
 
 [Vous pouvez contribuer ! ](../communaute-agile-bim/contribuer.md)
 
