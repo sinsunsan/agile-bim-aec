@@ -31,7 +31,7 @@
   * [Problèmes de l'approche traditionnelle](fr/pourquoi-agile/problemes-projets-construction.md)
   * [Que peut apporter l'approche Agile ?](fr/pourquoi-agile/solutions-methodes-agile-construction.md)
   * [Différences entre l'IT et la construction](fr/pourquoi-agile/difference-it-construction-agile.md)
-  * [Différences entre le bâtiment et l'industrie](fr/pourquoi-agile/differences-entre-le-batiment-et-lindustrie.md)
+  * [Différences entre le bâtiment et l'industrie](fr/pourquoi-agile/difference-industrie-construction-agile.md)
 * [🎢 Retour d'expériences](fr/retour-experience.md)
 * [🙌 Rejoindre la communauté](fr/communaute-agile-bim/README.md)
   * [🖋️ Contribuer à AgileBIM.org](fr/communaute-agile-bim/contribuer.md)
