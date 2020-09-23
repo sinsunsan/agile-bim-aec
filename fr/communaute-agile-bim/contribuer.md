@@ -8,7 +8,8 @@ Si vous êtes intéressé par l'agilité appliquée à l'architecture et à la c
 
 **Comment  contribuer ?** 
 
-*  Rejoignez notre [slack](https://communityinviter.com/apps/agile-bim/agile-bim) et la chaîne agilebim-org
+*  Rejoignez notre [slack](https://communityinviter.com/apps/agile-bim/agile-bim) et la chaîne **contribute-to-agilebim-org**
+* J'ai partagé un lien pour devenir éditeur du wiki
 * Devenez éditeur du WIKI sur [gitbook](https://app.gitbook.com/invite/agilebim?invite=-LfYge_EcAUks2zJxscv) Vous pourrez alors modifier ce site de manière très simple. 
 
 ![](../../.gitbook/assets/screen-shot-2019-12-20-at-18.52.47.png)

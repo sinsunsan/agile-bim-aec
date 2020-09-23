@@ -30,7 +30,7 @@ A venir...sur notre [chaîne you tube](https://www.youtube.com/channel/UCTjcoh15
 
 
 
-### 👷‍♀️ Les participants 🙍🙎‍♂️
+### 👷‍♀️ Les 20 participants 🙍🙎‍♂️
 
 #### Les organisateurs
 
@@ -58,12 +58,13 @@ A venir...sur notre [chaîne you tube](https://www.youtube.com/channel/UCTjcoh15
 * Olivier Farlotti
 * Victoire Schellenberg
 * Inventive.city
-
-
+* Bob Eponge
+* Daibis Rachid
+* Dorothée Citerne
 
 ### ☝️ La discussion  
 
-#### Est-ce que Lean peut se décomposer en méthode ?
+#### Est-ce que Lean peut se décomposer en méthode / pratiques comme l'Agile ?
 
 Oui,  il y a au moins une vingtaine d'outil, qui peuvent être utilisé : 
 
@@ -84,6 +85,32 @@ Mais au début il faut être clair sur pourquoi on va avoir besoin du BIM.
 Le management visuel est un point commun entre le BIM et le LEAN. 
 
 Mais c'est également un outil de collaboration, qui permet de faire contribuer plus en amont chaque membre de l'équipe.
+
+#### Snohetta et le LEAN
+
+Snohetta a utilisé une méthode itérative 
+
+{% embed url="https://snohetta.com/projects/505-lean-methodology-in-design-and-construction" %}
+
+#### La conception itérative
+
+Le lean peut se combiner avec l'agile. L'agilité permet de régler les sprints, et le lean permet de fixer un retro-planning pour le client. [Last planner system ](https://www.oedo-conseil.fr/qu-est-ce-que-le-lps-last-planner-system/)est vraiment un outil de base du lean. Chaque semaine on fait le point sur ce qui est fait, à faire.... 
+
+![R&#xE9;union de chantier en LEAN construction](../../.gitbook/assets/oedo_titre-last-planer-system-2.jpg)
+
+{% hint style="danger" %}
+Si les équipes refusent d'être dans cette dynamique, elle ne vont pas jouer le jeu.
+{% endhint %}
+
+### Le frame work  safe se dit agile + lean
+
+Il y a très peu de chose qui s'oppose entre les pratiques LEAN et l'AGILE. 
+
+Par exemple l'amélioration continue est à la base du Lean et de l'Agile. le scrum est plus précis sur ce point en fixant quand on se rencontre. 
+
+Toutes les équipes agile utilisent un tableau Kanban.
+
+Beaucoup de choses se retrouvent entre le bâtiment et l'IT.  Mais aussi des différences.
 
 
 
