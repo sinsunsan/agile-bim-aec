@@ -22,7 +22,7 @@ Pour en savoir plus [www.coeff.fr](http://www.coeff.fr/)
 
 ### 📽️ La vidéo 
 
-A venir...
+A venir...sur notre [chaîne you tube](https://www.youtube.com/channel/UCTjcoh157n3hxKCxpEvfqeQ)
 
 ### 🖼️ Les slides 
 

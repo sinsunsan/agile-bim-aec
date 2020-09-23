@@ -14,6 +14,7 @@ Participer aux échanges aux travers de nos différents groupes :
 
 * le [Groupe Linkedin](https://www.linkedin.com/groups/8584849/)
 * le [Slack](https://communityinviter.com/apps/agile-bim/agile-bim) 
+* la chaîne [Youtube](https://www.youtube.com/channel/UCTjcoh157n3hxKCxpEvfqeQ) 
 * le [Groupe sur meetup](https://www.meetup.com/fr-FR/collaborative-architecture/)
 * le [Podcast Agile BIM](https://anchor.fm/agile-bim)
 
