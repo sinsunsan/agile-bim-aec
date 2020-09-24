@@ -22,7 +22,9 @@ Pour en savoir plus [www.coeff.fr](http://www.coeff.fr/)
 
 ### 📽️ La vidéo 
 
-A venir...sur notre [chaîne you tube](https://www.youtube.com/channel/UCTjcoh157n3hxKCxpEvfqeQ)
+{% embed url="https://www.youtube.com/watch?v=7vSkIArJ\_w0&feature=youtu.be" %}
+
+Découvrez notre [chaîne you tube](https://www.youtube.com/channel/UCTjcoh157n3hxKCxpEvfqeQ) pour s'abonner à nos videos
 
 ### 🖼️ Les slides 
 
@@ -121,10 +123,6 @@ Il faut une liste des livrables qui permet à chacun de savoir ce qu'il doit fai
 Est-ce que c'est contradictoire avec la méthode agile ? 
 
 En IT ou peut faire varier les fonctionnalités pour garder la qualité, mais est ce possible en bâtiment ? 
-
-
-
-
 
 ### [ 🔗](https://emojipedia.org/link/) Des liens pour aller plus loin 
 
