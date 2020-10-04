@@ -4,7 +4,7 @@ description: 'Meetup #6 du 22/09/2020 en ligne'
 
 # 6 / Agile + LEAN
 
-### La page du meetup sur notre groupe Architecture collaborative
+### La page du meetup
 
 {% embed url="https://www.meetup.com/fr-FR/collaborative-architecture/events/272802999" %}
 
@@ -123,6 +123,10 @@ Il faut une liste des livrables qui permet à chacun de savoir ce qu'il doit fai
 Est-ce que c'est contradictoire avec la méthode agile ? 
 
 En IT ou peut faire varier les fonctionnalités pour garder la qualité, mais est ce possible en bâtiment ? 
+
+### Le ROTI \(les avis\)
+
+{% embed url="https://roti.express/share-survey/4YiqLsCLJyY9ERGtR" %}
 
 ### [ 🔗](https://emojipedia.org/link/) Des liens pour aller plus loin 
 
