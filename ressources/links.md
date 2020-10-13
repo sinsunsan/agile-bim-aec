@@ -4,15 +4,9 @@ description: Links on works and ressources about Agile in AEC and BIM
 
 # Links and bibliography
 
+### Brainstorming
+
 * Brainstorming technics: [http://www.liberatingstructures.com](http://www.liberatingstructures.com/)
-
-### Agile & AEC events
-
-* 2020/04/01: [Les méthodes Agiles dans le BIM avec François MUZARD](https://campus.hexabim.com/bim/Les-m-thodes-Agiles-dans-le-BIM-avec-Fran-ois-MUZARD/) sur HEXABIM.
-* 2020/02/12: [Agile BIM Standards](https://www.youtube.com/watch?v=oDnJULbMSy4) par Plannery
-* 2019/12/13: [Agile BIM avec Bricks](https://www.youtube.com/watch?v=VpJJFQRIdr4) à l'agora Autodesk BATIMAT
-* 2018/12/07: [BIM and Agile Mindset](https://www.youtube.com/watch?v=9DXiMh2I5oI) par Marcin Świerz
-* 2012/04/07: [Agile BIM Development Management Approach](https://www.youtube.com/watch?v=C7ojOGo_9JY) by Noureddin Omar
 
 ### Agile Hardware
 
@@ -38,6 +32,10 @@ description: Links on works and ressources about Agile in AEC and BIM
 ### Scrum
 
 * [Scrum: The Art of Doing Twice the Work in Half the Time](https://www.amazon.fr/Scrum-Doing-Twice-Work-Half/dp/038534645X) / Jeff Sutherland 2014 
+
+### Agile  en français
+
+* [https://blog.myagilepartner.fr](https://blog.myagilepartner.fr/index.php/2020/06/22/scrum-illustration/)
 
 ### More links
 

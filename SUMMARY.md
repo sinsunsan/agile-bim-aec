@@ -56,6 +56,8 @@
 ## Ressources
 
 * [Links and bibliography](ressources/links.md)
+* [Agile BIM Events](ressources/agile-bim-events.md)
+* [Youtube pages](ressources/youtube.md)
 * [Startups Agile AEC](ressources/startups.md)
 * [Licence CC](ressources/licence.md)
 
