@@ -31,6 +31,7 @@ description: Links on works and ressources about Agile in AEC and BIM
 
 ### Scrum
 
+* The scrum guide [https://www.scrumguides.org/docs/scrumguide/v2017/2017-Scrum-Guide-US.pdf\#zoom=100](https://www.scrumguides.org/docs/scrumguide/v2017/2017-Scrum-Guide-US.pdf#zoom=100)
 * [Scrum: The Art of Doing Twice the Work in Half the Time](https://www.amazon.fr/Scrum-Doing-Twice-Work-Half/dp/038534645X) / Jeff Sutherland 2014 
 
 ### Agile  en français
