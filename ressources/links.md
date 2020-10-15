@@ -28,6 +28,7 @@ description: Links on works and ressources about Agile in AEC and BIM
 ### Agile for AEC 
 
 * [A utilização da metodologia ágil scrum como estratégia para a otimização do desenvolvimento dos projetos de arquitetura](https://issuu.com/ricardomarinhodemattos/docs/a_utiliza____o_da_metodologia___gil) / Ricardo Gonzalez Marinho de Mattos 2015
+* [https://www.linkedin.com/pulse/bim-agile-almost-made-each-other-luiz-felipe-lima](https://www.linkedin.com/pulse/bim-agile-almost-made-each-other-luiz-felipe-lima/?trackingId=e%2Fglm6bhmnGnTOHisVWOIQ%3D%3D)
 
 ### Scrum
 
