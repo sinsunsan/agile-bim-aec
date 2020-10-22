@@ -4,7 +4,7 @@
 
 Découvrez l'épisode sur le daily du podcast Agile BIM
 
-{% page-ref page="../le-podcast-agile-bim/1-le-daily-meeting.md" %}
+{% page-ref page="../podcast-agile-bim/1-le-daily-meeting-aec.md" %}
 
 
 
