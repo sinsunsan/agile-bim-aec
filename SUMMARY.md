@@ -20,7 +20,7 @@
   * [⏳ Temps passé / Objectif 🎯](fr/boite-outil-agile/time-tracking-vs-objectifs.md)
 * [👷‍♀️ Les meetups](fr/meetups-agile-bim/README.md)
   * [7/ Agile + openBIM](fr/meetups-agile-bim/meetup-agile-bim-open-bim-david-delgado-vendrell-2020-11-04.md)
-  * [6 / Agile + LEAN](fr/meetups-agile-bim/meetup-agile-lean-construction-2020-09-23.md)
+  * [6 / Agile + LEAN](fr/meetups-agile-bim/meetup-agile-lean-construction-vincent-morael2020-09-23.md)
   * [5 / Conception par les tests](fr/meetups-agile-bim/meetup-talan-labs-2020-02-24.md)
   * [4 / Pratiques agile dans le bâtiment](fr/meetups-agile-bim/meetup-valode-pistre-2019-12-09.md)
   * [3/ Les freins à l'Agile dans le BTP](fr/meetups-agile-bim/meetup-enia-2019-10-14.md)
