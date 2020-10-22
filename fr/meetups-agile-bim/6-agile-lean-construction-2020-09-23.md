@@ -4,6 +4,8 @@ description: 'Meetup #6 du 22/09/2020 en ligne'
 
 # 6 / Agile + LEAN
 
+![Agile BIM meetup \#6 avec Vincent Morael](../../.gitbook/assets/agile-bim-meetup-lean-agile-vincent-morael.png)
+
 ### La page du meetup
 
 {% embed url="https://www.meetup.com/fr-FR/collaborative-architecture/events/272802999" %}
