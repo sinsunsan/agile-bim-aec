@@ -19,6 +19,7 @@
   * [Modélisation en binôme](fr/boite-outil-agile/travail-binome.md)
   * [⏳ Temps passé / Objectif 🎯](fr/boite-outil-agile/time-tracking-vs-objectifs.md)
 * [👷‍♀️ Les meetups](fr/meetups-agile-bim/README.md)
+  * [7/ Agile + openBIM](fr/meetups-agile-bim/7-agile-+-openbim.md)
   * [6 / Agile + LEAN](fr/meetups-agile-bim/6-agile-lean-construction-2020-09-23.md)
   * [5 / Conception par les tests](fr/meetups-agile-bim/meetup-talan-labs-2020-02-24.md)
   * [4 / Pratiques agile dans le bâtiment](fr/meetups-agile-bim/meetup-valode-pistre-2019-12-09.md)
