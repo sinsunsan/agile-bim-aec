@@ -8,6 +8,7 @@
 * Prendre en compte les avis et l'expérience de tous les acteurs 
 * Sécuriser le développement du projet en fonctionnant par itérations 
 * Limiter les problèmes de chantier avec la conception par les tests...
+* Limiter les charrettes et réduire le turnover dans les équipes
 * ...
 
 D'autres avantages de l'agile ? [Contribuer à cette liste](../communaute-agile-bim/contribuer.md) !
