@@ -114,7 +114,7 @@ Par exemple l'amélioration continue est à la base du Lean et de l'Agile. le sc
 
 Toutes les équipes agile utilisent un tableau Kanban.
 
-Beaucoup de choses se retrouvent entre le bâtiment et l'IT.  Mais aussi des différences. Comme on peut le voir dans cette [page](../pourquoi-agile/difference-it-construction-agile.md).
+Beaucoup de choses se retrouvent entre le bâtiment et l'IT.  Mais aussi des différences. Comme on peut le voir dans cette [page](../agile-architecture-construction/difference-it-construction-agile.md).
 
 ### Un sprint par phase ?
 
