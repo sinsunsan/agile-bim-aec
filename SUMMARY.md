@@ -31,7 +31,7 @@
   * [\#1 / Le daily meeting](fr/podcast-bim-agile-bim/1-le-daily-meeting-aec.md)
 * [🏗️  l'Agile dans l'architecture et la construction ?](fr/agile-architecture-construction/README.md)
   * [Problèmes de l'approche traditionnelle](fr/agile-architecture-construction/problemes-projets-construction.md)
-  * [Que peut apporter l'approche Agile ?](fr/agile-architecture-construction/solutions-methodes-agile-construction.md)
+  * [Qu'apporte l'approche Agile ?](fr/agile-architecture-construction/approches-agile-construction.md)
   * [Différences entre l'IT et la construction](fr/agile-architecture-construction/difference-it-construction-agile.md)
   * [Différences entre le bâtiment et l'industrie](fr/agile-architecture-construction/difference-industrie-construction-agile.md)
 * [🎢 Retour d'expériences](fr/retour-experience.md)
