@@ -43,6 +43,7 @@
 * [🚀 Agile BIM Method](en/agile-bim-method.md)
 * [🏗️  Agile in Architecture & construction](en/agile-architecture-construction/README.md)
   * [Problems of the traditional approach](en/agile-architecture-construction/problems-constructions-projects.md)
+  * [Benefits of Agile in AEC](en/agile-architecture-construction/agile-aec-benefits.md)
 * [🛠️ Agile toolbox](en/agile-toolbox/README.md)
   * [Standup meeting](en/agile-toolbox/standup-meeting.md)
   * [Project "demos"](en/agile-toolbox/project-demo.md)
