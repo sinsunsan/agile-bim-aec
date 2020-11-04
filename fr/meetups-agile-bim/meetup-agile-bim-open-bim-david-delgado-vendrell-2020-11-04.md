@@ -10,10 +10,6 @@
 
 
 
-### Slides 
-
-{% embed url="https://www.scribd.com/document/482864250/Agile-Bim-Meetup-7-David-Vendrell" %}
-
 
 
 
