@@ -1,3 +1,7 @@
+---
+description: A si
+---
+
 # 7/ Agile + openBIM
 
 ![](../../.gitbook/assets/meetup7-cover-agile--bim-openbim-david-delgado-vendrell-v3.png)
@@ -10,9 +14,15 @@
 
 
 
+![](../../.gitbook/assets/screen-shot-2020-11-04-at-17.51.48.png)
 
 
 
+![](../../.gitbook/assets/screen-shot-2020-11-04-at-19.35.39.png)
+
+
+
+![](../../.gitbook/assets/screen-shot-2020-11-04-at-18.43.47.png)
 
 
 
