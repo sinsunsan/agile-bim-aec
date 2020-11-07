@@ -1,7 +1,3 @@
----
-description: A si
----
-
 # 7/ Agile + openBIM
 
 ![](../../.gitbook/assets/meetup7-cover-agile--bim-openbim-david-delgado-vendrell-v3.png)
@@ -11,6 +7,8 @@ description: A si
 👉 LinkedIn Event page [https://www.linkedin.com/events/6724791659042799616/](https://www.linkedin.com/events/6724791659042799616/)
 
 👉 Meetup Event page [https://www.meetup.com/fr-FR/collaborative-architecture/events/273795376/](https://www.meetup.com/fr-FR/collaborative-architecture/events/273795376/)
+
+{% embed url="https://www.scribd.com/document/483304175/Simplified-Agile-approach-into-an-openBIM-production-small-practice-by-David-Delgado-Vendrell-Agile-BIM-Meetup-7" %}
 
 
 
