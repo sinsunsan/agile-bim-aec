@@ -29,11 +29,12 @@ description: Links on works and ressources about Agile in AEC and BIM
 
 * [A utilização da metodologia ágil scrum como estratégia para a otimização do desenvolvimento dos projetos de arquitetura](https://issuu.com/ricardomarinhodemattos/docs/a_utiliza____o_da_metodologia___gil) / Ricardo Gonzalez Marinho de Mattos 2015
 * [https://www.linkedin.com/pulse/bim-agile-almost-made-each-other-luiz-felipe-lima](https://www.linkedin.com/pulse/bim-agile-almost-made-each-other-luiz-felipe-lima/?trackingId=e%2Fglm6bhmnGnTOHisVWOIQ%3D%3D)
-* [https://hal.univ-lorraine.fr/tel-02157569v3/document](https://hal.univ-lorraine.fr/tel-02157569v3/document) Vers une conception architecturale BIM-agile : proposition d’un ensemble de pratiques collaboratives en vue d’une meilleure appropriation de la technologie BIM by Henri-Jean Gless
+* [Vers une conception architecturale BIM-agile : proposition d’un ensemble de pratiques collaboratives en vue d’une meilleure appropriation de la technologie BIM](https://hal.univ-lorraine.fr/tel-02157569v3/document%20)  /  Henri-Jean Gless 2020
+* English version : [Towards a BIM-Agile Method in Architectural Design Assessment of a Pedagogical Experiment](https://hal.archives-ouvertes.fr/hal-02544377/document)  /  Henri-Jean Gless 2020
 
 ### Scrum
 
-* The scrum guide [https://www.scrumguides.org/docs/scrumguide/v2017/2017-Scrum-Guide-US.pdf\#zoom=100](https://www.scrumguides.org/docs/scrumguide/v2017/2017-Scrum-Guide-US.pdf#zoom=100)
+* [The scrum guide](https://www.scrumguides.org/docs/scrumguide/v2017/2017-Scrum-Guide-US.pdf#zoom=100) 
 * [Scrum: The Art of Doing Twice the Work in Half the Time](https://www.amazon.fr/Scrum-Doing-Twice-Work-Half/dp/038534645X) / Jeff Sutherland 2014 
 
 ### Agile  en français
