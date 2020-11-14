@@ -1,5 +1,7 @@
 # Le standup ou daily meeting
 
+![Le daily meeting devant un tableau Kanban](../../.gitbook/assets/undraw_scrum_board_cesn.png)
+
 ### C'est quoi
 
 Faire le point sur le projet avec **tous les intervenants** idéalement ****tous les jours ****pendant une durée de 15 minutes environ. Cela permet que chacun soit au courant de l'état d'avancement et de lever très rapidement de possible blocages.  
