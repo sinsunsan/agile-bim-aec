@@ -35,3 +35,9 @@ Découvrez l'épisode sur le daily du podcast Agile BIM
 
 [Vous pouvez contribuer ! ](../communaute-agile-bim/contribuer.md)
 
+### In English 
+
+{% page-ref page="../../en/agile-toolbox/standup-meeting.md" %}
+
+
+
