@@ -43,6 +43,7 @@
 
 ## In English <a id="en"></a>
 
+* [Agile benefits](en/agile-benefits.md)
 * [🚀 Agile BIM Method](en/agile-bim-method.md)
 * [🏗️  Agile in Architecture & construction](en/agile-architecture-construction/README.md)
   * [Problems of the traditional approach](en/agile-architecture-construction/problems-constructions-projects.md)
