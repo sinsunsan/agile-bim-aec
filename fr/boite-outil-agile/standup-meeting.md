@@ -2,17 +2,17 @@
 
 ![Le daily meeting devant un tableau Kanban](../../.gitbook/assets/undraw_scrum_board_cesn.png)
 
-### Comment ça marche
+### Qu'est-ce que le standup ou daily meeting
 
 Faire le point sur le projet avec **tous les intervenants** idéalement ****tous les jours ****pendant une durée de 15 minutes environ. Cela permet que chacun soit au courant de l'état d'avancement et de lever très rapidement de possible blocages.  
 
-### Quel bénéfice attendre 
+### Pourquoi ça change la donne
 
 * Ne plus perdre de temps à attendre des réponses
 * Avoir une idée très claire d’où le projet en est 
 *  Renforcer la notion d'équipe 
 
-### Les pièges 
+### Les pièges à éviter
 
 * Le daily se transforme en suivi d'avancement
 * Un daily soit trop long et technique et augmente la charge de réunion 
@@ -29,7 +29,7 @@ Faire le point sur le projet avec **tous les intervenants** idéalement ****tous
 
 ### Pour approfondir 
 
-Découvrez l'épisode sur le daily du podcast Agile BIM
+Découvrez l'épisode sur le daily du podcast Agile BIM 
 
 {% page-ref page="../podcast-bim-agile-bim/1-le-daily-meeting-aec.md" %}
 

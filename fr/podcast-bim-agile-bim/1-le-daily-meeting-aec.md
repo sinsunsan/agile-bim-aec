@@ -4,9 +4,9 @@ description: >-
   d'architecture
 ---
 
-# \#1 / Le daily meeting
+# 1 / Le daily meeting
 
-{% embed url="https://anchor.fm/agile-bim/episodes/Tester-le-standup-meeting-dans-votre-projet-de-batiment-ea7f7p" %}
+{% embed url="https://anchor.fm/agile-bim/episodes/Tester-le-standup-meeting-dans-votre-projet-de-batiment-ea7f7p" caption="Agile BIM podcast 1 / Le daily ou standup meeting" %}
 
 ### A propos du Podcast AgileBIM
 
