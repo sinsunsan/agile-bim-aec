@@ -11,7 +11,7 @@
   * [Projet de construction Agile](fr/methode-agile-bim/projet-construction-agile.md)
 * [🛠️ Boîte à outil Agile](fr/boite-outil-agile/README.md)
   * [Le standup ou daily meeting](fr/boite-outil-agile/standup-meeting.md)
-  * [Travailler par itérations](fr/boite-outil-agile/iterations.md)
+  * [Travailler par itérations](fr/boite-outil-agile/iterations-courtes.md)
   * [Priorisation / Storyboard](fr/boite-outil-agile/priorisation-storyboard.md)
   * [Les "demos" du projet](fr/boite-outil-agile/demos-projet.md)
   * [Les retours de l'utilisateur](fr/boite-outil-agile/retours-utilisateurs.md)

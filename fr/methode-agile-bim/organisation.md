@@ -35,6 +35,8 @@ Les équipes auront aussi à cœur de finaliser le travail en cours le vendredi 
 
 La maquette devient ainsi le centre du développement du projet.
 
+{% page-ref page="../boite-outil-agile/iterations-courtes.md" %}
+
 ## Mesurer l’avancement
 
 Du côté du chef de projet ou du client, il faut des outils pour suivre jour après jour l’avancement du projet et des équipes afin de coordonner au mieux les efforts de tous, ou ajuster les besoins et le programme.
