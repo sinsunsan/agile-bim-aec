@@ -9,6 +9,8 @@ Globalement toutes les bonnes pratiques venues des méthodes agile peuvent être
 * le SCRUMban
 * l'eXtreme programming
 
+![Une &#xE9;quipe projet Agile dans la construction](../../.gitbook/assets/equipe-projet-agile-bim.png)
+
 À minima, les points suivants sont les plus importants :
 
 ## Rôle et responsabilité des acteurs
