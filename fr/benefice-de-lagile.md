@@ -11,3 +11,5 @@ Mais au fait quels sont les principaux bénéfices de la méthode Agile et notam
 
 ![B&#xE9;n&#xE9;fice des approches l&apos;agile](../.gitbook/assets/agile-bim-benefices.png)
 
+
+
