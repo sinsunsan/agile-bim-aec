@@ -4,6 +4,7 @@
 
 ## En Français <a id="fr"></a>
 
+* [Bénéfice de l'Agile](fr/benefice-de-lagile.md)
 * [🚀 La méthode Agile BIM](fr/methode-agile-bim/README.md)
   * [Qu'est-ce que le BIM Agile](fr/methode-agile-bim/bim-agile.md)
   * [Les valeurs agiles](fr/methode-agile-bim/valeurs-agiles.md)
@@ -64,6 +65,7 @@
 
 * [Links and bibliography](ressources/links.md)
 * [Agile BIM Events](ressources/agile-bim-events.md)
+* [Agile BIM software](ressources/agile-bim-software.md)
 * [Youtube pages](ressources/youtube.md)
 * [Startups Agile AEC](ressources/startups.md)
 * [Licence CC](ressources/licence.md)
