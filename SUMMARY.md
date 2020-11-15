@@ -4,7 +4,7 @@
 
 ## En Français <a id="fr"></a>
 
-* [Bénéfice de l'Agile](fr/benefice-de-lagile.md)
+* [🎯 Bénéfice de l'Agile](fr/benefice-de-lagile.md)
 * [🚀 La méthode Agile BIM](fr/methode-agile-bim/README.md)
   * [Qu'est-ce que le BIM Agile](fr/methode-agile-bim/bim-agile.md)
   * [Les valeurs agiles](fr/methode-agile-bim/valeurs-agiles.md)
@@ -43,7 +43,7 @@
 
 ## In English <a id="en"></a>
 
-* [Agile benefits](en/agile-benefits.md)
+* [🎯Agile benefits](en/agile-benefits.md)
 * [🚀 Agile BIM Method](en/agile-bim-method.md)
 * [🏗️  Agile in Architecture & construction](en/agile-architecture-construction/README.md)
   * [Problems of the traditional approach](en/agile-architecture-construction/problems-constructions-projects.md)
