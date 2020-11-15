@@ -18,7 +18,7 @@
   * [Les retours de l'utilisateur](fr/boite-outil-agile/retours-utilisateurs.md)
   * [Les rétrospectives](fr/boite-outil-agile/restrospectives.md)
   * [L'amélioration continue](fr/boite-outil-agile/amelioration-continue.md)
-  * [Modélisation en binôme](fr/boite-outil-agile/travail-binome.md)
+  * [Conception en binôme](fr/boite-outil-agile/travail-binome.md)
   * [⏳ Temps passé / Objectif 🎯](fr/boite-outil-agile/time-tracking-vs-objectifs.md)
   * [Tableau Kanban / Board](fr/boite-outil-agile/tableau-kanban-board.md)
 * [👷‍♀️ Les meetups](fr/meetups-agile-bim/README.md)
