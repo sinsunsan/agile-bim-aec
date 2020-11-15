@@ -6,3 +6,5 @@ Au-delà des outils, c’est avant tout l’innovation managériale, qui a permi
 
 Nous développerons ici une nouvelle approche du management BIM : l'**agile BIM**.
 
+
+

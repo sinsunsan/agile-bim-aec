@@ -41,3 +41,7 @@ description: L'application de la méthode agile a toute les phases d'un projet
 
 **Méthodes agiles** : Lean construction, Kanban
 
+{% hint style="info" %}
+[Vous pouvez améliorer cet article ! ](../communaute-agile-bim/contribuer.md)
+{% endhint %}
+

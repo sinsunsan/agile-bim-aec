@@ -51,3 +51,7 @@ Cela peut se faire au niveau du groupement après chaque phase et dans les équi
 
 Il est possible également de travailler sur le format des réunions de lancement de projet. Par exemple en en profitant que tous les acteurs soient réunis, pour faire des formations croisées entre les équipes et apprendre à se connaître.
 
+{% hint style="info" %}
+[Vous pouvez améliorer cet article ! ](../communaute-agile-bim/contribuer.md)
+{% endhint %}
+
