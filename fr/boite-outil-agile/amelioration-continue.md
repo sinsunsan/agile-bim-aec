@@ -1,4 +1,6 @@
 # L'amélioration continue
 
-[Vous pouvez contribuer ! ](../communaute-agile-bim/contribuer.md)
+{% hint style="info" %}
+[Vous pouvez améliorer cet article ! ](../communaute-agile-bim/contribuer.md)
+{% endhint %}
 

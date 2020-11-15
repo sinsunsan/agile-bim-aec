@@ -1,11 +1,5 @@
 # Les rétrospectives
 
-![](../../.gitbook/assets/retrospective-team-building-agile-bim.png)
-
-
-
-
-
 
 
 {% hint style="info" %}
