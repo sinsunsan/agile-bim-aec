@@ -27,11 +27,15 @@ Faire le point sur le projet avec **tous les intervenants** idéalement ****tous
 * Si ces réunions sont à distance choisir une solution de board virtuel et de réunion en ligne 
 * Créer un événement d'agenda partagé pour rappeler la réunion 
 
+{% hint style="info" %}
+[Vous pouvez améliorer cet article ! ](../communaute-agile-bim/contribuer.md)
+{% endhint %}
+
 ### Pour approfondir 
 
 Découvrez l'épisode sur le daily du podcast Agile BIM 
 
-{% page-ref page="../podcast-bim-agile-bim/1-le-daily-meeting-aec.md" %}
+{% embed url="https://open.spotify.com/show/75fEAJASs5baQJQrZBQWJC?si=NkIKd9jUQ06BhnoEwkDoug" %}
 
 [Vous pouvez contribuer ! ](../communaute-agile-bim/contribuer.md)
 

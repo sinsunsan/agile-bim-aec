@@ -35,11 +35,13 @@ En pratique, voila ce que vous pouvez faire :
 * Préférez une itération modeste mais qui se termine comme prévu, à une itération trop ambitieuse mais ou la moitié des points ne seront à la fin par traité. En effet choisir pour ne garder que le plus important est au cœur des approches agiles.
 * Une fois l'itération terminée, il est important d'en tirer des conclusions en faisant une [demo](demos-projet.md) avec les parties prenantes \(maître d'ouvrage, équipe projet...\) et si possible une [retrospective](../../en/agile-toolbox/restrospective.md)  en interne pour bien analyser comment s'est passer l'itération. Dans un but de progresser et d'apprendre, c'est  l'[amélioration continue](amelioration-continue.md).
 
+{% hint style="info" %}
+[Vous pouvez améliorer cet article ! ](../communaute-agile-bim/contribuer.md)
+{% endhint %}
+
 ### Pour approfondir
 
 Découvrez l'épisode sur les itérations courtes du podcast Agile BIM
 
 {% embed url="https://open.spotify.com/episode/4Z7C1a0WUIIfNTHuDZq5dA" %}
-
-[Vous pouvez améliorer cet article ! ](../communaute-agile-bim/contribuer.md)
 
