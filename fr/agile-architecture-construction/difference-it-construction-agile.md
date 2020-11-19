@@ -10,13 +10,13 @@ description: >-
 
 ### Logiciel 
 
-![](../../.gitbook/assets/photo-1551434678-e076c223a692.jpeg)
+![D&#xE9;veloppeurs](../../.gitbook/assets/photo-1551434678-e076c223a692.jpeg)
 
 vs 
 
 ### Architecture
 
-![](../../.gitbook/assets/photo-1503387762-592deb58ef4e.jpeg)
+![Architectes](../../.gitbook/assets/architects.jpg)
 
 ### Ce qui est pareil ou similaire
 
