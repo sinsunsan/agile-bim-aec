@@ -24,7 +24,7 @@ So let's try to lay down the principles of Agile BIM applied to AEC industry !
 
 {% page-ref page="en/agile-bim-community/" %}
 
-{% page-ref page="en/agile-architecture-construction/agile-aec-benefits.md" %}
+{% page-ref page="en/agile-benefits.md" %}
 
 {% page-ref page="fr/meetups-agile-bim/" %}
 
