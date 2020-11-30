@@ -1,10 +1,14 @@
 # Merrick / Virtual reality Meetings
 
-### Recipe they use: 
+### By Who : 
+
+* [https://www.merrick.com](https://www.merrick.com/)
+
+### Agile BIM recipes used: 
 
 * [Demo](../agile-toolbox/project-demo.md) and virtual reality 
 
-### Software they use: 
+### Software used: 
 
 * BIM 360
 * Insite VR
