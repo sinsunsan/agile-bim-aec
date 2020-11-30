@@ -58,6 +58,7 @@
   * [Pair modeling](en/agile-toolbox/pair-working.md)
   * [⏳ Time vs Objective 🎯](en/agile-toolbox/time-tracking-vs-target.md)
 * [🎢 Use cases](en/use-cases.md)
+* [Merrick / Virtual reality Meetings](en/merrick-virtual-reality-meetings.md)
 * [👷‍♀️ Meetups](en/agile-bim-meetups/README.md)
   * [\#3/ ENIA](en/agile-bim-meetups/meetup-14-10-2019.md)
 * [🙌 Join Agile BIM community](en/agile-bim-community/README.md)
