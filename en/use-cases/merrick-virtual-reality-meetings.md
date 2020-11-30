@@ -2,7 +2,7 @@
 
 ### Recipe they use: 
 
-* [Demo](agile-toolbox/project-demo.md) and virtual reality 
+* [Demo](../agile-toolbox/project-demo.md) and virtual reality 
 
 ### Software they use: 
 
