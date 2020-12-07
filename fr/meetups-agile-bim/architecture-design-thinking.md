@@ -15,7 +15,7 @@ description: Design thinking applied to architecture and construction (AEC)
 
 
 {% hint style="info" %}
-Don't miss any meetup
+Don't miss an Agile meetup
 
 👉 subscribe to our [Youtube page ](https://www.youtube.com/channel/UCTjcoh157n3hxKCxpEvfqeQ)  
 👉 Join our [linkedin page](https://www.linkedin.com/events/6732032311832969216/)  
