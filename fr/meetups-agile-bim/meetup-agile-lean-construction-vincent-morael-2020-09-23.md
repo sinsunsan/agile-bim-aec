@@ -2,7 +2,7 @@
 description: 'Meetup #6 du 22/09/2020 en ligne'
 ---
 
-# 6 / Agile + LEAN
+# 6 / Lean construction
 
 ![Agile BIM meetup \#6 avec Vincent Morael](../../.gitbook/assets/agile-bim-meetup-lean-agile-vincent-morael.png)
 

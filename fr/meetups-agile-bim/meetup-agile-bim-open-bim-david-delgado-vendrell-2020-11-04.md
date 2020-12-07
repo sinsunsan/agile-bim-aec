@@ -1,4 +1,4 @@
-# 7/ Agile + openBIM
+# 7/ Agile BIM & openBIM
 
 ![](../../.gitbook/assets/meetup7-cover-agile--bim-openbim-david-delgado-vendrell-v3.png)
 
