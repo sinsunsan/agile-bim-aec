@@ -6,6 +6,22 @@
 
 👉 Meetup Event page [https://www.meetup.com/fr-FR/collaborative-architecture/events/273795376/](https://www.meetup.com/fr-FR/collaborative-architecture/events/273795376/)
 
+👉 David Linkedin profile [https://www.linkedin.com/in/daviddelgadovendrell/](https://www.linkedin.com/in/daviddelgadovendrell/)
+
+### 📽️ The video on Youtube 
+
+{% embed url="https://www.youtube.com/watch?v=Ix8RU8\_lMUw&t=5s" %}
+
+
+
+{% hint style="info" %}
+Don't miss an Agile meetup
+
+👉 subscribe to our [Youtube page ](https://www.youtube.com/channel/UCTjcoh157n3hxKCxpEvfqeQ)  
+👉 Join our [linkedin page](https://www.linkedin.com/events/6732032311832969216/)  
+👉 Join our [meetup group](https://www.meetup.com/fr-FR/collaborative-architecture)  
+{% endhint %}
+
 ### 🖼️ The slides 
 
 {% embed url="https://www.scribd.com/document/483304175/Simplified-Agile-approach-into-an-openBIM-production-small-practice-by-David-Delgado-Vendrell-Agile-BIM-Meetup-7" %}

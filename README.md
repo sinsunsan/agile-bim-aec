@@ -42,7 +42,7 @@ So let's try to lay down the principles of Agile BIM applied to AEC industry !
 
 ### Agile BIM sponsors
 
-Agile BIM is sponsored and by [Bricks, the agile collaboration for architecture and construction](https://www.bricksapp.io?utm_medium=agileBIM&utm_campaign=page)
+Agile BIM is sponsored and by [Bricks, the agile collaboration app for architecture and construction](https://www.bricksapp.io?utm_medium=agileBIM&utm_campaign=page)
 
 ![Bricks Logo](.gitbook/assets/bricks-logo-2019_bricks-logo-full.png)
 
