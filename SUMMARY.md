@@ -61,7 +61,8 @@
 * [🎢 Use cases](en/use-cases/README.md)
   * [Merrick / Virtual reality Meetings](en/use-cases/merrick-virtual-reality-meetings.md)
 * [👷‍♀️ Meetups](en/agile-bim-meetups/README.md)
-  * [\#3/ ENIA](en/agile-bim-meetups/meetup-14-10-2019.md)
+  * [All meetups in english](en/agile-bim-meetups/all-meetups-in-english.md)
+  * [3/ Agile BIM barriers to adoption](en/agile-bim-meetups/agile-bim-adoption-barriers.md)
 * [🙌 Join Agile BIM community](en/agile-bim-community/README.md)
   * [🖋️ Contribute to AgileBIM.org](en/agile-bim-community/contribute.md)
 

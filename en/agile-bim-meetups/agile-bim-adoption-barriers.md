@@ -1,4 +1,4 @@
-# \#3/ ENIA
+# 3/ Agile BIM barriers to adoption
 
 ![Agile BIM meetup of 14/10/2019](../../.gitbook/assets/2019-10-14-agile-bim-meetup.jpg)
 
