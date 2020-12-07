@@ -6,7 +6,7 @@ description: Design thinking applied to architecture and construction (AEC)
 
 This week at the Agile BIM meetup we will talk about Design Thinking in the context of architecture & construction projects.  
   
-Luiz Felipe Conrado de Lima, a Brazilian architect & BIM manager will present us his experience in the field.   
+Luiz Felipe Conrado de Lima, a Brazilian architect & BIM and project manager will present us his experience in the field.   
   
 Don't miss it!
 
