@@ -37,9 +37,7 @@ Don't miss an Agile meetup
 
 ### 🖼️ The slides 
 
-Coming soon ! 
-
-
+{% embed url="https://www.scribd.com/document/487523447/Design-Thinking-Architecture-Construction-Agile-Bim-2020-12-9-by-Luiz-Felipe-Conrado-de-Lima" caption="Design Thinking / Agile BIM by Luiz Felipe Conrado de Lima" %}
 
 
 
