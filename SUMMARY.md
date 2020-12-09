@@ -22,7 +22,7 @@
   * [⏳ Temps passé / Objectif 🎯](fr/boite-outil-agile/time-tracking-vs-objectifs.md)
   * [Tableau Kanban / Board](fr/boite-outil-agile/tableau-kanban-board.md)
 * [👷‍♀️ Les meetups](fr/meetups-agile-bim/README.md)
-  * [8/ Architecture & Design thinking](fr/meetups-agile-bim/architecture-design-thinking.md)
+  * [8/ Architecture & Design thinking](fr/meetups-agile-bim/architecture-design-thinking-luiz-felipe-conrado-de-lima-2020-12-9.md)
   * [7/ Agile BIM & openBIM](fr/meetups-agile-bim/meetup-agile-bim-open-bim-david-delgado-vendrell-2020-11-04.md)
   * [6 / Lean construction](fr/meetups-agile-bim/meetup-agile-lean-construction-vincent-morael-2020-09-23.md)
   * [5 / Conception par les tests](fr/meetups-agile-bim/meetup-talan-labs-2020-02-24.md)
