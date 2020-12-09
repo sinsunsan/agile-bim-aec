@@ -47,6 +47,7 @@
 * [🎯Agile benefits](en/agile-benefits.md)
 * [🚀 Agile BIM Method](en/agile-bim-method/README.md)
   * [Team organizations](en/agile-bim-method/team-organizations.md)
+  * [Design thinking, Lean and Agile](en/agile-bim-method/design-thinking-lean-and-agile.md)
 * [🏗️  Agile in Architecture & construction](en/agile-architecture-construction/README.md)
   * [Problems of the traditional approach](en/agile-architecture-construction/problems-constructions-projects.md)
   * [Benefits of Agile in AEC](en/agile-architecture-construction/agile-aec-benefits.md)
