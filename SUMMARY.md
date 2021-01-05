@@ -1,6 +1,17 @@
 # Table of contents
 
-* [Agile For AEC](README.md)
+* [Agile in construction industry](README.md)
+* [👷‍♀️ Meetups](meetups-agile-bim/README.md)
+  * [Building performance & Scrum \#9](meetups-agile-bim/agile-construction-edward-murphy.md)
+  * [Architecture & Design thinking \#8](meetups-agile-bim/architecture-design-thinking-luiz-felipe-conrado-de-lima-2020-12-9.md)
+  * [Agile BIM & openBIM \#7](meetups-agile-bim/meetup-agile-bim-open-bim-david-delgado-vendrell-2020-11-04.md)
+  * [Lean construction \#6](meetups-agile-bim/meetup-agile-lean-construction-vincent-morael-2020-09-23.md)
+  * [Conception par les tests \#5](meetups-agile-bim/meetup-talan-labs-2020-02-24.md)
+  * [Pratiques agile dans le bâtiment \#4](meetups-agile-bim/meetup-valode-pistre-2019-12-09.md)
+  * [Les freins à l'Agile dans le BTP \#3](meetups-agile-bim/meetup-enia-freins-agile-btp-2019-10-14.md)
+  * [Agile BIM barriers to adoption \#3](meetups-agile-bim/agile-bim-adoption-barriers.md)
+  * [Atelier Agile construction : Négocier le programme \#2](meetups-agile-bim/meetup-2-programmation-agile-batiment-chez-woma.md)
+  * [La collaboration dans la construction \#1](meetups-agile-bim/meetup-1-chez-enia-collaboration-construction.md)
 
 ## En Français <a id="fr"></a>
 
@@ -21,16 +32,6 @@
   * [Conception en binôme](fr/boite-outil-agile/travail-binome.md)
   * [⏳ Temps passé / Objectif 🎯](fr/boite-outil-agile/time-tracking-vs-objectifs.md)
   * [Tableau Kanban / Board](fr/boite-outil-agile/tableau-kanban-board.md)
-* [👷‍♀️ Les meetups](fr/meetups-agile-bim/README.md)
-  * [9/  Building performance & Scrum / A case study by Edward Murphy](fr/meetups-agile-bim/scrum-architecture-edward-murphy-agile-bim.md)
-  * [8/ Architecture & Design thinking](fr/meetups-agile-bim/architecture-design-thinking-luiz-felipe-conrado-de-lima-2020-12-9.md)
-  * [7/ Agile BIM & openBIM](fr/meetups-agile-bim/meetup-agile-bim-open-bim-david-delgado-vendrell-2020-11-04.md)
-  * [6 / Lean construction](fr/meetups-agile-bim/meetup-agile-lean-construction-vincent-morael-2020-09-23.md)
-  * [5 / Conception par les tests](fr/meetups-agile-bim/meetup-talan-labs-2020-02-24.md)
-  * [4 / Pratiques agile dans le bâtiment](fr/meetups-agile-bim/meetup-valode-pistre-2019-12-09.md)
-  * [3/ Les freins à l'Agile dans le BTP](fr/meetups-agile-bim/meetup-enia-freins-agile-btp-2019-10-14.md)
-  * [2/ Négocier le programme](fr/meetups-agile-bim/meetup-2-programmation-agile-batiment-chez-woma.md)
-  * [1/ Améliorer  la collaboration dans la construction](fr/meetups-agile-bim/meetup-1-chez-enia-collaboration-construction.md)
 * [🎙️ Le podcast Agile BIM](fr/podcast-bim-agile-bim/README.md)
   * [2/ Les cycles courts dans le bâtiment](fr/podcast-bim-agile-bim/2-cycles-courts-iterations-batiment.md)
   * [1 / Le daily meeting](fr/podcast-bim-agile-bim/1-le-daily-meeting-aec.md)
@@ -62,9 +63,6 @@
   * [⏳ Time vs Objective 🎯](en/agile-toolbox/time-tracking-vs-target.md)
 * [🎢 Use cases](en/use-cases/README.md)
   * [Merrick / Virtual reality Meetings](en/use-cases/merrick-virtual-reality-meetings.md)
-* [👷‍♀️ Meetups](en/agile-bim-meetups/README.md)
-  * [All meetups in english](en/agile-bim-meetups/all-meetups-in-english.md)
-  * [3/ Agile BIM barriers to adoption](en/agile-bim-meetups/agile-bim-adoption-barriers.md)
 * [🙌 Join Agile BIM community](en/agile-bim-community/README.md)
   * [🖋️ Contribute to AgileBIM.org](en/agile-bim-community/contribute.md)
 

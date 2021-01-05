@@ -2,7 +2,7 @@
 description: The community of Agilist in architecture & construction industry (AEC)
 ---
 
-# Agile For AEC
+# Agile in construction industry
 
 ![Agile BIM / Make Architecture design iterative and transparent](.gitbook/assets/agile_bim.jpeg)
 
@@ -26,7 +26,7 @@ So let's try to lay down the principles of Agile BIM applied to AEC industry !
 
 {% page-ref page="en/agile-benefits.md" %}
 
-{% page-ref page="fr/meetups-agile-bim/" %}
+{% page-ref page="meetups-agile-bim/" %}
 
 {% page-ref page="en/agile-bim-method/" %}
 
