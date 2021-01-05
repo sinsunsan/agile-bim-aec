@@ -6,6 +6,8 @@
 
 {% page-ref page="../../fr/meetups-agile-bim/architecture-design-thinking-luiz-felipe-conrado-de-lima-2020-12-9.md" %}
 
+{% page-ref page="../../fr/meetups-agile-bim/scrum-architecture-edward-murphy-agile-bim.md" %}
+
 
 
 * To find all meetups description in french, you can click [here](../../fr/meetups-agile-bim/).
