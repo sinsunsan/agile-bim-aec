@@ -22,6 +22,7 @@
   * [⏳ Temps passé / Objectif 🎯](fr/boite-outil-agile/time-tracking-vs-objectifs.md)
   * [Tableau Kanban / Board](fr/boite-outil-agile/tableau-kanban-board.md)
 * [👷‍♀️ Les meetups](fr/meetups-agile-bim/README.md)
+  * [9/  Building performance & Scrum / A case study by Edward Murphy](fr/meetups-agile-bim/scrum-architecture-edward-murphy-agile-bim.md)
   * [8/ Architecture & Design thinking](fr/meetups-agile-bim/architecture-design-thinking-luiz-felipe-conrado-de-lima-2020-12-9.md)
   * [7/ Agile BIM & openBIM](fr/meetups-agile-bim/meetup-agile-bim-open-bim-david-delgado-vendrell-2020-11-04.md)
   * [6 / Lean construction](fr/meetups-agile-bim/meetup-agile-lean-construction-vincent-morael-2020-09-23.md)
