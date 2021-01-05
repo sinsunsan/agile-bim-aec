@@ -1,17 +1,17 @@
 # Table of contents
 
 * [Agile in construction industry](README.md)
-* [👷‍♀️ Meetups](meetups-agile-bim/README.md)
-  * [Building performance & Scrum \#9](meetups-agile-bim/agile-construction-edward-murphy.md)
-  * [Architecture & Design thinking \#8](meetups-agile-bim/architecture-design-thinking-luiz-felipe-conrado-de-lima-2020-12-9.md)
-  * [Agile BIM & openBIM \#7](meetups-agile-bim/meetup-agile-bim-open-bim-david-delgado-vendrell-2020-11-04.md)
-  * [Lean construction \#6](meetups-agile-bim/meetup-agile-lean-construction-vincent-morael-2020-09-23.md)
-  * [Conception par les tests \#5](meetups-agile-bim/meetup-talan-labs-2020-02-24.md)
-  * [Pratiques agile dans le bâtiment \#4](meetups-agile-bim/meetup-valode-pistre-2019-12-09.md)
-  * [Les freins à l'Agile dans le BTP \#3](meetups-agile-bim/meetup-enia-freins-agile-btp-2019-10-14.md)
-  * [Agile BIM barriers to adoption \#3](meetups-agile-bim/agile-bim-adoption-barriers.md)
-  * [Atelier Agile construction : Négocier le programme \#2](meetups-agile-bim/meetup-2-programmation-agile-batiment-chez-woma.md)
-  * [La collaboration dans la construction \#1](meetups-agile-bim/meetup-1-chez-enia-collaboration-construction.md)
+* [👷‍♀️ Meetups](meetups/README.md)
+  * [Building performance & Scrum \#9](meetups/agile-construction-edward-murphy.md)
+  * [Architecture & Design thinking \#8](meetups/architecture-design-thinking-luiz-felipe-conrado-de-lima-2020-12-9.md)
+  * [Agile BIM & openBIM \#7](meetups/meetup-agile-bim-open-bim-david-delgado-vendrell-2020-11-04.md)
+  * [Lean construction \#6](meetups/meetup-agile-lean-construction-vincent-morael-2020-09-23.md)
+  * [Conception par les tests \#5](meetups/meetup-talan-labs-2020-02-24.md)
+  * [Pratiques agile dans le bâtiment \#4](meetups/meetup-valode-pistre-2019-12-09.md)
+  * [Les freins à l'Agile dans le BTP \#3](meetups/meetup-enia-freins-agile-btp-2019-10-14.md)
+  * [Agile BIM barriers to adoption \#3](meetups/agile-bim-adoption-barriers.md)
+  * [Atelier Agile construction : Négocier le programme \#2](meetups/meetup-2-programmation-agile-batiment-chez-woma.md)
+  * [La collaboration dans la construction \#1](meetups/meetup-1-chez-enia-collaboration-construction.md)
 
 ## En Français <a id="fr"></a>
 
