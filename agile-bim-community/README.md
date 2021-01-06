@@ -1,6 +1,8 @@
-# 🙌 Join Agile BIM community
+---
+description: Agile BIM is open to all interested to agile in construction
+---
 
-![Agile BIM meetups](../.gitbook/assets/agile-bim-meetup.jpg)
+# 🙌 Join Agile BIM community
 
 ### Links to agile BIM community  
 
@@ -9,6 +11,10 @@
 * Agile BIM [meetups page on Linkedin ](https://www.linkedin.com/showcase/agile-bim/)
 * Agile BIM [meetups page on Meetup.org](https://www.meetup.com/fr-FR/collaborative-architecture)
 * Agile  BIM [group on Linkedin ](https://www.linkedin.com/groups/8584849/)
+
+
+
+![Agile BIM meetups](../.gitbook/assets/agile-bim-meetup.jpg)
 
   
 We regularly organize [meetups](https://www.meetup.com/fr-FR/collaborative-architecture/) and working groups to discuss agility in the field of architecture and construction. 
