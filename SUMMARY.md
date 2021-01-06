@@ -12,6 +12,8 @@
   * [Agile BIM barriers to adoption \#3](meetups/agile-bim-adoption-barriers.md)
   * [Atelier Agile construction : Négocier le programme \#2](meetups/meetup-2-programmation-agile-batiment-chez-woma.md)
   * [La collaboration dans la construction \#1](meetups/meetup-1-chez-enia-collaboration-construction.md)
+* [🙌 Join Agile BIM community](agile-bim-community/README.md)
+  * [🖋️ Contribute to AgileBIM.org](agile-bim-community/contribute.md)
 
 ## En Français <a id="fr"></a>
 
@@ -63,8 +65,6 @@
   * [⏳ Time vs Objective 🎯](en/agile-toolbox/time-tracking-vs-target.md)
 * [🎢 Use cases](en/use-cases/README.md)
   * [Merrick / Virtual reality Meetings](en/use-cases/merrick-virtual-reality-meetings.md)
-* [🙌 Join Agile BIM community](en/agile-bim-community/README.md)
-  * [🖋️ Contribute to AgileBIM.org](en/agile-bim-community/contribute.md)
 
 ## Ressources
 
