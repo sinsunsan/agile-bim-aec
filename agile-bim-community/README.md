@@ -6,11 +6,11 @@ description: Agile BIM is open to all interested to agile in construction
 
 ### Links to agile BIM community  
 
-* Agile BIM [Slack](http://bit.ly/agilebimslack) 
-* Agile BIM [youtube channel ](https://www.youtube.com/channel/UCTjcoh157n3hxKCxpEvfqeQ)
-* Agile BIM [meetups page on Linkedin ](https://www.linkedin.com/showcase/agile-bim/)
-* Agile BIM [meetups page on Meetup.org](https://www.meetup.com/fr-FR/collaborative-architecture)
-* Agile  BIM [group on Linkedin ](https://www.linkedin.com/groups/8584849/)
+* Agile BIM [Slack](http://bit.ly/agilebimslack)  to chat with other BIM agilist
+* Agile BIM [youtube channel ](https://www.youtube.com/channel/UCTjcoh157n3hxKCxpEvfqeQ) to watch meetups video and get notified when new video arrive
+* Agile BIM [meetups page on Linkedin ](https://www.linkedin.com/showcase/agile-bim/) to signin to our meetups
+* Agile BIM [meetups page on Meetup.org](https://www.meetup.com/fr-FR/collaborative-architecture) 
+* Agile  BIM [group on Linkedin ](https://www.linkedin.com/groups/8584849/)to discuss or promote your agile BIM activity in Linkedin
 
 
 
