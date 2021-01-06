@@ -2,7 +2,7 @@
 
 * [Agile in construction industry](README.md)
 * [👷‍♀️ Meetups](meetups/README.md)
-  * [Building performance & Scrum \#9](meetups/agile-construction-edward-murphy.md)
+  * [Building Design for the Real World : A case study in use of Scrum \#9](meetups/agile-construction-edward-murphy.md)
   * [Architecture & Design thinking \#8](meetups/architecture-design-thinking-luiz-felipe-conrado-de-lima-2020-12-9.md)
   * [Agile BIM & openBIM \#7](meetups/meetup-agile-bim-open-bim-david-delgado-vendrell-2020-11-04.md)
   * [Lean construction \#6](meetups/meetup-agile-lean-construction-vincent-morael-2020-09-23.md)
