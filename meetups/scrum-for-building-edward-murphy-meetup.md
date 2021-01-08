@@ -4,16 +4,18 @@ description: A case study by Edward Murphy
 
 # Scrum for building / Case study of Hippodigital office redesign \#9
 
-A talk by Edward Murphy founder of Ollio consult.
 
-* Edward Murphy [Linkedin profile](https://www.linkedin.com/in/edward-murphy-a2349526/) 
-* Ollio [Company page](https://www.ollioconsult.com/) : As building performance specialists our goal is to align the interests of those who develop, design and construct low carbon healthy buildings with those who inhabit them day to day.
 
 👉 [LinkedIn Event page](https://www.linkedin.com/events/6752725838732558336/)
 
 👉 Meetup Event page
 
-## Abstract
+### Scrum for building  / A better design with agile for Hippo digital office workspace by Edward Murphy
+
+👉 **Who is presenting** 
+
+* Edward Murphy [Linkedin profile](https://www.linkedin.com/in/edward-murphy-a2349526/) 
+* Ollio [Company page](https://www.ollioconsult.com/) : As building performance specialists our goal is to align the interests of those who develop, design and construct low carbon healthy buildings with those who inhabit them day to day.
 
 👉 **Summary :**   
 During this month Agile BIM meetup,  Edward Murphy founder of Ollio,  will give a presentation called "Building Design for the Real World".  Edward has a field experience of using scrum to help the design of buildings more efficient and adapted to the users. He will present a case study of an office workspace originally designed traditionally then redesigned with agile to take into account the teams true needs and desire. 
