@@ -4,11 +4,13 @@ description: A case study by Edward Murphy
 
 # Scrum for building / Case study of Hippodigital office redesign \#9
 
-
+**Join the event! Next 28/01 at 18h00 \(UTC + 1\)**
 
 👉 [LinkedIn Event page](https://www.linkedin.com/events/6752725838732558336/)
 
-👉 Meetup Event page
+👉 [Meetup Event page](https://www.meetup.com/fr-FR/collaborative-architecture/events/275592382/)
+
+![A better design with agile for Hippo digital office workspace by Edward Murphy](../.gitbook/assets/scrum-in-building-design-meetup-9.png)
 
 ### Scrum for building  / A better design with agile for Hippo digital office workspace by Edward Murphy
 
