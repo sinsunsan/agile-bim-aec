@@ -1,4 +1,4 @@
-# Project "demos"
+# Demos & Virtual reality
 
 ![Demo the project frequently](../../.gitbook/assets/undraw_virtual_reality_y5ig.png)
 

@@ -2,7 +2,7 @@
 description: A case study by Edward Murphy
 ---
 
-# Building Design for office : case study Scrum in building \#9
+# Scrum for building / Case study of Hippodigital office \#9
 
 A talk by Edward Murphy founder of Ollio consult.
 
@@ -24,12 +24,12 @@ During this month Agile BIM meetup,  Edward Murphy founder of Ollio,  will give 
   
 The case study will outline his experience in development of the design concepts and client brief for HippoDigital's new office for 90 office workers.   
   
-[HippoDigital](https://hippodigital.co.uk/) are UX and Scrum Masters to the tech industry, so already comfortable with Agile Methods. However, when they moved into their new office in 2018 they allowed the engaged interior architect to suggest a layout. 12 months in they found the designs simply did not work. In 2019 HippoDigital Director asked Ollio if Agile in Buildings might help arrive at a better interior arrangement for the office teams.   
+[HippoDigital](https://hippodigital.co.uk/) are working as UX and Scrum Masters to the tech industry, so already comfortable with Agile Methods. However, when they moved into their new office in 2018 they allowed the engaged interior architect to suggest a layout. After working in the new space for 12 months, they realized the design simply did not work. In 2019 HippoDigital Director asked Ollio if Agile in Buildings might help arrive at a better interior arrangement for the office teams.   
   
 **Agile in Buildings** is Ollio's adaptive consolidation of Jeff Sutherland and Ken Schweber' Agile Scrum combined with immersive Virtual Reality 3D modelling as a vehicle to involve users in the development of informed client briefs and early stage concept built environment designs.   
   
-In the meetup,  Edward will explain how Agile in Buildings works and how to use theses new approaches to brief development and design of buildings.   
-Methodologies used include [Design thinking](../en/agile-bim-method/design-thinking-lean-and-agile.md), User stories
+In the meetup,  Edward will explain how Agile in Buildings works and how to use theses new approachesfor brief development and design of buildings.   
+Methodologies used include [Design thinking](../en/agile-bim-method/design-thinking-lean-and-agile.md), [User stories](../en/agile-toolbox/user-stories.md), Rapi
 
 
 
