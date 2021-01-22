@@ -21,8 +21,8 @@ description: L'application de la méthode agile a toute les phases d'un projet
 
 * Travailler par itération 
 * Faire se rencontrer tous les parties prenantes de la conception 
-* S'accorder sur ce les attendus de chaque itérations et obtenir des validations claires 
-* Faire une demonstration de la maquette numérique à chaque étape
+* S'accorder sur les attendus de chaque itération et obtenir des validations claires 
+* Faire une démonstration de la maquette numérique à chaque étape
 * Communiquer sur son avancement et idéalement organiser des standups meetings tous les jours ou au minima une fois par semaine
 * Utiliser des outils numériques : plateforme d'échange, outil de communication instantanée, de partage de fichiers pour synchroniser les livrables 
 * Automatiser les contrôles et permettre à chaque membre de bénéficier du feedback des outils de validation

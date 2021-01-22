@@ -2,7 +2,7 @@
 description: Why using agile approaches in AEC
 ---
 
-# 🎯Agile benefits
+# 🎯 Why Agile in construction industry?
 
 Agile approaches are increasingly quoted in the building world. But often without knowing them too much, they are often used as a mantra, or perhaps to refer to a kind of adaptability of the actors!
 

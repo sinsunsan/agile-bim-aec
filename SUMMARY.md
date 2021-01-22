@@ -17,9 +17,9 @@
 
 ## En Français <a id="fr"></a>
 
-* [🎯 Bénéfice de l'Agile](fr/benefice-de-lagile.md)
+* [🎯 Pourquoi l'agile dans la construction](fr/benefice-de-lagile.md)
+* [🏂 Qu'est-ce que le BIM Agile](fr/bim-agile.md)
 * [🚀 La méthode Agile BIM](fr/methode-agile-bim/README.md)
-  * [Qu'est-ce que le BIM Agile](fr/methode-agile-bim/bim-agile.md)
   * [Les valeurs agiles](fr/methode-agile-bim/valeurs-agiles.md)
   * [Organisation des équipes](fr/methode-agile-bim/organisation.md)
   * [Projet de construction Agile](fr/methode-agile-bim/projet-construction-agile.md)
@@ -48,7 +48,8 @@
 
 ## In English <a id="en"></a>
 
-* [🎯Agile benefits](en/agile-benefits.md)
+* [🎯 Why Agile in construction industry?](en/agile-benefits.md)
+* [🏂 What is agile BIM?](en/what-is-agile-bim.md)
 * [🚀 Agile BIM Method](en/agile-bim-method/README.md)
   * [Team organizations](en/agile-bim-method/team-organizations.md)
   * [Design thinking, Lean and Agile](en/agile-bim-method/design-thinking-lean-and-agile.md)
