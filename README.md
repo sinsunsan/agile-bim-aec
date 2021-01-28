@@ -6,7 +6,7 @@ description: The community of Agilist in architecture & construction industry (A
 
 ![Agile BIM / Make Architecture design iterative and transparent](.gitbook/assets/agile_bim.jpeg)
 
-"_People in the construction industry are looking for product standardization, but it is the method that needs to be standardized_." @Xavier Jaffray
+> "_People in the construction industry are looking for product standardization, but it is the method that needs to be standardized_." @Xavier Jaffray
 
 Agile  BIM is a new paradigm inspired by Agile in software industries, Agile in hardware, Scrum, Kanban & Extreme programming methods. 
 
