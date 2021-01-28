@@ -74,7 +74,7 @@ In what transpired to be a fascinating, elegant, and wholly enjoyable journey, u
 
 ![Ask the user what he want, why not with VR](../.gitbook/assets/agile-vr-meeting.png)
 
-Thanks for reading and see you at the [next meetups ](https://www.linkedin.com/showcase/agile-bim/)
+Thanks for reading and see you at the [next meetups ](https://www.linkedin.com/showcase/agile-bim/)📣 
 
 ### A word of our sponsor
 
