@@ -34,6 +34,10 @@ description: Links on works and ressources about Agile in AEC and BIM
 * [Vers une conception architecturale BIM-agile : proposition d’un ensemble de pratiques collaboratives en vue d’une meilleure appropriation de la technologie BIM](https://hal.univ-lorraine.fr/tel-02157569v3/document%20)  /  Henri-Jean Gless 2020
 * English version : [Towards a BIM-Agile Method in Architectural Design Assessment of a Pedagogical Experiment](https://hal.archives-ouvertes.fr/hal-02544377/document)  /  Henri-Jean Gless 2020
 
+### Agile City 
+
+* [The Agile City: Building Well-being and Wealth in an Era of Climate Change](https://www.scribd.com/book/252756644/The-Agile-City-Building-Well-being-and-Wealth-in-an-Era-of-Climate-Change) a book to learn strategy to change quickly the city and building to meet sustainability and decarbonation goals.
+
 ### Scrum
 
 * [The scrum guide ](https://www.scrumguides.org/scrum-guide.html#inspection)\(Updated 2020 version\)
