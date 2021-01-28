@@ -1,8 +1,10 @@
 ---
-description: A case study by Edward Murphy
+description: >-
+  A design company office redesigned using scrum methodology presented by Edward
+  Murphy
 ---
 
-# Scrum for building / Case study of Hippodigital office redesign \#9
+# Agile in building / Hippo digital case study \#9
 
 **Join the event! Next 28/01 at 18h00 \(UTC + 1\)**
 
@@ -13,6 +15,13 @@ description: A case study by Edward Murphy
 ![A better design with agile for Hippo digital office workspace by Edward Murphy](../.gitbook/assets/scrum-in-building-design-meetup-9.png)
 
 ### Scrum for building  / A better design with agile for Hippo digital office workspace by Edward Murphy
+
+  
+Slides of the presentation
+
+{% embed url="https://www.scribd.com/document/492470347/Agile-in-building-The-Hipo-digital-usecase-by-Edward-Murphy" %}
+
+
 
 👉 **Who is presenting** 
 
