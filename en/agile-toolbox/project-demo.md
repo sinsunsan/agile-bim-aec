@@ -26,7 +26,7 @@ VR can be a great tool for end users, who are not familiar with readings archite
 
 
 
-![Edward Murphy use of VR fo agile design of Hippo Redesign Office](../../.gitbook/assets/agile-vr-meeting.png)
+![Edward Murphy use of VR fo agile design of Hippo Redesign Office](../../.gitbook/assets/agile-vr-meeting%20%281%29.png)
 
 
 

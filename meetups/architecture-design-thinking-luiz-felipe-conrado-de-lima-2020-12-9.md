@@ -25,7 +25,9 @@ We think it could be a great way to handle Architecture design in a more collabo
 
 ### 📽️ The video on Youtube 
 
-Coming soon ! 
+{% embed url="https://youtu.be/G6dYYUiM5Y0" %}
+
+
 
 {% hint style="info" %}
 Don't miss an Agile meetup
