@@ -47,6 +47,10 @@ description: Links on works and ressources about Agile in AEC and BIM
 
 * [https://blog.myagilepartner.fr](https://blog.myagilepartner.fr/index.php/2020/06/22/scrum-illustration/)
 
+### Traditional project management
+
+* [https://www.pmi.org/pmbok-guide-standards](https://www.pmi.org/pmbok-guide-standards)
+
 ### More links
 
 {% embed url="https://www.zotero.org/groups/1923909/agile\_aec?" %}
