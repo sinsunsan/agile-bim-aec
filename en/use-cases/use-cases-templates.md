@@ -1,9 +1,13 @@
-# Use cases templates
+# Write your agile BIM use case
 
-### Why a template
+### Why sharing your use case
 
   
-We would be more than happy if you take time to write down the agile BIM workflow you did experience. So that anyone can get inspirations from you. And as a community, we could have many examples to build with and end up with an agile BIM "best practices" or "framework" document.   
+We would be more than happy if you take time to write down the agile BIM workflow you did experience. So that anyone can get inspirations from you. And as a community, we could have many examples to build with and end up with an agile BIM "best practices" or "framework" document. 
+
+### How to do it ? 
+
+So if you are interested in sharing here your experience, please use this template and create a new page under this Use cases category  
   
 To be able to quickly compare the approaches, it is better to follow a guide or template.   
 So Here is the template you can use to write your own agile BIM use case.   
