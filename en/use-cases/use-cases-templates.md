@@ -20,7 +20,7 @@ So Here is the template you can use to write your own agile BIM use case.
 * **Title**: \(100 characters max\)
 * **Summary** \(250 character max\) : highlight the inspirations \(scrum...\) and why it as interesting
 * **Projects** / Program + Name + Client: for example : Office building for Hippo design  
-* **You name, function and profile** : Full name + Link to Linkedin \(for example Sébastien Lucas Architect & developer, co-funder of Bricks, [Linkedin](https://www.linkedin.com/in/archiref/)\)
+* **You name, function and profile** : Full name + Link to LinkedIn \(for example Sébastien Lucas Architect & developer, co-funder of Bricks, [Linkedin](https://www.linkedin.com/in/archiref/)\)
 * **Image**: a Horizontal image that illustrate the project \(1200 px minimal width\)
 * **Link**: A link to an external site to know more about that use case or this project
 * **Software used** : For example Application Trello, VR tool....
@@ -47,7 +47,7 @@ Focus on the benefits, to always emphasize why theses approaches could help fix 
 
 * Describe how to you got the team involved and accept the process
 * Describe a typical workflow with the team  \(don't hesitate to illustrate with schema, images...\)
-  * step 1 \(describe for each step of your workflow what needs to be done, the tools you used, the people it involves, the deliveries...\)
+  * step 1 \(describe for each step of your workflow what needs to be done, the tools you used, the people it involves, the deliverables...\)
   * step 2
   * step 3
   * ....
