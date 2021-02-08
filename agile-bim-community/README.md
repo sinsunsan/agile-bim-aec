@@ -11,6 +11,7 @@ description: Agile BIM is open to all interested to agile in construction
 * Agile BIM [meetups page on Linkedin ](https://www.linkedin.com/showcase/agile-bim/) to signin to our meetups
 * Agile BIM [meetups page on Meetup.org](https://www.meetup.com/fr-FR/collaborative-architecture) 
 * Agile  BIM [group on Linkedin ](https://www.linkedin.com/groups/8584849/)to discuss or promote your agile BIM activity in Linkedin
+* Agile BIM [form to join list of agile BIM coaches ](https://airtable.com/shrbhMGRK4zRIAQ7Y)willing to accept some missions
 
 
 
@@ -19,7 +20,7 @@ description: Agile BIM is open to all interested to agile in construction
   
 We regularly organize [meetups](https://www.meetup.com/fr-FR/collaborative-architecture/) and working groups to discuss agility in the field of architecture and construction. 
 
-There is also an [Agile4bim Linkedin group](https://www.linkedin.com/groups/8584849/) to exchange links, case studies, discuss about agile methods, and about our meetings. 
+There is also an [Agile4bim Linkedin group](https://www.linkedin.com/groups/8584849/) to exchange links, case studies, discuss agile methods, and about our meetings. 
 
 Finally, you can contribute to this wiki dedicated to agility in building and construction. To do this, you can modify the content of this [page via Github](https://github.com/sinsunsan/agile-bim-aec) and propose your modifications.
 

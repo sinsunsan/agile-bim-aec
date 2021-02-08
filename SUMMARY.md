@@ -14,6 +14,7 @@
   * [La collaboration dans la construction \#1](meetups/meetup-1-chez-enia-collaboration-construction.md)
 * [🙌 Join Agile BIM community](agile-bim-community/README.md)
   * [🖋️ Contribute to AgileBIM.org](agile-bim-community/contribute.md)
+  * [🏄 Agile BIM coaching](agile-bim-community/agile-bim-coaching.md)
 
 ## En Français <a id="fr"></a>
 
