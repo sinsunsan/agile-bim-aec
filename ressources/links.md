@@ -19,11 +19,16 @@ description: Links on works and ressources about Agile in AEC and BIM
 
 * [https://www.leanconstruction.org](https://www.leanconstruction.org/) 
 * [https://www.associationleanconstruction.fr](https://www.associationleanconstruction.fr/)
+* [https://leanconstructionblog.com](https://leanconstructionblog.com/Applying-Lean-Thinking-to-the-Design-Process.html)
+
+**Article** 
+
+* [What is Lean Construction ](https://www.bricksapp.io/blog/en/what-is-lean-construction/)on [Bricks blog](https://www.bricksapp.io/blog/)
 
 #### Books
 
 * [Lean Construction : Optimiser coûts, qualité, sécurité et délais en mode collaboratif \(Hors Collection\)](https://www.amazon.fr/gp/product/B07GXN5ZNG/ref=as_li_tl?ie=UTF8&camp=1642&creative=6746&creativeASIN=B07GXN5ZNG&linkCode=as2&tag=agilebim-21&linkId=2380cdfeaac72c1c416798781bc31760)
-* [La révolution de la constrction Lean ](https://www.amazon.fr/gp/product/2956571079?ie=UTF8&tag=agilebim-21&camp=1642&linkCode=xm2&creativeASIN=2956571079)
+* [La révolution de la construction Lean ](https://www.amazon.fr/gp/product/2956571079?ie=UTF8&tag=agilebim-21&camp=1642&linkCode=xm2&creativeASIN=2956571079)
 * [Lean Construction: Core Concepts and New Frontiers](https://www.amazon.fr/gp/product/B0856T12MS?ie=UTF8&tag=agilebim-21&camp=1642&linkCode=xm2&creativeASIN=B0856T12MS)
 * [Understanding design thinking, Lean, and Agile by Jonny Schneider](http://jonnyschneider.com/free-book)
 
