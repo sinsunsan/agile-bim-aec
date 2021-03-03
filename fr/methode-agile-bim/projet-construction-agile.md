@@ -39,9 +39,13 @@ description: L'application de la méthode agile a toute les phases d'un projet
 * Faire se rencontrer tous le monde et chercher à trouver des solutions en commun 
 * Utiliser des outils de collaborations et de partage pour fluidifier le partage de l'information
 
-**Méthodes agiles** : Lean construction, Kanban
+**Méthodes agiles** : [Lean construction](../../meetups/meetup-agile-lean-construction-vincent-morael-2020-09-23.md), [Kanban](../boite-outil-agile/tableau-kanban-board.md)
 
 {% hint style="info" %}
 [Vous pouvez améliorer cet article ! ](../communaute-agile-bim/contribuer.md)
+{% endhint %}
+
+{% hint style="info" %}
+Read this [article in english](../../en/agile-bim-method/agile-construction-project.md).
 {% endhint %}
 
