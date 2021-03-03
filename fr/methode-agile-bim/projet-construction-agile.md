@@ -1,5 +1,7 @@
 ---
-description: L'application de la méthode agile a toute les phases d'un projet
+description: >-
+  L'application de la méthode agile à toutes les phases d'un projet
+  d'architecture
 ---
 
 # Projet de construction Agile

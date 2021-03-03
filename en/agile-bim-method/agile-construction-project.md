@@ -1,3 +1,7 @@
+---
+description: How you can use agile at each stage of a building and architecture project
+---
+
 # Agile construction project
 
 ### Programming phase
