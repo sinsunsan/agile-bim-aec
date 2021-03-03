@@ -16,6 +16,32 @@
   * [🖋️ Contribute to AgileBIM.org](agile-bim-community/contribute.md)
   * [🏄 Agile BIM coaching](agile-bim-community/agile-bim-coaching.md)
 
+## In English <a id="en"></a>
+
+* [🎯 Why Agile in construction industry?](en/agile-benefits.md)
+* [🏂 What is agile BIM?](en/what-is-agile-bim.md)
+* [🚀 Agile BIM Method](en/agile-bim-method/README.md)
+  * [Team organizations](en/agile-bim-method/team-organizations.md)
+  * [Design thinking, Lean and Agile](en/agile-bim-method/design-thinking-lean-and-agile.md)
+  * [Agile construction project](en/agile-bim-method/agile-construction-project.md)
+* [🏗️  Agile in Architecture & construction](en/agile-construction/README.md)
+  * [Problems of the traditional approach](en/agile-construction/problems-constructions-projects.md)
+  * [Benefits of Agile in AEC](en/agile-construction/agile-aec-benefits.md)
+* [🛠️ Agile toolbox](en/agile-toolbox/README.md)
+  * [Standup meeting](en/agile-toolbox/standup-meeting.md)
+  * [Demos & Virtual reality](en/agile-toolbox/project-demo.md)
+  * [Work with iterations](en/agile-toolbox/iterative-work.md)
+  * [Restrospective](en/agile-toolbox/restrospective.md)
+  * [Continuous improvement](en/agile-toolbox/continuous-improvement.md)
+  * [Rapid prototyping](en/agile-toolbox/rapid-prototyping.md)
+  * [Pair modeling](en/agile-toolbox/pair-working.md)
+  * [Product backlog](en/agile-toolbox/product-backlog.md)
+  * [User stories](en/agile-toolbox/user-stories.md)
+  * [⏳ Time vs Objective 🎯](en/agile-toolbox/time-tracking-vs-target.md)
+* [🎢 Use cases](en/use-cases/README.md)
+  * [Write your agile BIM use case](en/use-cases/use-cases-templates.md)
+  * [Merrick / Virtual reality Meetings](en/use-cases/merrick-virtual-reality-meetings.md)
+
 ## En Français <a id="fr"></a>
 
 * [🎯 Pourquoi l'agile dans la construction](fr/benefice-de-lagile.md)
@@ -47,32 +73,6 @@
 * [🎢 Retour d'expériences](fr/retour-experience.md)
 * [🙌 Rejoindre la communauté](fr/communaute-agile-bim/README.md)
   * [🖋️ Contribuer à AgileBIM.org](fr/communaute-agile-bim/contribuer.md)
-
-## In English <a id="en"></a>
-
-* [🎯 Why Agile in construction industry?](en/agile-benefits.md)
-* [🏂 What is agile BIM?](en/what-is-agile-bim.md)
-* [🚀 Agile BIM Method](en/agile-bim-method/README.md)
-  * [Team organizations](en/agile-bim-method/team-organizations.md)
-  * [Design thinking, Lean and Agile](en/agile-bim-method/design-thinking-lean-and-agile.md)
-  * [Agile construction project](en/agile-bim-method/agile-construction-project.md)
-* [🏗️  Agile in Architecture & construction](en/agile-construction/README.md)
-  * [Problems of the traditional approach](en/agile-construction/problems-constructions-projects.md)
-  * [Benefits of Agile in AEC](en/agile-construction/agile-aec-benefits.md)
-* [🛠️ Agile toolbox](en/agile-toolbox/README.md)
-  * [Standup meeting](en/agile-toolbox/standup-meeting.md)
-  * [Demos & Virtual reality](en/agile-toolbox/project-demo.md)
-  * [Work with iterations](en/agile-toolbox/iterative-work.md)
-  * [Restrospective](en/agile-toolbox/restrospective.md)
-  * [Continuous improvement](en/agile-toolbox/continuous-improvement.md)
-  * [Rapid prototyping](en/agile-toolbox/rapid-prototyping.md)
-  * [Pair modeling](en/agile-toolbox/pair-working.md)
-  * [Product backlog](en/agile-toolbox/product-backlog.md)
-  * [User stories](en/agile-toolbox/user-stories.md)
-  * [⏳ Time vs Objective 🎯](en/agile-toolbox/time-tracking-vs-target.md)
-* [🎢 Use cases](en/use-cases/README.md)
-  * [Write your agile BIM use case](en/use-cases/use-cases-templates.md)
-  * [Merrick / Virtual reality Meetings](en/use-cases/merrick-virtual-reality-meetings.md)
 
 ## Ressources
 
