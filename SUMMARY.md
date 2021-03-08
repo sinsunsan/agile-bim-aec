@@ -39,6 +39,7 @@
   * [User stories](en/agile-toolbox/user-stories.md)
   * [⏳ Time vs Objective 🎯](en/agile-toolbox/time-tracking-vs-target.md)
 * [🎢 Use cases](en/use-cases/README.md)
+  * [Hippodigital, Leeds, UK](en/use-cases/hippodigital-leeds-uk.md)
   * [Write your agile BIM use case](en/use-cases/use-cases-templates.md)
   * [Merrick / Virtual reality Meetings](en/use-cases/merrick-virtual-reality-meetings.md)
 
