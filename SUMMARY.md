@@ -2,7 +2,7 @@
 
 * [Agile in construction industry](README.md)
 * [👷‍♀️ Meetups](meetups/README.md)
-  * [Why Off site construction is the future of construction \#10](meetups/why-off-site-construction-is-the-future-of-construction-10.md)
+  * [Why Off site construction is the future of construction \#10](meetups/off-site-construction-meetup.md)
   * [Agile in building / Hippo digital case study \#9](meetups/scrum-for-building-edward-murphy-meetup.md)
   * [Architecture & Design thinking \#8](meetups/architecture-design-thinking-luiz-felipe-conrado-de-lima-2020-12-9.md)
   * [Agile BIM & openBIM \#7](meetups/meetup-agile-bim-open-bim-david-delgado-vendrell-2020-11-04.md)
