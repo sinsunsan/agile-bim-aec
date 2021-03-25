@@ -39,3 +39,9 @@ Don't forget to reserve your seat in the LinkedIn event page [https://www.linked
   
 Till then, you can subscribe to our YouTube channel [https://www.youtube.com/channel/UCTjcoh157n3hxKCxpEvfqeQ](https://www.youtube.com/channel/UCTjcoh157n3hxKCxpEvfqeQ) to watch previous meetups.
 
+
+
+{% hint style="success" %}
+Apprenez la construction hors-site gratuitement sur ce site [https://www.campushors-site.com/](https://www.campushors-site.com/)
+{% endhint %}
+
