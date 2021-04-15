@@ -1,5 +1,9 @@
 # Why Off site construction is the future of construction \#10
 
+{% embed url="https://www.youtube.com/watch?v=8a13CHQXV1U" %}
+
+\*\*\*\*
+
 **Join the event! Next 25/03 at 18h00 \(UTC + 1\)**
 
 👉 [LinkedIn Event page](https://www.linkedin.com/events/6752725838732558336/)

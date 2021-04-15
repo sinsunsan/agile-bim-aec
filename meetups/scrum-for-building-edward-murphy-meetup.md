@@ -18,7 +18,8 @@ description: >-
 
 ### 📽️ The video on YouTube 
 
-Coming soon !  On our [Youtube Channel](https://www.youtube.com/channel/UCTjcoh157n3hxKCxpEvfqeQ?sub_confirmation=1)  
+{% embed url="https://www.youtube.com/watch?v=2AYoyT4g5z0" %}
+
 
 
 {% hint style="info" %}
