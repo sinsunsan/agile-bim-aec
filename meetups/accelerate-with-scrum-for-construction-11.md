@@ -1,10 +1,14 @@
+---
+description: >-
+  Are you ready to make your work exponentially easier and valuable for your
+  organization ?
+---
+
 # Accelerate with Scrum for construction \#11
 
-👉 [Registration page](https://www.linkedin.com/events/6752725838732558336/)
+👉 [Registration page](https://lu.ma/30q5281t)
 
 👉 [Meetup Event ](https://www.meetup.com/fr-FR/collaborative-architecture/events/276812998/)
-
-### 📽️ The video on YouTube 
 
 For this month Agile BIM meetup, Felipe Engineer-Manriquez will give a presentation about accelerate with Scrum for construction.
 
@@ -14,5 +18,5 @@ A serial intrapreneur, Felipe Engineer-Manriquez is an International Lean speake
 
 #### Event Information
 
-​Are you ready to make your work exponentially easier and valuable for your organization? Learn when to use simple Kanban and when to use Scrum to harness the power of one-piece flow. Double your productivity using this framework with less effort. Workshop resources will be provided to guide scaling up to fully functional Scrum teams. Felipe will be LIVE to answer any of your questions around better ways of using Agile mindsets or anything else that’s on your mind.
+​Are you ready to make your work exponentially easier and valuable for your organization ? Learn when to use simple Kanban and when to use Scrum to harness the power of one-piece flow. Double your productivity using this framework with less effort. Workshop resources will be provided to guide scaling up to fully functional Scrum teams. Felipe will be LIVE to answer any of your questions around better ways of using Agile mindsets or anything else that’s on your mind.
 
