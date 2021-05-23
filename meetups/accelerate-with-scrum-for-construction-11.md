@@ -8,9 +8,9 @@ description: >-
 
 👉 [Registration page](https://lu.ma/30q5281t)
 
-For this month Agile BIM meetup, Felipe Engineer-Manriquez will give a presentation about accelerate with Scrum for construction.
-
 ![](../.gitbook/assets/scrum-construction-youtube.png)
+
+For this month Agile BIM meetup, Felipe Engineer-Manriquez will give a presentation about accelerate with Scrum for construction.
 
 **About Felipe Engineer-Manriquez:**
 
