@@ -6,7 +6,7 @@
 
 ### 📽️ The video on YouTube 
 
-For this month Agile BIM meetup, Felipe Engineer-Manriquez will give a presentation about  how to make your work exponentially easier and valuable for your organization.
+For this month Agile BIM meetup, Felipe Engineer-Manriquez will give a presentation about accelerate with Scrum for construction.
 
 **About Felipe Engineer-Manriquez:**
 
