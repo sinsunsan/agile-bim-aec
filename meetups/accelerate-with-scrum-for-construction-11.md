@@ -8,8 +8,6 @@ description: >-
 
 👉 [Registration page](https://lu.ma/30q5281t)
 
-👉 [Meetup Event ](https://www.meetup.com/fr-FR/collaborative-architecture/events/276812998/)
-
 For this month Agile BIM meetup, Felipe Engineer-Manriquez will give a presentation about accelerate with Scrum for construction.
 
 **About Felipe Engineer-Manriquez:**
