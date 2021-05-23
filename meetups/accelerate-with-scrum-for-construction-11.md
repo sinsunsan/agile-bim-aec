@@ -1,6 +1,6 @@
 # Accelerate with Scrum for construction \#11
 
-👉 [LinkedIn Event page](https://www.linkedin.com/events/6752725838732558336/)
+👉 [Registration page](https://www.linkedin.com/events/6752725838732558336/)
 
 👉 [Meetup Event ](https://www.meetup.com/fr-FR/collaborative-architecture/events/276812998/)
 
