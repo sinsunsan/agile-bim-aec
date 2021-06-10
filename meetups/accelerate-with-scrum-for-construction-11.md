@@ -20,3 +20,11 @@ A serial intrapreneur, Felipe Engineer-Manriquez is an International Lean speake
 
 ​Are you ready to make your work exponentially easier and valuable for your organization ? Learn when to use simple Kanban and when to use Scrum to harness the power of one-piece flow. Double your productivity using this framework with less effort. Workshop resources will be provided to guide scaling up to fully functional Scrum teams. Felipe will be LIVE to answer any of your questions around better ways of using Agile mindsets or anything else that’s on your mind.
 
+### 📽️ The video on YouTube 
+
+{% embed url="https://www.youtube.com/watch?v=wNUYJcrnat4" %}
+
+
+
+![](../.gitbook/assets/agile-bim-11.png)
+
