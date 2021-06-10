@@ -24,6 +24,8 @@ description: Links on works and ressources about Agile in AEC and BIM
 * [https://www.leanconstruction.org](https://www.leanconstruction.org/) 
 * [https://www.associationleanconstruction.fr](https://www.associationleanconstruction.fr/)
 
+{% embed url="https://leanipd.com" %}
+
 **Articles** 
 
 * [What is Lean Construction](https://www.bricksapp.io/blog/en/what-is-lean-construction/) \(Bricks blog\)
