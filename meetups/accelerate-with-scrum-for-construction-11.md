@@ -24,7 +24,15 @@ A serial intrapreneur, Felipe Engineer-Manriquez is an International Lean speake
 
 {% embed url="https://www.youtube.com/watch?v=wNUYJcrnat4" %}
 
-
+### Kanban in construction 
 
 ![](../.gitbook/assets/agile-bim-11.png)
+
+![](../.gitbook/assets/agile-bim-11.png)
+
+
+
+![Manage priority ](../.gitbook/assets/kanban-card-aec.png)
+
+![](../.gitbook/assets/screenshot-2021-06-10-at-18.28.10.png)
 
