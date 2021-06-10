@@ -15,8 +15,6 @@ description: Links on works and ressources about Agile in AEC and BIM
 
 ## Design  Thinking
 
-
-
 ## Lean construction
 
 #### Organizations
