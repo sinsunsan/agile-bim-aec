@@ -2,7 +2,7 @@
 
 * [Agile in construction industry](README.md)
 * [👷‍♀️ Meetups](meetups/README.md)
-  * [Accelerate with Scrum for construction \#11](meetups/accelerate-with-scrum-for-construction-11.md)
+  * [Accelerate with Scrum for construction \#11](meetups/scrum-for-construction-meetup.md)
   * [Why Off site construction is the future of construction \#10](meetups/off-site-construction-meetup.md)
   * [Agile in building / Hippo digital case study \#9](meetups/scrum-for-building-edward-murphy-meetup.md)
   * [Architecture & Design thinking \#8](meetups/architecture-design-thinking-luiz-felipe-conrado-de-lima-2020-12-9.md)
