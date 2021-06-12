@@ -47,7 +47,7 @@
 
 ## En Français <a id="fr"></a>
 
-* [🎯 Pourquoi l'agile dans la construction](fr/benefice-de-lagile.md)
+* [🎯 Pourquoi l'agile dans la construction](fr/agile-bim-benefices.md)
 * [🏂 Qu'est-ce que le BIM Agile](fr/bim-agile.md)
 * [🚀 La méthode Agile BIM](fr/methode-agile-bim/README.md)
   * [Les valeurs agiles](fr/methode-agile-bim/valeurs-agiles.md)
