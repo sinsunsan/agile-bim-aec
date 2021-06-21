@@ -80,6 +80,7 @@
 ## Ressources
 
 * [Links and bibliography](ressources/links.md)
+* [Agile Tools](ressources/agile-tools.md)
 * [Learn AGILE BIM](ressources/learn-agile-bim.md)
 * [Youtube pages](ressources/youtube.md)
 * [Agile BIM Events](ressources/agile-bim-events.md)
