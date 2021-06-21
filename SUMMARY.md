@@ -45,6 +45,16 @@
   * [Virtual reality Meetings / Merrick](en/use-cases/merrick-virtual-reality-meetings.md)
   * [Write your agile BIM use case](en/use-cases/use-cases-templates.md)
 
+## Ressources
+
+* [Links and bibliography](ressources/links.md)
+* [Agile Tools](ressources/agile-tools.md)
+* [Learn AGILE BIM](ressources/learn-agile-bim.md)
+* [Youtube pages](ressources/youtube.md)
+* [Agile BIM Events](ressources/agile-bim-events.md)
+* [Startups Agile AEC](ressources/startups.md)
+* [Licence CC](ressources/licence.md)
+
 ## En Français <a id="fr"></a>
 
 * [🎯 Pourquoi l'agile dans la construction](fr/agile-bim-benefices.md)
@@ -76,14 +86,4 @@
 * [🎢 Retour d'expériences](fr/retour-experience.md)
 * [🙌 Rejoindre la communauté](fr/communaute-agile-bim/README.md)
   * [🖋️ Contribuer à AgileBIM.org](fr/communaute-agile-bim/contribuer.md)
-
-## Ressources
-
-* [Links and bibliography](ressources/links.md)
-* [Agile Tools](ressources/agile-tools.md)
-* [Learn AGILE BIM](ressources/learn-agile-bim.md)
-* [Youtube pages](ressources/youtube.md)
-* [Agile BIM Events](ressources/agile-bim-events.md)
-* [Startups Agile AEC](ressources/startups.md)
-* [Licence CC](ressources/licence.md)
 
