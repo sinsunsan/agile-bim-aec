@@ -1,4 +1,4 @@
-# Licence CC
+# 📜 Licence CC
 
 ![Attribution-ShareAlike 4.0 International](../.gitbook/assets/88x31.png)
 

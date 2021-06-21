@@ -2,7 +2,7 @@
 description: Links on works and ressources about Agile in AEC and BIM
 ---
 
-# Links and bibliography
+# 🔗 Links and bibliography
 
 ## Brainstorming technics
 

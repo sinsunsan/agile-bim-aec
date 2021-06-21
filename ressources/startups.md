@@ -2,7 +2,7 @@
 description: 'List of startups & influencers that work on Agile in AEC :'
 ---
 
-# Startups Agile AEC
+# 🚀 Startups Agile AEC
 
 * [Bricks](https://www.bricksapp.io/): The Agile collaborative app for architecture & construction
 * [Buildzr](https://www.buildrz.io/index-en.html): Use data and bring stakeholders together to build better real estate projects faster

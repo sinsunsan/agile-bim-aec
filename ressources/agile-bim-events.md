@@ -1,4 +1,4 @@
-# Agile BIM Events
+# 📅 Agile BIM Events
 
 * 2020/12/09 / Agile BIM meetup \# 8 with Luiz Felipe Conrado de Lima
 
