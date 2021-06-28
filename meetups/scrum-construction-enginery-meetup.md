@@ -6,7 +6,7 @@
 
 {% embed url="https://lu.ma/zi5ejvt9" caption="The event page to register" %}
 
-### About the meetup 
+### ✨ About the meetup 
 
 When the number of customers increases \(very nice-to-have problem\) and the complexity increases, it is not easy to grow in size while maintaining excellent quality.
 
@@ -19,7 +19,7 @@ We will see the never-ending journey of TWO engineering and construction compani
 Thanks to understanding clients' needs, clear prioritization, transparency, and continuous improvement, these Firms are using Scrum to express the best of their potential.  
 
 
-### About the construction and engineering companies 
+### ✨ About the construction and engineering companies 
 
 👉 [**NET Engineering**](https://www.net-italia.com/en/the-international-group/) is a group of highly esteemed, reputable, and reliable engineering companies strategically located in different national markets and constantly present at the European level, with over 40 years of significant experience. The NET Group has kept its native family-run business approach pumping in its DNA. This is a vital characteristic that distinguishes our approach when compared to those of other large-scale multinational companies. It is only in sitting by a client's side and adopting a flexible, two-pairs-of-hands approach that we can offer suitable, long-term solutions to satisfy every need of our clients and projects' stakeholders.
 
@@ -27,7 +27,7 @@ Thanks to understanding clients' needs, clear prioritization, transparency, and 
 
 ENCOTECH took care of small to large projects, both public and private. They work in many areas from the residential to hotel industry, from commercial to industrial or from sport industry to large theaters and museums, and offer a complete, efficient, and modern service of Project Management, Design, Direction of Works and Cost Control. Thanks to its teams, Encotech can handle all construction phases, from the feasibility study to the final testing. 
 
-### About the 2 speakers
+### ✨ About the 2 speakers
 
   
 👉 [**Paolo Sammicheli** ](https://www.linkedin.com/in/paolosammicheli/)is an Italian entrepreneur with experience of over 30 years who works as an Agile Business Coach specialized in Scrum, Scrum@Scale, Kanban, Lean Startup, and Design Thinking. Scrum Trainer and Scrum@Scale Trainer with Scrum Inc, Lean-Agile Procurement Trainer, and Management 3.0 Facilitator. Author of the books "Scrum for Hardware," "Scrum in AI," and an International Speaker.
