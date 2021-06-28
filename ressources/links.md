@@ -10,7 +10,7 @@ description: Links on works and ressources about Agile in AEC and BIM
 
 ## Agile Hardware
 
-* [Scrum for hardware](https://leanpub.com/Scrum-for-Hardware) **/** Paolo Sammicheli
+* [Scrum for hardware](https://leanpub.com/Scrum-for-Hardware) **/** Paolo Sammicheli 
 * [Wikispeed project](https://www.google.com/search?q=wikispeed&oq=wikispeed&aqs=chrome.0.69i59j35i39j0i67j0l4j0i10.3862j0j1&sourceid=chrome&ie=UTF-8) / A project of car developed with scrum and agile hardware methodologies
 
 ## Design  Thinking
