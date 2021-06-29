@@ -8,7 +8,7 @@ description: >-
 
 
 
-**Introduction**
+### **Introduction**
 
 
 
@@ -31,23 +31,18 @@ From here, architects and designers are left to conjure a warped version for how
 
 Only with the immersive top-down and bottom-up collaborative inputs of all users of the building can design brief development begin to capture how a new or upgraded building can be a true advocate for business effectiveness and efficiency that:
 
-·         taps into the deepest recesses of users knowledge as customers
-
-·         has users thoughts and experiences embedded within design team thinking
-
-·         validates design in favour of a more successful business downstream
-
-·         incorporates developments in BIM, 3D Printing, Augmented Reality \(AR\), Virtual Reality \(VR\) and the accompanying revolution in Mixed Reality \(MR\) technologies, all readily available now to modern-day construction customers.
+* taps into the deepest recesses of users knowledge as customers
+* has users thoughts and experiences embedded within design team thinking
+* validates design in favour of a more successful business downstream
+* incorporates developments in BIM, 3D Printing, Augmented Reality \(AR\), Virtual Reality \(VR\) and the accompanying revolution in Mixed Reality \(MR\) technologies, all readily available now to modern-day construction customers.
 
 Ollio won a competitive Innovate UK award of £60,000 stg. to undertake a series of rapid project trials within three live case studies with three of our clients now embarking on new workplace/community building projects.
 
 Our three chosen proof-of-concept case projects were:
 
-·         Cemetery Road Baptist Church,- a 10-year masterplan for a community-led campus in Sheffield
-
-·         Kollider Technology Incubation Hub – a new technology start-ups incubation hub at Castle House, Sheffield
-
-·         Hippo Digital’s new offices – a remodelled office fit-out for a leading digital business in Leeds.
+* Cemetery Road Baptist Church,- a 10-year masterplan for a community-led campus in Sheffield
+* Kollider Technology Incubation Hub – a new technology start-ups incubation hub at Castle House, Sheffield
+* Hippo Digital’s new offices – a remodelled office fit-out for a leading digital business in Leeds.
 
 ![Innovate UK Competition webpage](../../.gitbook/assets/image%20%2813%29.png)
 
@@ -57,21 +52,14 @@ Continuing the development of APM into the 1950’s Winston Royston an electrica
 
 Eric Reis bestselling author of "The Lean Startup" and a proponent of Agile Methods is even more scathing of Waterfall, stating that Taylorism “provides the illusion of certainty”.  Plans require estimations to be right, which is monumentally demanding of large complex projects. For Reis waterfall is characterised by several defects;
 
-•    Scope Bloat.  - Cram in as much as the budget can afford. Aspirations usually exceed budget eventually leading to cost overrun and “de-value engineering”.
-
-•    Blind Investment – cost risk remains and is only mitigated on completion.
-
-•    Architectural Risk - Design risks come to surface too late
-
-•    Functional Risk – Users don’t get to know if it works until the end.
-
-•    Change Risk – Cost risk supersedes change risk, meaning it is never adequately addressed.
-
-•    Uncertain Cost and Duration – Large numbers of change requests are commonplace.
-
-•    Resource levelling/availability – Windows of availability never align. Availability of the right people input at the right time is difficult to align, which reduces quality.
-
-•    Team motivation – When projects go wrong commercially, interest wains, quality declines further, user outcomes drop to the bottom of the priority list.
+* **Scope Bloat**  - Cram in as much as the budget can afford. Aspirations usually exceed budget eventually leading to cost overrun and “de-value engineering”.
+* **Blind Investment** – cost risk remains and is only mitigated on completion.
+* **Architectural Risk** - Design risks come to surface too late
+* **Functional Risk** – Users don’t get to know if it works until the end.
+* **Change Risk** – Cost risk supersedes change risk, meaning it is never adequately addressed.
+* **Uncertain Cost and Duration** – Large numbers of change requests are commonplace.
+* **Resource levelling/availability** – Windows of availability never align. Availability of the right people input at the right time is difficult to align, which reduces quality.
+* **Team motivation** – When projects go wrong commercially, interest wains, quality declines further, user outcomes drop to the bottom of the priority list.
 
 All the above being factors that affect the production of buildings, and which ultimately lead to uncertainty and user dissatisfaction with the outturn product.  Expanding the work of Royston, statistician, professor, author, lecturer, and management consultant W Edwards Deming.  Edwards Deming  with the experience of several years troubleshooting projects in post second world war Japan, observed that the failure of a project was usually the product of a management process failure, rather than a failure of execution or the competence of the operatives implementing it.   He noted that managers of the failed projects also tended to diagnose the causes of their inability by incorrectly attributing the reasons to technical non-compliance or operative incompetence. In  most cases, Deming concluded, the failure had its origins in the generation, management and care taken over information quality arriving or leaving the design table, and usually had little to do with the execution of the planned procedure at site level. 
 
@@ -85,21 +73,17 @@ Due to their deeper involvement, users become the custodians of product quality 
 
 At the heart the manifesto are 12 principles \(recommended to be read in full\) which distil into four key themes as follows;
 
-•    Individuals and Interactions over processes and tools - Prioritising the quality of people and face to face collaboration above siloed activity with a prescribed project managed process
-
-•    Working product over comprehensive documentation. -  Concentrate on how the product
-
-should work, and back cast this to the design process, over \(not instead of\) concentrating on producing a competent set of design specifications on time and on programme. 
-
-•    Customer Collaboration over contract negotiation – Manage the quality rather than the cost.
-
-•    Responding to Change over following a plan – Invite change to improve quality, the product is more important than the plan.
+* Individuals and Interactions over processes and tools - Prioritising the quality of people and face to face collaboration above siloed activity with a prescribed project managed process
+* Working product over comprehensive documentation. -  Concentrate on how the product
+* should work, and back cast this to the design process, over \(not instead of\) concentrating on producing a competent set of design specifications on time and on programme
+* Customer Collaboration over contract negotiation – Manage the quality rather than the cost.
+* Responding to Change over following a plan – Invite change to improve quality, the product is more important than the plan.
 
 The group went on to form the Agile Alliance, to further the development of Agile Methods across industry and to promote adoption and training in its implementation.  In 2011 the Agile Alliance created the Guide to Agile Practices \(renamed the Agile Glossary in \(2016\), an evolving open-source compendium of the working definitions of agile practices, terms, and elements, along with interpretations and experience guidelines from the now global community of agile practitioners.
 
 In recognition of findings of in the software development and technology sectors, it seemed valid to ask if Agile Methods with its clear focus on customer outcomes could be of benefit to the construction industry?  If so, how should Agile be deployed? Are the synergies of the technology industry with that of construction strong enough to affect a successful introduction of Agile Methods, and if so, how might it be achieved?  It was the desire to test Agile Methods in the design of a building that became the primary rationale for our three cases study projects, to test if Agile Methods could be used in the design of the brief for the built environment.
 
-**Agile in Buildings - Scrum for Building Design**
+### **Agile in Buildings - Scrum for Building Design**
 
 Following the proven successful approaches of APM in the software development industry, the Agile in Buildings \(AnB\) approach has three active stages.
 
@@ -119,13 +103,11 @@ Within the methodology, users frame solutions, participate in their development,
 
 The process also has spin-offs in using the property project to harmonise the user community around common goals, thus improving their engagement with the business and leading to a building which informs a better business. Ultimately creating the conditions for the defined “performance sweet spot”.
 
-**Hippo Digital Case Study**
+### **Hippo Digital Case Study**
 
 Hippo Digital work in the digital sector to help their clients create applications or products with the right interfaces for their client's customers.  To achieve this HippoDigital need to be able to gain a deep understanding of their client's organisation and work with them to ensure the designed digital services are both usable and operable. They also conduct what are called retrospectives to measure how the released digital applications or services are performing, against both your users and your organisation's objectives. They use Agile Methods of design and product management to do this.  Given that already use "scrum" in their business process, they were keen to have our team try it out to help resolve the critical problems they were having with their own office HQ in Leeds.
 
 Hippodigital  moved into its new permanent home at Aireside House in April 2018. They needed a place to accommodate the rapidly increasing business.  The Directors of the business saw the location of Aireside House as its main advantage. The new office was situated between their main client's offices in Leeds and the central rail station.  The hope was they the office would be welcoming enough to have their clients drop-in as they passed by.
-
-
 
 ![Interior office before fit-out](../../.gitbook/assets/image.png)
 
@@ -161,7 +143,7 @@ Ten days later we were back for the next charrette. When users were conducted ar
 
 ![Scrum Team Prototype Solution](../../.gitbook/assets/image%20%286%29.png)
 
-**Scrum Retrospective**
+### **Scrum Retrospective**
 
 The Hippodigital **Agile in Buildings** Case Study followed a different process to the Case Study 1 and Case Study 2
 
