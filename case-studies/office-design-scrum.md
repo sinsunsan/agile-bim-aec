@@ -4,7 +4,7 @@ description: >-
   Agile in Buildings, then deployed it at a small office in Leeds, UK.
 ---
 
-# Design an office with scrum /   Hippodigital \(Leeds, UK\)
+# Design an office with scrum /   Hippodigital
 
 
 

@@ -1,4 +1,4 @@
-# Write your agile BIM use case
+# Write your case study
 
 ### Why sharing your case study
 
@@ -16,9 +16,7 @@ Then write it and publish it, 😄 Just learn how to [contribute to Agile BIM.or
 
 {% page-ref page="../agile-bim-community/contribute.md" %}
 
-
-
-### Agile BIM use case writing template
+### Agile BIM case study template
 
 ### General information at the top of the article
 
