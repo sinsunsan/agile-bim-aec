@@ -15,7 +15,7 @@ All changes are listed in this channel **agilebim-org** in slack.
 
 ### What type of content we are interested in : 
 
-* [A description of agile use cases / experience](../en/use-cases/use-cases-templates.md)
+* [A description of agile use cases / experience](../case-studies/use-cases-templates.md)
 * A description of some [Agile Recipes](../en/agile-toolbox/)
 * Translation, illustrations with images of the existing article
 * add [Links](../ressources/links.md) to interesting resource 

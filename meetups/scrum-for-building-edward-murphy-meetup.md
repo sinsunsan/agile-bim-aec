@@ -61,7 +61,7 @@ This case study will outline Ollio experience with applying scrum methodology in
 
 ### **A rework using agile in buildings methodologies**
 
-[Agile in Buildings](../en/agile-construction/) is Ollio's adaptive consolidation of Jeff Sutherland and Ken Schweber' Agile [Scrum](https://www.scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-US.pdf) combined with immersive Virtual Reality 3D modelling as a vehicle to involve users. It has been applied in the development of client briefs and early stage concept designs.   
+[Agile in Buildings](../en/agile-construction-benefits/) is Ollio's adaptive consolidation of Jeff Sutherland and Ken Schweber' Agile [Scrum](https://www.scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-US.pdf) combined with immersive Virtual Reality 3D modelling as a vehicle to involve users. It has been applied in the development of client briefs and early stage concept designs.   
   
 In the meetup, Edward will explain how Agile in Buildings works and how to use these's new approaches for brief development and buildings design. 
 
