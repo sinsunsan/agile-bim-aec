@@ -1,4 +1,4 @@
-# 🏄 Agile BIM coaching
+# 🏄 Want to become an Agile BIM coach ?
 
 ### For agile BIM practitioners 
 
