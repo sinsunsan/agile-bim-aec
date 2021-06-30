@@ -1,4 +1,4 @@
-# Virtual reality Meetings / Merrick
+# Virtual reality Meetings  - Merrick
 
 ### By Who : 
 
