@@ -54,3 +54,5 @@ ENCOTECH took care of small to large projects, both public and private. They wor
 
 ![Which agile tools for AEC?](../.gitbook/assets/agile-bim-tools.png)
 
+{% file src="../.gitbook/assets/scrum-in-construction-and-engineery-\_-two-case-studies\_stats.pdf" caption="Download the stats here" %}
+
