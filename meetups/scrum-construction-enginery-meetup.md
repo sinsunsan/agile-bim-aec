@@ -40,7 +40,7 @@ ENCOTECH took care of small to large projects, both public and private. They wor
 
 ### Meetup \# 12 attendance stats 
 
-### Who already use Agile in his projects
+### Who already use Agile in its projects
 
 ![Do you use Agile in your projects ? ](../.gitbook/assets/meetup-agile-do-use-agile.png)
 
