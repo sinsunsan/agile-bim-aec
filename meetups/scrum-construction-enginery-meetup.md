@@ -56,3 +56,11 @@ ENCOTECH took care of small to large projects, both public and private. They wor
 
 {% file src="../.gitbook/assets/scrum-in-construction-and-engineery-\_-two-case-studies\_stats.pdf" caption="Download the stats here" %}
 
+### Live pics 
+
+![2 agile coaches working for Architecture &amp; Construction](../.gitbook/assets/scrum-construction-agile-coach-aec.png)
+
+![](../.gitbook/assets/scrum-construction-remote-sprint-reviews.png)
+
+
+
