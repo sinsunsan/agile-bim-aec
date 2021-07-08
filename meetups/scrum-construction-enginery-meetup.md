@@ -38,3 +38,17 @@ ENCOTECH took care of small to large projects, both public and private. They wor
 
 ![Davide Luca Roitero / Agile Coach](../.gitbook/assets/davide_luca_roteiro.jpeg)
 
+### Meetup \# 12 attendance stats 
+
+### Who already use Agile in his projects
+
+![Do you use Agile in your projects ? ](../.gitbook/assets/meetup-agile-do-use-agile.png)
+
+### Who are we?
+
+![Who are we?](../.gitbook/assets/agile-bim-meetup-who-are-we.png)
+
+### What tools do we use
+
+![Which agile tools for AEC?](../.gitbook/assets/agile-bim-tools.png)
+
