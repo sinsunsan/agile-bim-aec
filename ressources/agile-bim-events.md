@@ -1,4 +1,4 @@
-# 📅 Agile BIM Events
+# 📅 Agile in construction Events
 
 Feel free to add more events video here \([How to contribute to agileBIM.org](../agile-bim-community/contribute.md)\) 
 

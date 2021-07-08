@@ -52,7 +52,7 @@
 * [🛠️  Agile Tools](ressources/agile-tools.md)
 * [🎓 Learn AGILE BIM](ressources/learn-agile-bim.md)
 * [🎙️ YouTube channel & Podcasts](ressources/youtube.md)
-* [📅 Agile BIM Events](ressources/agile-bim-events.md)
+* [📅 Agile in construction Events](ressources/agile-bim-events.md)
 * [🚀 Startups Agile AEC](ressources/startups.md)
 * [📜 Licence CC](ressources/licence.md)
 
