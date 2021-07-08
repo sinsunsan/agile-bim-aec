@@ -1,3 +1,7 @@
+---
+description: EC
+---
+
 # 🛠️  Agile Tools
 
 ### Agile task management
@@ -5,6 +9,12 @@
 * JIRA  [https://www.atlassian.com/software/jira](https://www.atlassian.com/software/jira)
 * Trello [https://trello.com/fr](https://trello.com/fr)
 * Scrumpy [https://scrumpy.io/](https://scrumpy.io/)
+* Asana 
+* Clickup
+* Todoist
+
+### Agile board + BIM integration
+
 * Bricks [https://www.bricksapp.io/](https://www.bricksapp.io/)
 
 ### Retrospective
@@ -19,4 +29,6 @@
 
 * Miro [https://miro.com](https://miro.com/fr/)
 * Klaxoon  [https://klaxoon.com](https://klaxoon.com/fr/home)
+
+![Stats from tools usage of attendees of meetup \#12](../.gitbook/assets/project-management-soft-agile-bim.png)
 
