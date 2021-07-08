@@ -1,5 +1,5 @@
 ---
-description: EC
+description: Collaborative tools to practice agile remotely
 ---
 
 # 🛠️  Agile Tools
