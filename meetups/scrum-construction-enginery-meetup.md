@@ -6,6 +6,8 @@
 
 {% embed url="https://lu.ma/zi5ejvt9" caption="The event page to register" %}
 
+{% embed url="https://www.youtube.com/watch?v=UQl5KmOxn1k" %}
+
 ### ✨ About the meetup 
 
 When the number of customers increases \(very nice-to-have problem\) and the complexity increases, it is not easy to grow in size while maintaining excellent quality.
