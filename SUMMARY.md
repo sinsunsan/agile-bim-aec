@@ -55,7 +55,7 @@
 
 * [🛠️  Agile Tools](learn-and-practice-agile-bim/agile-tools.md)
 * [🏄 You are an AEC Agile coach](learn-and-practice-agile-bim/agile-bim-coaching.md)
-* [🎓 Learn AGILE BIM](learn-and-practice-agile-bim/learn-agile-bim.md)
+* [🎓 Learn AGILE in AEC](learn-and-practice-agile-bim/learn-agile-aec.md)
 
 ## Ressources
 
