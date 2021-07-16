@@ -12,6 +12,10 @@ Feel free to add more events video here \([How to contribute to agileBIM.org](..
 
 {% page-ref page="../meetups/scrum-for-construction-meetup.md" %}
 
+{% embed url="https://www.youtube.com/watch?v=wNUYJcrnat4" %}
+
+
+
 ### Agile BIM framework with François Muzard
 
  [Agile BIM Framework, François Muzard \(Recorded at thinkBIM Conference](https://www.youtube.com/watch?v=zPKTu8l35Vg&t=10s&ab_channel=SOBECTVatLeedsBeckettUniversity)\)
