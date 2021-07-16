@@ -23,7 +23,13 @@
   * [🖋️ Contribute to AgileBIM.org](agile-bim-community/contribute.md)
   * [🏄 Want to become an Agile BIM coach ?](agile-bim-community/agile-bim-coaching.md)
 
-## In English <a id="en"></a>
+## Who use Agile in AEC?
+
+* [🚀 Agile AEC Startups](who-use-agile-in-aec/agile-aec-startups.md)
+* [🏢 Agile AEC companies](who-use-agile-in-aec/agile-aec-companies.md)
+* [💪 Agile AEC coaches](who-use-agile-in-aec/agile-aec-coaches.md)
+
+## Agile BIM methods <a id="en"></a>
 
 * [🎯 Why Agile in construction industry?](en/agile-benefits.md)
 * [🏂 What is agile BIM?](en/what-is-agile-bim.md)
@@ -46,14 +52,19 @@
   * [User stories](en/agile-toolbox/user-stories.md)
   * [⏳ Time vs Objective 🎯](en/agile-toolbox/time-tracking-vs-target.md)
 
+## Learn and practice <a id="learn-and-practice-agile-bim"></a>
+
+* [🎓 Learn AGILE BIM](learn-and-practice-agile-bim/learn-agile-bim.md)
+
+---
+
+* [🛠️  Agile Tools](agile-tools.md)
+
 ## Ressources
 
 * [🔗 Links and bibliography](ressources/links.md)
-* [🛠️  Agile Tools](ressources/agile-tools.md)
-* [🎓 Learn AGILE BIM](ressources/learn-agile-bim.md)
 * [🎙️ YouTube channel & Podcasts](ressources/youtube.md)
 * [📅 Agile in construction Events](ressources/agile-bim-events.md)
-* [🚀 Startups Agile AEC](ressources/startups.md)
 * [📜 Licence CC](ressources/licence.md)
 
 ## En Français <a id="fr"></a>
