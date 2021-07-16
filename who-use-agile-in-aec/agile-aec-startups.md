@@ -11,7 +11,9 @@ description: 'List of startups that work on Agile in AEC :'
 * [Speckle](https://speckle.systems/): The open source data platform for AEC
 
 {% hint style="info" %}
-You know a startup working on agile in AEC ?   
+You want to list a startup working on agile in AEC ?   
 [Please contribute to this wiki](../agile-bim-community/contribute.md)
 {% endhint %}
+
+
 

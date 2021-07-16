@@ -1,6 +1,8 @@
 # Table of contents
 
 * [Agile in construction industry](README.md)
+* [🙌 Join Agile BIM community](agile-bim-community/README.md)
+  * [🖋️ Contribute to AgileBIM.org](agile-bim-community/contribute.md)
 * [👷‍♀️ Meetups](meetups/README.md)
   * [Scrum for construction & Engineering : 2 case studies  \#12](meetups/scrum-construction-enginery-meetup.md)
   * [Accelerate with Scrum for construction \#11](meetups/scrum-for-construction-meetup.md)
@@ -19,15 +21,12 @@
   * [Use Scrum for an Office design - Hippodigital](case-studies/office-design-scrum.md)
   * [Virtual reality Meetings  - Merrick](case-studies/merrick-virtual-reality-meetings.md)
   * [Write your case study](case-studies/use-cases-templates.md)
-* [🙌 Join Agile BIM community](agile-bim-community/README.md)
-  * [🖋️ Contribute to AgileBIM.org](agile-bim-community/contribute.md)
-  * [🏄 Want to become an Agile BIM coach ?](agile-bim-community/agile-bim-coaching.md)
 
 ## Who use Agile in AEC?
 
-* [🚀 Agile AEC Startups](who-use-agile-in-aec/agile-aec-startups.md)
 * [🏢 Agile AEC companies](who-use-agile-in-aec/agile-aec-companies.md)
 * [💪 Agile AEC coaches](who-use-agile-in-aec/agile-aec-coaches.md)
+* [🚀 Agile AEC Startups](who-use-agile-in-aec/agile-aec-startups.md)
 
 ## Agile BIM methods <a id="en"></a>
 
@@ -54,11 +53,9 @@
 
 ## Learn and practice <a id="learn-and-practice-agile-bim"></a>
 
+* [🛠️  Agile Tools](learn-and-practice-agile-bim/agile-tools.md)
+* [🏄 You are an AEC Agile coach](learn-and-practice-agile-bim/agile-bim-coaching.md)
 * [🎓 Learn AGILE BIM](learn-and-practice-agile-bim/learn-agile-bim.md)
-
----
-
-* [🛠️  Agile Tools](agile-tools.md)
 
 ## Ressources
 
@@ -67,7 +64,7 @@
 * [📅 Agile in construction Events](ressources/agile-bim-events.md)
 * [📜 Licence CC](ressources/licence.md)
 
-## En Français <a id="fr"></a>
+## Agile BIM en Français 🇫🇷 <a id="fr"></a>
 
 * [🎯 Pourquoi l'agile dans la construction](fr/agile-bim-benefices.md)
 * [🏂 Qu'est-ce que le BIM Agile](fr/bim-agile.md)
