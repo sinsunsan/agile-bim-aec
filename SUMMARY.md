@@ -1,9 +1,10 @@
 # Table of contents
 
 * [Agile in construction industry](README.md)
-* [🙌 Join Agile BIM community](agile-bim-community/README.md)
-  * [🖋️ Contribute to AgileBIM.org](agile-bim-community/contribute.md)
-* [👷‍♀️ Meetups](meetups/README.md)
+* [🙌 Join Agile BIM](agile-bim-community/README.md)
+  * [🖋️ Contribute](agile-bim-community/contribute.md)
+  * [📜 Licence CC](agile-bim-community/licence.md)
+* [👷‍♀️ Agile BIM Meetups](meetups/README.md)
   * [Scrum for construction & Engineering : 2 case studies  \#12](meetups/scrum-construction-enginery-meetup.md)
   * [Accelerate with Scrum for construction \#11](meetups/scrum-for-construction-meetup.md)
   * [Why Off site construction is the future of construction \#10](meetups/off-site-construction-meetup.md)
@@ -30,7 +31,7 @@
 
 ## Agile BIM methods <a id="en"></a>
 
-* [🎯 Why Agile in construction industry?](en/agile-benefits.md)
+* [🎯 Why Agile in construction?](en/agile-benefits.md)
 * [🏂 What is agile BIM?](en/what-is-agile-bim.md)
 * [🚀 Agile BIM Method](en/agile-bim-method/README.md)
   * [Team organizations](en/agile-bim-method/team-organizations.md)
@@ -62,7 +63,6 @@
 * [🔗 Links and bibliography](ressources/links.md)
 * [🎙️ YouTube channel & Podcasts](ressources/youtube.md)
 * [📅 Agile in construction Events](ressources/agile-bim-events.md)
-* [📜 Licence CC](ressources/licence.md)
 
 ## Agile BIM en Français 🇫🇷 <a id="fr"></a>
 

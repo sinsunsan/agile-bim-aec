@@ -2,7 +2,7 @@
 description: Contribute to this wiki about agile in Architecture & Construction
 ---
 
-# 🖋️ Contribute to AgileBIM.org
+# 🖋️ Contribute
 
 If you are interested in Agile approach applied to architecture and construction. Feel free to contribute to this wiki!
 

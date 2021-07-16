@@ -2,7 +2,7 @@
 description: Agile BIM is open to all interested to agile in construction
 ---
 
-# 🙌 Join Agile BIM community
+# 🙌 Join Agile BIM
 
 ### Links to agile BIM community  
 

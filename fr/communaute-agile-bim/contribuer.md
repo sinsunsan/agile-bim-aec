@@ -38,7 +38,7 @@ Tous les contenus publié sous licence creative commons et disponible également
 
 Pour en savoir plus sur la licence, cliquer sur le lien suivant.
 
-{% page-ref page="../../ressources/licence.md" %}
+{% page-ref page="../../agile-bim-community/licence.md" %}
 
 
 

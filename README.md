@@ -49,6 +49,12 @@ Agile BIM is sponsored and by [Bricks, the agile collaboration app for architect
 ![Bricks Logo](.gitbook/assets/bricks-logo-2019_bricks-logo-full.png)
 
 {% hint style="info" %}
-[👋](https://emojipedia.org/waving-hand/) Want to help this open innitiative and become an agile BIM sponsor please [contact us](mailto:hello@bricksapp.io?subject=Be%20sponsor%20of%20Agile%20BIM)
+[👋](https://emojipedia.org/waving-hand/) Want to help this open initiative and become an agile BIM sponsor please [contact us](mailto:hello@bricksapp.io?subject=Be%20sponsor%20of%20Agile%20BIM)
 {% endhint %}
+
+### You want to find an agile coach for your next project? 
+
+{% embed url="https://form.typeform.com/to/Trup49u9" %}
+
+
 
