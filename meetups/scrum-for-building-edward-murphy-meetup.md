@@ -65,7 +65,7 @@ This case study will outline Ollio experience with applying scrum methodology in
   
 In the meetup, Edward will explain how Agile in Buildings works and how to use these's new approaches for brief development and buildings design. 
 
-He took all users from top to bottom through a full [User Stories](../en/agile-toolbox/user-stories.md), [Product Backlog](../en/agile-toolbox/product-backlog.md) and Scrum Team [prototyping](../en/agile-toolbox/rapid-prototyping.md) process to inform how their new office needed to work for everyone. Then rapidly test the emergent design before the whole of the organization collectively agreed on what they should physically build out. 
+He took all users from top to bottom through a full [User Stories](../en/agile-practices/user-stories.md), [Product Backlog](../en/agile-practices/product-backlog.md) and Scrum Team [prototyping](../en/agile-practices/rapid-prototyping.md) process to inform how their new office needed to work for everyone. Then rapidly test the emergent design before the whole of the organization collectively agreed on what they should physically build out. 
 
 ### **Space design as a way to reorganize the way the team work** 
 

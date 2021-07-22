@@ -32,7 +32,7 @@ So let's try to lay down the principles of Agile BIM applied to AEC industry !
 
 {% page-ref page="en/agile-bim-method/" %}
 
-{% page-ref page="en/agile-toolbox/" %}
+{% page-ref page="en/agile-practices/" %}
 
 
 

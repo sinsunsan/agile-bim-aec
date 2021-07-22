@@ -21,6 +21,7 @@
 * [🎢 Case studies](case-studies/README.md)
   * [Use Scrum for an Office design - Hippodigital](case-studies/office-design-scrum.md)
   * [Virtual reality Meetings  - Merrick](case-studies/merrick-virtual-reality-meetings.md)
+  * [Start Agile in your company](case-studies/start-agile.md)
   * [Write your case study](case-studies/use-cases-templates.md)
 
 ## Who use Agile in AEC?
@@ -40,21 +41,21 @@
 * [🏗️  Agile benefits](en/agile-construction-benefits/README.md)
   * [Problems of the traditional approach](en/agile-construction-benefits/problems-constructions-projects.md)
   * [Benefits of Agile in AEC](en/agile-construction-benefits/agile-aec-benefits.md)
-* [🛠️ Agile toolbox](en/agile-toolbox/README.md)
-  * [Standup meeting](en/agile-toolbox/standup-meeting.md)
-  * [Demos & Virtual reality](en/agile-toolbox/project-demo.md)
-  * [Work with iterations](en/agile-toolbox/iterative-work.md)
-  * [Restrospective](en/agile-toolbox/restrospective.md)
-  * [Continuous improvement](en/agile-toolbox/continuous-improvement.md)
-  * [Rapid prototyping](en/agile-toolbox/rapid-prototyping.md)
-  * [Pair modeling](en/agile-toolbox/pair-working.md)
-  * [Product backlog](en/agile-toolbox/product-backlog.md)
-  * [User stories](en/agile-toolbox/user-stories.md)
-  * [⏳ Time vs Objective 🎯](en/agile-toolbox/time-tracking-vs-target.md)
+* [🛠️ Agile practices](en/agile-practices/README.md)
+  * [Standup meeting](en/agile-practices/standup-meeting.md)
+  * [Demos & Virtual reality](en/agile-practices/project-demo.md)
+  * [Work with iterations](en/agile-practices/iterative-work.md)
+  * [Restrospective](en/agile-practices/restrospective.md)
+  * [Continuous improvement](en/agile-practices/continuous-improvement.md)
+  * [Rapid prototyping](en/agile-practices/rapid-prototyping.md)
+  * [Pair modeling](en/agile-practices/pair-working.md)
+  * [Product backlog](en/agile-practices/product-backlog.md)
+  * [User stories](en/agile-practices/user-stories.md)
+  * [⏳ Time vs Objective 🎯](en/agile-practices/time-tracking-vs-target.md)
 
 ## Learn and practice <a id="learn-and-practice-agile-bim"></a>
 
-* [🛠️  Agile Tools](learn-and-practice-agile-bim/agile-tools.md)
+* [🛠️  Agile BIM Toolbox](learn-and-practice-agile-bim/agile-tools.md)
 * [🏄 You are an AEC Agile coach](learn-and-practice-agile-bim/agile-bim-coaching.md)
 * [🎓 Learn AGILE in AEC](learn-and-practice-agile-bim/learn-agile-aec.md)
 

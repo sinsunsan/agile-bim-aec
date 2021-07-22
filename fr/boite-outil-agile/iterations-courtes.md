@@ -33,7 +33,7 @@ En pratique, voila ce que vous pouvez faire :
 * Un cycle agile ou itération courte est une période de travail de 1, 2 ou 3 semaines qui correspond à une étape de conception d'un projet
 * L'itération doit être définie à l'avance si possible pour être sûr d'avoir pris le temps de prioriser les tâches et qu’au bout de la période il sera possible de faire une démo
 * Préférez une itération modeste mais qui se termine comme prévu, à une itération trop ambitieuse mais ou la moitié des points ne seront à la fin par traité. En effet choisir pour ne garder que le plus important est au cœur des approches agiles.
-* Une fois l'itération terminée, il est important d'en tirer des conclusions en faisant une [demo](demos-projet.md) avec les parties prenantes \(maître d'ouvrage, équipe projet...\) et si possible une [retrospective](../../en/agile-toolbox/restrospective.md)  en interne pour bien analyser comment s'est passer l'itération. Dans un but de progresser et d'apprendre, c'est  l'[amélioration continue](amelioration-continue.md).
+* Une fois l'itération terminée, il est important d'en tirer des conclusions en faisant une [demo](demos-projet.md) avec les parties prenantes \(maître d'ouvrage, équipe projet...\) et si possible une [retrospective](../../en/agile-practices/restrospective.md)  en interne pour bien analyser comment s'est passer l'itération. Dans un but de progresser et d'apprendre, c'est  l'[amélioration continue](amelioration-continue.md).
 
 {% hint style="info" %}
 [Vous pouvez améliorer cet article ! ](../communaute-agile-bim/contribuer.md)

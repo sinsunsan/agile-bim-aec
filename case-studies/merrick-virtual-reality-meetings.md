@@ -6,7 +6,7 @@
 
 ### Agile BIM recipes used: 
 
-* [Demo](../en/agile-toolbox/project-demo.md) and virtual reality 
+* [Demo](../en/agile-practices/project-demo.md) and virtual reality 
 
 ### Software used: 
 

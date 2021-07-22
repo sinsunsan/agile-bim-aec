@@ -41,7 +41,7 @@ Découvrez l'épisode sur le daily du podcast Agile BIM
 
 ### Read it in English 
 
-{% page-ref page="../../en/agile-toolbox/standup-meeting.md" %}
+{% page-ref page="../../en/agile-practices/standup-meeting.md" %}
 
 
 

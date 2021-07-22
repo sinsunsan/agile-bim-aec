@@ -2,7 +2,7 @@
 description: Collaborative tools to practice agile remotely
 ---
 
-# 🛠️  Agile Tools
+# 🛠️  Agile BIM Toolbox
 
 ### Agile task management
 
