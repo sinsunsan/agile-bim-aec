@@ -1,10 +1,10 @@
-# Start Agile in your company
+# 🏁 Start Agile in your company
 
-### What [agile practice](../learn-and-practice-agile-bim/agile-tools.md) needs to be set up first? 
+### What [agile practice](learn-and-practice-agile-bim/agile-tools.md) needs to be set up first? 
 
 [https://www.linkedin.com/posts/archiref\_agilebim-scrum-agile-activity-6821352907380809728-IY9F](https://www.linkedin.com/posts/archiref_agilebim-scrum-agile-activity-6821352907380809728-IY9F)
 
-![](../.gitbook/assets/what-is-agile-practice-to-do-first.png)
+![](.gitbook/assets/what-is-agile-practice-to-do-first.png)
 
 Suggestion by [Felipe Engineer ](https://www.linkedin.com/in/engineerfelipe/)
 

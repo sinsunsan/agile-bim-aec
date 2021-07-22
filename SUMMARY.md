@@ -21,8 +21,8 @@
 * [🎢 Case studies](case-studies/README.md)
   * [Use Scrum for an Office design - Hippodigital](case-studies/office-design-scrum.md)
   * [Virtual reality Meetings  - Merrick](case-studies/merrick-virtual-reality-meetings.md)
-  * [Start Agile in your company](case-studies/start-agile.md)
   * [Write your case study](case-studies/use-cases-templates.md)
+* [🏁 Start Agile in your company](start-agile.md)
 
 ## Who use Agile in AEC?
 
