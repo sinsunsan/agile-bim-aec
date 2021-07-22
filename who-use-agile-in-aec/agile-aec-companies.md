@@ -8,15 +8,15 @@ description: >-
 
 ## Architects
 
-* [enia architectes](https://www.enia.fr/) / France
+* [enia architectes](https://www.enia.fr/) / France / Agile BIM
 
 ## Construction
 
-* [ENCOTECH](../meetups/scrum-construction-enginery-meetup.md) / Italy
+* [ENCOTECH](../meetups/scrum-construction-enginery-meetup.md) / Italy / Scrum
 
 ## Engineers
 
-* [Net Engineering](../meetups/scrum-construction-enginery-meetup.md) / Italy
+* [Net Engineering](../meetups/scrum-construction-enginery-meetup.md) / Italy / Scrum
 
 {% hint style="info" %}
 You want to list a company working on agile in AEC ?   
