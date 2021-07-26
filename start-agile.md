@@ -12,7 +12,7 @@
   * Define a schedule to show the project internally to **get feedbacks** from others \(Read more on [demo the project](en/agile-practices/project-demo.md)\) 
   * Define a schedule to talk with the team to understand what is going well, not so well... and to take time to think how we can improve our selves what is called [retrospectives](en/agile-practices/restrospective.md)
 * Choose a starter project that is not too big, not too complex, and with a small team 3-5 is ideal
-* Test, read and iterate
+* Test, adapt and iterate
 
 ## What the community think?
 

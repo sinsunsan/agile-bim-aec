@@ -1,3 +1,7 @@
+---
+description: S'assurer que votre équipe s'améliore continuellement.
+---
+
 # Les rétrospectives
 
 
