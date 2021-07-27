@@ -1,5 +1,5 @@
 ---
-description: Faire que votre équipe s'améliore continuellement.
+description: Comment faire pour que votre équipe s'améliore continuellement ?
 ---
 
 # Les rétrospectives
