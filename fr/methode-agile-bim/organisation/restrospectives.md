@@ -38,15 +38,18 @@ La principale difficulté sera d'assurer que ces réunions aient bien lieu avant
 
 Exemple de chapitre à insérer dans la liste des réunions prévues.
 
-> Réunion de fin de phase \(rétrospective\)
->
-> Après la fin de chaque phase une réunion de rétrospective sera organisée pour :
->
-> * Retour par le BIM management et les équipes sur l’ensemble des maquettes numériques livrées, réussites et points à améliorer ;
-> * Retour par le BIM management et les équipes sur le déroulement de la démarche collaborative réussites et points à améliorer ;
-> * Présentation de visuel \(images, vidéo, visite virtuelle\) présentant l’état du projet BIM à cette phase.
->
-> A la suite de cette réunion, un compte rendu est publié qui rappelle le bilan BIM de la phase écoulé et les mesures décidées par les acteurs pour s’améliorer dans la phase suivante.
+{% hint style="success" %}
+### Réunion de fin de phase \(rétrospective\)
+
+Après la fin de chaque phase une réunion de rétrospective sera organisée pour :
+
+* Retour par le BIM management et les équipes sur l’ensemble des maquettes numériques livrées, réussites et points à améliorer ;
+* Retour par le BIM management et les équipes sur l’ensemble des maquettes numériques livrées, réussites et points à améliorer ;
+* Retour par le BIM management et les équipes sur le déroulement de la démarche collaborative réussites et points à améliorer ;
+* Présentation de visuel \(images, vidéo, visite virtuelle\) présentant l’état du projet BIM à cette phase.
+
+A la suite de cette réunion, un compte rendu est publié qui rappelle le bilan BIM de la phase écoulé et les mesures décidées par les acteurs pour s’améliorer dans la phase suivante.
+{% endhint %}
 
 {% hint style="info" %}
 [Vous pouvez améliorer cet article ! ](../../communaute-agile-bim/contribuer.md)
