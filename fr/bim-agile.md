@@ -4,7 +4,9 @@
 
 Les problèmes de l’industrie du bâtiment d’une part et les innovations dans les nouvelles technologies d’autre part nous amène à regarder comment, au-delà de la technologie, l’industrie du logiciel a pu se transformer pour relever les défis de la qualité, des coûts et de l’innovation.
 
-Au-delà des outils, c’est avant tout l’innovation managériale, qui a permis au logiciel de se transformer en profondeur.
+Au-delà des outils, c’est avant tout l’innovation managériale, qui a permis au logiciel de se transformer en profondeur. En particulier la notion de cadre méthodologique créé par l'assemblage de bonnes pratiques \(design pattern\) : SCRUM, Kanban, Exterm Programming, ...
+
+Notez qu'à l'origine la notion de design pattern \(parton de conception\) vient d'un architecte, Christopher Alexander, et ses réflexion sur la planification urbaine : [_A Pattern Language: Towns, Buildings, Construction_](https://www.wikiwand.com/fr/A_Pattern_Language).
 
 ### C'est quoi le BIM Agile
 

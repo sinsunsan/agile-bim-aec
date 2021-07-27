@@ -41,7 +41,7 @@ description: How you can use agile at each stage of a building and architecture 
 
 **Agile methods**: Lean construction, Kanban
 
-Read this [article in french](../../fr/methode-agile-bim/projet-construction-agile.md).
+Read this [article in french](../../fr/agile-architecture-construction/projet-construction-agile.md).
 
 
 

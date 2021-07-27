@@ -77,7 +77,7 @@ Sur la phase étude, moins de différence entre l'informatique et l'architecture
 
 6 mois à 2 ans 
 
-Mais ****appliquer certaines [pratiques agiles](../fr/boite-outil-agile/) : le daily meeting par exemple peut apporter des améliorations importantes.
+Mais ****appliquer certaines [pratiques agiles](../fr/boite-outil-agile.md) : le daily meeting par exemple peut apporter des améliorations importantes.
 
 **Comment coordonner des équipes Agile qui travaillent à distance  ?** 
 

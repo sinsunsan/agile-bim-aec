@@ -26,7 +26,7 @@ Nous recherchons plus particulièrement des contributeurs sur les parties suivan
 
 * **Boîte à outil Agile :** sortes de  fiches pratiques sur les pratiques agiles applicables dans la construction
 
-{% page-ref page="../boite-outil-agile/" %}
+{% page-ref page="../boite-outil-agile.md" %}
 
 * **Retours d'expérience** : des cas concrets de l'utilisation des méthodes Agile sur des projets d'architecture et de construction
 

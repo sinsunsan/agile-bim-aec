@@ -22,7 +22,7 @@ vs
 
 * La mélange de professionnels techniques \(les ingénieurs vs les développeurs\) et créatifs \(les architectes vs les UI / UX designers\) et un client \(le maître d'ouvrage / PO\)
 * Un format d'échange commun : le code pour le développement, une maquette BIM pour le bâtiment
-* Un avancement depuis une [esquisse jusqu'à la réalisation ](../methode-agile-bim/projet-construction-agile.md)
+* Un avancement depuis une [esquisse jusqu'à la réalisation ](projet-construction-agile.md)
 * Des moyens de faire réagir les parties prenants \(stakeholders\) grâce un environnement de test, des prototypes UX / UI pour l'IT, et des maquettes 3D, réalité virtuelle, maquette physique, perspective... pour le bâtiment.
 * Pas d'environnement de test pour le bâtiment, mais pas mal de moyens de voir le projet avant qu'il soit réalisé : Maquette, maquette 3D, réalité virtuelle..... dans le but de confronter les stakeholders \(partie-prenants, décideurs, utilisateurs\) avec la réalité du projet en train de se faire
 
