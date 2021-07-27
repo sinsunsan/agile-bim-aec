@@ -6,7 +6,7 @@ description: Comment faire pour que votre équipe s'améliore continuellement ?
 
 La rétrospective est probablement la plus importante et la première des pratiques à mettre en œuvre avec votre équipe de projet. C'est un bon moyen pour commencer à changer les choses avec votre équipe, car elle est simple à mettre en œuvre, implique directement les personnes de l'équipe et vous entraîne à animer des réunions "différentes".
 
-## Déroulé
+## En pratique
 
 La rétrospective est une réunion ou se retrouve des personnes ayant travaillés ensemble sur le même projet pendant une période donnée \(l'équipe interne, l'équipe de MOE ou de l'entreprise, l'équipe de la synthèse, ...\). En général à la fin d'une phase \(2, 3 mois maximum\) ou plus régulièrement si besoin.
 
@@ -14,18 +14,21 @@ L'objectif ? Mettre en valeur ce qui fonctionne bien \(et célébrer les réussi
 
 Les sujets abordés concernent les individus, les interactions, les processus, les outils et logiciels. L'équipe identifie les sujets puis explore des solutions pour les résoudre. Cette réunion ne doit pas durer plus que 3 h voir 2 h.
 
-![Une r&#xE9;trospective chez enia architectes.](../../../.gitbook/assets/screenshot-2021-07-27-01.44.28.png)
+![Une r&#xE9;trospective chez enia architectes.](../../../.gitbook/assets/screenshot-2021-07-27-10.22.28.png)
 
 À la fin de la rétrospective, l'équipe doit choisir des améliorations concrète en favorisant celles ayant le plus d'impact. Un plan d'action précis est décidé par l'équipe pour s'assurer de leur mise en œuvre.
 
 Exemples : 
 
-* “Créer une solution pour tester la qualité de la maquette Revit”
-* "Modification des jours de partage des maquettes numériques selon les intervenants".
+* “Créer une solution pour tester la qualité de la maquette Revit avant la publication”
+* "Modification des jours de partage des maquettes numériques selon les intervenants pour accélérer le rythme des modification"
+* "Créer une famille spécifique pour répondre à un besoin spécifique identifié de manière récurrente"
 
 Elle est animée par le BIM manager ou au besoin une personne extérieure au projet pour que chacun puisse s'exprimer.
 
 ![Une r&#xE9;trospective en ligne avec Google Drawing.](../../../.gitbook/assets/screenshot-2021-07-27-01.48.05.png)
+
+## Bénéfices
 
 Cette réunion est aussi l'occasion de renforcer la culture d'équipe ou de l’entreprise, partager des expériences et motiver les personnes qui peuvent s'exprimer et contribuer à l’amélioration de leur travail. Au besoin certains sujets devront faire l'objet d'une escalade dans l’entreprise pour suggérer des changements plus profonds qui pourraient être bénéfiques à toute l'entreprise.
 
