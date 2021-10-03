@@ -6,12 +6,24 @@ description: Agile BIM is open to all interested to agile in construction
 
 ### Links to agile BIM community  
 
-* Agile BIM [Slack](https://communityinviter.com/apps/agile-bim/agile-bim)  to chat with other BIM agilist
-* Agile BIM [youtube channel ](https://www.youtube.com/channel/UCTjcoh157n3hxKCxpEvfqeQ?sub_confirmation=1) to watch meetups video and get notified for new videos
-* Agile BIM [meetups page on Linkedin ](https://www.linkedin.com/showcase/agile-bim/) to get informed about our next meetups
-* Agile BIM [meetups page on Meetup.org](https://www.meetup.com/fr-FR/collaborative-architecture) 
-* Agile  BIM [group on Linkedin ](https://www.linkedin.com/groups/8584849/)to discuss or promote your agile BIM activity in Linkedin
-* Agile BIM [form to join list of agile BIM coaches ](https://airtable.com/shrbhMGRK4zRIAQ7Y)willing to accept some missions
+#### Slack and group
+
+* [Slack](https://communityinviter.com/apps/agile-bim/agile-bim)  to chat with other BIM agilist
+* [Group on Linkedin ](https://www.linkedin.com/groups/8584849/)to discuss or promote your agile BIM activity in Linkedin
+
+#### Meetups and Youtube channel
+
+* [Youtube channel ](https://www.youtube.com/channel/UCTjcoh157n3hxKCxpEvfqeQ?sub_confirmation=1) to watch meetups video and get notified for new videos
+* [Meetups page on Linkedin ](https://www.linkedin.com/showcase/agile-bim/) to get informed about our next meetups
+* [Meetups page on Meetup.org](https://www.meetup.com/fr-FR/collaborative-architecture) 
+
+#### Learn and teach / coach Agile BIM
+
+* [Form to join list of agile BIM coaches ](https://airtable.com/shrbhMGRK4zRIAQ7Y)willing to accept some missions
+* Form to find some coach / teacher to use agile BIM 
+* Agile BIM learning by email by Sébastien Lucas
+  * In french : [Apprenez l'agile BIM en pratique semaine après semaine](https://form.typeform.com/to/DeVTmH77)
+  * In english: [Learn agile BIM in practice, weeks after weeks  ](https://form.typeform.com/to/sUaTNnDw)
 
 
 
