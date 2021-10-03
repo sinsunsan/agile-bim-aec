@@ -1,5 +1,5 @@
 ---
-description: Agile BIM is open to all interested to agile in construction
+description: Agile BIM is open to all people interested in using agile in construction
 ---
 
 # 🙌 Join Agile BIM
@@ -9,7 +9,7 @@ description: Agile BIM is open to all interested to agile in construction
 #### Slack and group
 
 * [Slack](https://communityinviter.com/apps/agile-bim/agile-bim)  to chat with other BIM agilist
-* [Group on Linkedin ](https://www.linkedin.com/groups/8584849/)to discuss or promote your agile BIM activity in Linkedin
+* [Group on Linkedin ](https://www.linkedin.com/groups/8584849/)to discuss or promote your agile BIM activity on Linkedin
 
 #### Meetups and Youtube channel
 
@@ -19,8 +19,8 @@ description: Agile BIM is open to all interested to agile in construction
 
 #### Learn and teach / coach Agile BIM
 
-* [Form to join list of agile BIM coaches ](https://airtable.com/shrbhMGRK4zRIAQ7Y)willing to accept some missions
-* Form to find some coach / teacher to use agile BIM 
+* [Form to join a directory of agile BIM coaches ](https://airtable.com/shrbhMGRK4zRIAQ7Y)willing to accept some missions
+* [Form to contact us](https://form.typeform.com/to/Trup49u9) if you want to be coached or learn Agile BIM
 * Agile BIM learning by email by Sébastien Lucas
   * In french : [Apprenez l'agile BIM en pratique semaine après semaine](https://form.typeform.com/to/DeVTmH77)
   * In english: [Learn agile BIM in practice, weeks after weeks  ](https://form.typeform.com/to/sUaTNnDw)
