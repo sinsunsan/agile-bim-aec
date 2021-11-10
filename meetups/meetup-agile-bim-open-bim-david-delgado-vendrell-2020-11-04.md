@@ -2,7 +2,7 @@
 description: A concrete agile workflow by David Delgado Vendrell
 ---
 
-# Agile BIM & openBIM \#7
+# Agile BIM & openBIM #7
 
 ![](../.gitbook/assets/meetup7-cover-agile--bim-openbim-david-delgado-vendrell-v3.png)
 
@@ -12,25 +12,25 @@ description: A concrete agile workflow by David Delgado Vendrell
 
 👉 David Linkedin profile [https://www.linkedin.com/in/daviddelgadovendrell/](https://www.linkedin.com/in/daviddelgadovendrell/)
 
-### 📽️ The video on Youtube 
+### 📽️ The video on Youtube&#x20;
 
-{% embed url="https://www.youtube.com/watch?v=Ix8RU8\_lMUw&t=5s" %}
+{% embed url="https://www.youtube.com/watch?v=Ix8RU8_lMUw&t=5s" %}
 
 
 
 {% hint style="info" %}
 Don't miss an Agile meetup
 
-👉 subscribe to our [Youtube page ](https://www.youtube.com/channel/UCTjcoh157n3hxKCxpEvfqeQ)  
-👉 Join our [linkedin page](https://www.linkedin.com/events/6732032311832969216/)  
-👉 Join our [meetup group](https://www.meetup.com/fr-FR/collaborative-architecture)  
+👉 subscribe to our [Youtube page ](https://www.youtube.com/channel/UCTjcoh157n3hxKCxpEvfqeQ)\
+👉 Join our [linkedin page](https://www.linkedin.com/events/6732032311832969216/)\
+👉 Join our [meetup group](https://www.meetup.com/fr-FR/collaborative-architecture) &#x20;
 {% endhint %}
 
-### 🖼️ The slides 
+### 🖼️ The slides&#x20;
 
 {% embed url="https://www.scribd.com/document/483304175/Simplified-Agile-approach-into-an-openBIM-production-small-practice-by-David-Delgado-Vendrell-Agile-BIM-Meetup-7" %}
 
-### 🖼️  Meetup screenshots 
+### 🖼️  Meetup screenshots&#x20;
 
 ![](../.gitbook/assets/screen-shot-2020-11-04-at-17.51.48.png)
 
@@ -41,6 +41,4 @@ Don't miss an Agile meetup
 
 
 ![](../.gitbook/assets/screen-shot-2020-11-04-at-18.43.47.png)
-
-
 

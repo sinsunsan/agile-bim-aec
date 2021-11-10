@@ -10,7 +10,5 @@
 
 {% embed url="https://www.scruminc.com/scrum-design-construction/" %}
 
-{% embed url="https://academy.trilliumgroup.io/visitor\_class\_catalog/category/75592" %}
-
-
+{% embed url="https://academy.trilliumgroup.io/visitor_class_catalog/category/75592" %}
 

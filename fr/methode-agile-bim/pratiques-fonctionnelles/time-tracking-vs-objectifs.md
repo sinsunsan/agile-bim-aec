@@ -10,11 +10,10 @@ On est donc tenté de calculer le temps de tout ce que l'on fait et de demander 
 
 Mais surtout car ces métriques ne sont finalement pas très actionnables. Une fois qu'on a passé 10 h à faire une tâche alors qu'on pensait en passer 5 h seulement. Qu'est-ce qu'on peut faire ? Demander un supplément au client ? C'est rarement possible malheureusement.
 
-Alors quoi faire ? Je vous propose de regarder le Scrum, l'un des approches Agile les plus populaires, et ce que cette approche propose pour visualiser l'avancement par rapport à des objectifs. 🎯  
-  
+Alors quoi faire ? Je vous propose de regarder le Scrum, l'un des approches Agile les plus populaires, et ce que cette approche propose pour visualiser l'avancement par rapport à des objectifs. 🎯\
+\
 
 
 {% hint style="info" %}
 [Vous pouvez améliorer cet article ! ](../../communaute-agile-bim/contribuer.md)
 {% endhint %}
-

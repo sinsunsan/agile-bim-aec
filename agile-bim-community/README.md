@@ -4,7 +4,7 @@ description: Agile BIM is open to all people interested in using agile in constr
 
 # 🙌 Join Agile BIM
 
-### Links to agile BIM community  
+### Links to agile BIM community &#x20;
 
 #### Slack and group
 
@@ -13,9 +13,9 @@ description: Agile BIM is open to all people interested in using agile in constr
 
 #### Meetups and Youtube channel
 
-* [Youtube channel ](https://www.youtube.com/channel/UCTjcoh157n3hxKCxpEvfqeQ?sub_confirmation=1) to watch meetups video and get notified for new videos
+* [Youtube channel ](https://www.youtube.com/channel/UCTjcoh157n3hxKCxpEvfqeQ?sub\_confirmation=1) to watch meetups video and get notified for new videos
 * [Meetups page on Linkedin ](https://www.linkedin.com/showcase/agile-bim/) to get informed about our next meetups
-* [Meetups page on Meetup.org](https://www.meetup.com/fr-FR/collaborative-architecture) 
+* [Meetups page on Meetup.org](https://www.meetup.com/fr-FR/collaborative-architecture)&#x20;
 
 #### Learn and teach / coach Agile BIM
 
@@ -29,25 +29,27 @@ description: Agile BIM is open to all people interested in using agile in constr
 
 ![Agile BIM meetups](../.gitbook/assets/agile-bim-meetup.jpg)
 
-###  Agile BIM meetups
+### &#x20;Agile BIM meetups
 
-We regularly organize [meetups](../meetups/) and working groups to discuss agility in the field of architecture and construction. 
+We regularly organize [meetups](../meetups/) and working groups to discuss agility in the field of architecture and construction.&#x20;
 
 ![Watch our agile BIM meetups on Youtube](../.gitbook/assets/agile-bim-meetups.png)
 
-{% page-ref page="../meetups/" %}
+{% content-ref url="../meetups/" %}
+[meetups](../meetups/)
+{% endcontent-ref %}
 
 
 
 ### Contribute to AgileBIM.org
 
-Finally, you can contribute to this wiki dedicated to agility in building and construction. To do this, you can modify the content of this [page via Github](https://github.com/sinsunsan/agile-bim-aec) and propose your modifications.  
-  
+Finally, you can contribute to this wiki dedicated to agility in building and construction. To do this, you can modify the content of this [page via Github](https://github.com/sinsunsan/agile-bim-aec) and propose your modifications.\
+\
 
 
-{% page-ref page="contribute.md" %}
-
-
+{% content-ref url="contribute.md" %}
+[contribute.md](contribute.md)
+{% endcontent-ref %}
 
 
 

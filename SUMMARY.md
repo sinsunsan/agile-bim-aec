@@ -5,19 +5,20 @@
   * [🖋️ Contribute](agile-bim-community/contribute.md)
   * [📜 Licence CC](agile-bim-community/licence.md)
 * [👷‍♀️ Agile BIM Meetups](meetups/README.md)
-  * [Scrum for construction & Engineering : 2 case studies  \#12](meetups/scrum-construction-enginery-meetup.md)
-  * [Accelerate with Scrum for construction \#11](meetups/scrum-for-construction-meetup.md)
-  * [Why Off site construction is the future of construction \#10](meetups/off-site-construction-meetup.md)
-  * [Agile in building / Hippo digital case study \#9](meetups/scrum-for-building-edward-murphy-meetup.md)
-  * [Architecture & Design thinking \#8](meetups/architecture-design-thinking-luiz-felipe-conrado-de-lima-2020-12-9.md)
-  * [Agile BIM & openBIM \#7](meetups/meetup-agile-bim-open-bim-david-delgado-vendrell-2020-11-04.md)
-  * [Lean construction \#6](meetups/meetup-agile-lean-construction-vincent-morael-2020-09-23.md)
-  * [Conception par les tests \#5](meetups/meetup-talan-labs-2020-02-24.md)
-  * [Pratiques agile dans le bâtiment \#4](meetups/meetup-valode-pistre-2019-12-09.md)
-  * [Les freins à l'Agile dans le BTP \#3](meetups/meetup-enia-freins-agile-btp-2019-10-14.md)
-  * [Agile BIM barriers to adoption \#3](meetups/agile-bim-adoption-barriers.md)
-  * [Atelier Agile construction : Négocier le programme \#2](meetups/meetup-2-programmation-agile-batiment-chez-woma.md)
-  * [La collaboration dans la construction \#1](meetups/meetup-1-chez-enia-collaboration-construction.md)
+  * [Go Beyond lean by Dee Rhoda  from Scrum.inc #13](meetups/beyond-lean-construction.md)
+  * [Scrum for construction & Engineering : 2 case studies  #12](meetups/scrum-construction-enginery-meetup.md)
+  * [Accelerate with Scrum for construction #11](meetups/scrum-for-construction-meetup.md)
+  * [Why Off site construction is the future of construction #10](meetups/off-site-construction-meetup.md)
+  * [Agile in building / Hippo digital case study #9](meetups/scrum-for-building-edward-murphy-meetup.md)
+  * [Architecture & Design thinking #8](meetups/architecture-design-thinking-luiz-felipe-conrado-de-lima-2020-12-9.md)
+  * [Agile BIM & openBIM #7](meetups/meetup-agile-bim-open-bim-david-delgado-vendrell-2020-11-04.md)
+  * [Lean construction #6](meetups/meetup-agile-lean-construction-vincent-morael-2020-09-23.md)
+  * [Conception par les tests #5](meetups/meetup-talan-labs-2020-02-24.md)
+  * [Pratiques agile dans le bâtiment #4](meetups/meetup-valode-pistre-2019-12-09.md)
+  * [Les freins à l'Agile dans le BTP #3](meetups/meetup-enia-freins-agile-btp-2019-10-14.md)
+  * [Agile BIM barriers to adoption #3](meetups/agile-bim-adoption-barriers.md)
+  * [Atelier Agile construction : Négocier le programme #2](meetups/meetup-2-programmation-agile-batiment-chez-woma.md)
+  * [La collaboration dans la construction #1](meetups/meetup-1-chez-enia-collaboration-construction.md)
 * [🎢 Case studies](case-studies/README.md)
   * [Use Scrum for an Office design - Hippodigital](case-studies/office-design-scrum.md)
   * [Virtual reality Meetings  - Merrick](case-studies/merrick-virtual-reality-meetings.md)
@@ -30,7 +31,7 @@
 * [💪 Agile AEC coaches](who-use-agile-in-aec/agile-aec-coaches.md)
 * [🚀 Agile AEC Startups](who-use-agile-in-aec/agile-aec-startups.md)
 
-## Agile BIM methods <a id="en"></a>
+## Agile BIM methods <a href="en" id="en"></a>
 
 * [🎯 Why Agile in construction?](en/agile-benefits.md)
 * [🏂 What is agile BIM?](en/what-is-agile-bim.md)
@@ -53,7 +54,7 @@
   * [User stories](en/agile-practices/user-stories.md)
   * [⏳ Time vs Objective 🎯](en/agile-practices/time-tracking-vs-target.md)
 
-## Learn and practice <a id="learn-and-practice-agile-bim"></a>
+## Learn and practice <a href="learn-and-practice-agile-bim" id="learn-and-practice-agile-bim"></a>
 
 * [🛠️  Agile BIM Toolbox](learn-and-practice-agile-bim/agile-tools.md)
 * [🏄 You are an AEC Agile coach](learn-and-practice-agile-bim/agile-bim-coaching.md)
@@ -65,7 +66,7 @@
 * [🎙️ YouTube channel & Podcasts](ressources/youtube.md)
 * [📅 Agile in construction Events](ressources/agile-bim-events.md)
 
-## Agile BIM en Français 🇫🇷 <a id="fr"></a>
+## Agile BIM en Français 🇫🇷 <a href="fr" id="fr"></a>
 
 * [🎯 Pourquoi l'agile dans la construction](fr/agile-bim-benefices.md)
 * [🏂 Qu'est-ce que le BIM Agile](fr/bim-agile.md)
@@ -99,4 +100,3 @@
 * [🎢 Retour d'expériences](fr/retour-experience.md)
 * [🙌 Rejoindre la communauté](fr/communaute-agile-bim/README.md)
   * [🖋️ Contribuer à AgileBIM.org](fr/communaute-agile-bim/contribuer.md)
-

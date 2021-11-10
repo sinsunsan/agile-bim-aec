@@ -4,35 +4,45 @@ description: The community of Agilist in architecture & construction industry (A
 
 # Agile in construction industry
 
-![Agile BIM / Make Architecture design iterative and transparent](.gitbook/assets/agile_bim.jpeg)
+![Agile BIM / Make Architecture design iterative and transparent](.gitbook/assets/agile\_bim.jpeg)
 
 > "_People in the construction industry are looking for product standardization, but it is the method that needs to be standardized_." @Xavier Jaffray
 
-Agile  BIM is a new paradigm inspired by Agile in software industries, Agile in hardware, Scrum, Kanban & Extreme programming methods. 
+Agile  BIM is a new paradigm inspired by Agile in software industries, Agile in hardware, Scrum, Kanban & Extreme programming methods.&#x20;
 
-AEC industry, is well-known to use the old  "waterfall"  method of managing.  The building projects need the coordination of lots of different actors who don't talk enough together and  act one after the other. 
+AEC industry, is well-known to use the old  "waterfall"  method of managing.  The building projects need the coordination of lots of different actors who don't talk enough together and  act one after the other.&#x20;
 
-Agile methods in software, industry and services have demonstrated that changing this organization to  highly coordinated agile teams can achieve : 
+Agile methods in software, industry and services have demonstrated that changing this organization to  highly coordinated agile teams can achieve :&#x20;
 
-* more efficiency 
-* more motivation in the teams 
+* more efficiency&#x20;
+* more motivation in the teams&#x20;
 * fewer errors and ways to fix them quickly
 * a final product more adapted to the market & to the client wish
 
-So let's try to lay down the principles of Agile BIM applied to AEC industry !  
+So let's try to lay down the principles of Agile BIM applied to AEC industry !\
 
 
-### Let's go : 
+### Let's go :&#x20;
 
-{% page-ref page="agile-bim-community/" %}
+{% content-ref url="agile-bim-community/" %}
+[agile-bim-community](agile-bim-community/)
+{% endcontent-ref %}
 
-{% page-ref page="en/agile-benefits.md" %}
+{% content-ref url="en/agile-benefits.md" %}
+[agile-benefits.md](en/agile-benefits.md)
+{% endcontent-ref %}
 
-{% page-ref page="meetups/" %}
+{% content-ref url="meetups/" %}
+[meetups](meetups/)
+{% endcontent-ref %}
 
-{% page-ref page="en/agile-bim-method/" %}
+{% content-ref url="en/agile-bim-method/" %}
+[agile-bim-method](en/agile-bim-method/)
+{% endcontent-ref %}
 
-{% page-ref page="en/agile-practices/" %}
+{% content-ref url="en/agile-practices/" %}
+[agile-practices](en/agile-practices/)
+{% endcontent-ref %}
 
 
 
@@ -44,17 +54,15 @@ So let's try to lay down the principles of Agile BIM applied to AEC industry !
 
 ### Agile BIM sponsors
 
-Agile BIM is sponsored and by [Bricks, the agile collaboration app for architecture and construction](https://www.bricksapp.io?utm_medium=agileBIM&utm_campaign=page)
+Agile BIM is sponsored and by [Bricks, the agile collaboration app for architecture and construction](https://www.bricksapp.io)
 
-![Bricks Logo](.gitbook/assets/bricks-logo-2019_bricks-logo-full.png)
+![Bricks Logo](.gitbook/assets/bricks-logo-2019\_bricks-logo-full.png)
 
 {% hint style="info" %}
 [👋](https://emojipedia.org/waving-hand/) Want to help this open initiative and become an agile BIM sponsor please [contact us](mailto:hello@bricksapp.io?subject=Be%20sponsor%20of%20Agile%20BIM)
 {% endhint %}
 
-### You want to find an agile coach for your next project? 
+### You want to find an agile coach for your next project?&#x20;
 
 {% embed url="https://form.typeform.com/to/Trup49u9" %}
-
-
 

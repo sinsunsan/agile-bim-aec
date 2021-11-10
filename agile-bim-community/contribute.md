@@ -10,17 +10,17 @@ If you are interested in Agile approach applied to architecture and construction
 
 First you have to join our [slack](https://communityinviter.com/apps/agile-bim/agile-bim) and **contribute-agile-bim-org** channel.
 
-You will then be able to create an account on gitbook to edit the wiki in a very simple way.   
+You will then be able to create an account on gitbook to edit the wiki in a very simple way. \
 All changes are listed in this channel **agilebim-org** in slack.
 
-### What type of content we are interested in : 
+### What type of content we are interested in :&#x20;
 
 * [A description of agile use cases / experience](../case-studies/use-cases-templates.md)
 * A description of some [Agile Recipes](../en/agile-practices/)
 * Translation, illustrations with images of the existing article
-* add [Links](../ressources/links.md) to interesting resource 
+* add [Links](../ressources/links.md) to interesting resource\
+
 
 Feel free to propose other thing on the slack discussion
 
 ![](../.gitbook/assets/screen-shot-2019-12-20-at-18.52.47.png)
-
