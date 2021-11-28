@@ -5,6 +5,7 @@
   * [🖋️ Contribute](agile-bim-community/contribute.md)
   * [📜 Licence CC](agile-bim-community/licence.md)
 * [👷‍♀️ Agile BIM Meetups](meetups/README.md)
+  * [🚀 Speckle + IFC.js  2 open source tools to agilize design #14](meetups/open-source-design-tools.md)
   * [Go Beyond lean by Dee Rhoda  from Scrum.inc #13](meetups/beyond-lean-construction.md)
   * [Scrum for construction & Engineering : 2 case studies  #12](meetups/scrum-construction-enginery-meetup.md)
   * [Accelerate with Scrum for construction #11](meetups/scrum-for-construction-meetup.md)

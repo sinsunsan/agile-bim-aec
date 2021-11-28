@@ -23,3 +23,8 @@ Dee has now turned her focus to the Design and Construction industry. Join her i
 Scrum Inc. is the global authority on the most widely used Agile Framework Scrum, founded by one of Scrum creator, Jeff Sutherland
 
 ![](../.gitbook/assets/scrum-construction-dee-rhoda-scrum.inc-youtube.png)
+
+### Stats that explain why it is important to switch to product approach rather than project approach
+
+![](<../.gitbook/assets/Screenshot 2021-11-18 at 19.05.27.png>)
+
