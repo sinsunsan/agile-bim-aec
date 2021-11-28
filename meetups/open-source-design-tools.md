@@ -1,5 +1,5 @@
 ---
-cover: ../.gitbook/assets/open-source-ifc-speckle-linkedin.png
+cover: ../.gitbook/assets/open-source-ifc-speckle-gitbook.png
 coverY: 0
 ---
 
