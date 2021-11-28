@@ -25,6 +25,10 @@ We are happy to receive, for the last agile BIM meetup of the year, the co-found
 
 👉 How they contribute to streamline collaboration and empower agility
 
+{% hint style="info" %}
+Don't forget to subscribe to [Agile BIM Youtube channel](https://www.youtube.com/channel/UCTjcoh157n3hxKCxpEvfqeQ?sub\_confirmation=1) to be notified when the replay is ready and get aware of all new videos.
+{% endhint %}
+
 ### 🧱 Agile BIM 14 Program
 
 ### Speckle
