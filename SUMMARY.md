@@ -5,6 +5,7 @@
   * [🖋️ Contribute](agile-bim-community/contribute.md)
   * [📜 Licence CC](agile-bim-community/licence.md)
 * [👷‍♀️ Agile BIM Meetups](meetups/README.md)
+  * [Agile Building performance optimization #15](meetups/agile-building-performance-optimization-15.md)
   * [🚀 Speckle + IFC.js  2 open source tools to agilize design #14](meetups/open-source-design-tools.md)
   * [Go Beyond lean by Dee Rhoda  from Scrum.inc #13](meetups/beyond-lean-construction.md)
   * [Scrum for construction & Engineering : 2 case studies  #12](meetups/scrum-construction-enginery-meetup.md)
@@ -32,7 +33,7 @@
 * [💪 Agile AEC coaches](who-use-agile-in-aec/agile-aec-coaches.md)
 * [🚀 Agile AEC Startups](who-use-agile-in-aec/agile-aec-startups.md)
 
-## Agile BIM methods <a href="en" id="en"></a>
+## Agile BIM methods <a href="#en" id="en"></a>
 
 * [🎯 Why Agile in construction?](en/agile-benefits.md)
 * [🏂 What is agile BIM?](en/what-is-agile-bim.md)
@@ -55,7 +56,7 @@
   * [User stories](en/agile-practices/user-stories.md)
   * [⏳ Time vs Objective 🎯](en/agile-practices/time-tracking-vs-target.md)
 
-## Learn and practice <a href="learn-and-practice-agile-bim" id="learn-and-practice-agile-bim"></a>
+## Learn and practice <a href="#learn-and-practice-agile-bim" id="learn-and-practice-agile-bim"></a>
 
 * [🛠️  Agile BIM Toolbox](learn-and-practice-agile-bim/agile-tools.md)
 * [🏄 You are an AEC Agile coach](learn-and-practice-agile-bim/agile-bim-coaching.md)
@@ -67,7 +68,7 @@
 * [🎙️ YouTube channel & Podcasts](ressources/youtube.md)
 * [📅 Agile in construction Events](ressources/agile-bim-events.md)
 
-## Agile BIM en Français 🇫🇷 <a href="fr" id="fr"></a>
+## Agile BIM en Français 🇫🇷 <a href="#fr" id="fr"></a>
 
 * [🎯 Pourquoi l'agile dans la construction](fr/agile-bim-benefices.md)
 * [🏂 Qu'est-ce que le BIM Agile](fr/bim-agile.md)
