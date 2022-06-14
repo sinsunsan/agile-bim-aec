@@ -1,4 +1,4 @@
-# Agile Building performance optimization #15
+# 🌊 Agile Building performance: Frank boutté + Spacio.io #15
 
 For the 15th meetup roughly 3 years after the first one, and first of 2022 :) \
 \

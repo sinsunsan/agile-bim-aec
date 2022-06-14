@@ -55,7 +55,7 @@ Eric Reis bestselling author of "The Lean Startup" and a proponent of Agile Meth
 * **Scope Bloat**  - Cram in as much as the budget can afford. Aspirations usually exceed budget eventually leading to cost overrun and “de-value engineering”.
 * **Blind Investment** – cost risk remains and is only mitigated on completion.
 * **Architectural Risk** - Design risks come to surface too late
-* **Functional Risk **– Users don’t get to know if it works until the end.
+* **Functional Risk** – Users don’t get to know if it works until the end.
 * **Change Risk** – Cost risk supersedes change risk, meaning it is never adequately addressed.
 * **Uncertain Cost and Duration** – Large numbers of change requests are commonplace.
 * **Resource levelling/availability** – Windows of availability never align. Availability of the right people input at the right time is difficult to align, which reduces quality.

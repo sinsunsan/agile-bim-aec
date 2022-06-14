@@ -44,5 +44,5 @@ Till then, you can subscribe to our YouTube channel [https://www.youtube.com/cha
 
 
 {% hint style="success" %}
-Apprenez la construction hors-site gratuitement sur ce site [https://www.campushors-site.com/](https://www.campushors-site.com)
+Apprenez la construction hors-site gratuitement sur ce site [https://www.campushors-site.com/](https://www.campushors-site.com/)
 {% endhint %}

@@ -8,22 +8,22 @@ description: Collaborative tools to practice agile remotely
 
 * JIRA  [https://www.atlassian.com/software/jira](https://www.atlassian.com/software/jira)
 * Trello [https://trello.com/fr](https://trello.com/fr)
-* Scrumpy [https://scrumpy.io/](https://scrumpy.io)
+* Scrumpy [https://scrumpy.io/](https://scrumpy.io/)
 * Asana&#x20;
 * Clickup
 * Todoist
 
 ### Agile board + BIM integration
 
-* Bricks [https://www.bricksapp.io/](https://www.bricksapp.io)
+* Bricks [https://www.bricksapp.io/](https://www.bricksapp.io/)
 
 ### Retrospective
 
-* [https://metroretro.i](https://metroretro.io)o
+* [https://metroretro.i](https://metroretro.io/)o
 
 ### Pocker planning&#x20;
 
-* Planit Pocker[ https://www.planitpoker.com/](https://www.planitpoker.com)
+* Planit Pocker[ https://www.planitpoker.com/](https://www.planitpoker.com/)
 
 ### Visual management
 

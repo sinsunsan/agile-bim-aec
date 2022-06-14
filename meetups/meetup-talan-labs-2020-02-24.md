@@ -25,15 +25,15 @@ Une majorité d'agiliste cette fois-ci  intéressés par l'agilité au-delà de 
 * ****[Sébastien Lucas](https://www.linkedin.com/in/archiref/) ([Bricks](https://www.bricksapp.io/fr/))
 * [François Muzard](https://www.linkedin.com/in/fran%C3%A7ois-muzard-bim/) ([Bricks](https://www.bricksapp.io/fr/))&#x20;
 * [Laurent Coydon](https://www.linkedin.com/in/lcoydon/) / Coach Agile
-* [Constantin Guay](https://app.slack.com/team/UR79ZMQFK) / Coach agile chez[ Talan labs](https://talan.com)
+* [Constantin Guay](https://app.slack.com/team/UR79ZMQFK) / Coach agile chez[ Talan labs](https://talan.com/)
 
 {% embed url="https://www.instagram.com/p/B89xv-uoOea/?utm_source=ig_web_copy_link" %}
 
 
 
-### **La discussion **☝️
+### **La discussion** ☝️
 
-**Est-ce que vous appliquez les enseignements des rétrospectives **? (suite à l'expérience chez ENIA)
+**Est-ce que vous appliquez les enseignements des rétrospectives** ? (suite à l'expérience chez ENIA)
 
 C'est vrai que c'est la difficulté. Les retro sur 3 mois compliqué car il faut se souvenir, peut être trop tard pour changer. Mais pourquoi pas faire des retro à mi-phase. Mais les gens n'ont pas l'habitude de parler, du coup sur des périodes plus courtes, difficile de parler.
 
@@ -41,29 +41,29 @@ C'est vrai que c'est la difficulté. Les retro sur 3 mois compliqué car il faut
 
 Tout est très intriqué, donc difficile de découper. Les grandes phases très difficiles à changer. À l'intérieur d'une phase, est ce qu'il y  a des choses qu'on ne peut pas découper ?&#x20;
 
-Dans [SAFE](https://www.scaledagile.com), on a la notion de phase et on peut garder les phases. Difficile de faire de l'itératif par phases, mais chaque phase peut se faire en itératif.
+Dans [SAFE](https://www.scaledagile.com/), on a la notion de phase et on peut garder les phases. Difficile de faire de l'itératif par phases, mais chaque phase peut se faire en itératif.
 
-Ou alors on pourrait travailler en mode itératif un peu à la manière [Wikispeed](http://wikispeed.org) pour la voiture, en commençant par un module simple mais fonctionnel. Mais même si cette approche est faisable, pas la priorité. De plus pas mal de freins légaux.
+Ou alors on pourrait travailler en mode itératif un peu à la manière [Wikispeed](http://wikispeed.org/) pour la voiture, en commençant par un module simple mais fonctionnel. Mais même si cette approche est faisable, pas la priorité. De plus pas mal de freins légaux.
 
 Mais un fourmillement d'innovations : la maquette 3D, la [procédure conception / réalisation](https://www.economie.gouv.fr/daj/procedure-conception-realisation) ... , qui donne une dynamique positive&#x20;
 
-**Est-ce qu'il y a des approches f**[**eature Team**](https://www.knowledgehut.com/tutorials/scrum-tutorial/feature-teams-vs-component-teams)** ? En mettant ensemble tous les corps de métiers ?**
+**Est-ce qu'il y a des approches f**[**eature Team**](https://www.knowledgehut.com/tutorials/scrum-tutorial/feature-teams-vs-component-teams) **? En mettant ensemble tous les corps de métiers ?**
 
 Cela fait partie de l'approche BIM d'avoir tout le monde sur une maquette. Il y a aussi la réalité virtuelle qui permet de faire contribuer beaucoup de gens pour donner leur feedback.
 
-**Est-ce que le plombier est déjà consulté en amont ? **
+**Est-ce que le plombier est déjà consulté en amont ?**&#x20;
 
-Non :) Mais aussi fait penser dans le logiciel au phénomène de l'[architecte tour d'ivoire](https://youtu.be/jRz1mYIFxlk) qui est trop décalé par rapport à la réalité**. **Donc idéalement ce serait intéressant d'avoir tous les intervenants qui travaillent ensemble dés le début.
+Non :) Mais aussi fait penser dans le logiciel au phénomène de l'[architecte tour d'ivoire](https://youtu.be/jRz1mYIFxlk) qui est trop décalé par rapport à la réalité**.** Donc idéalement ce serait intéressant d'avoir tous les intervenants qui travaillent ensemble dés le début.
 
 {% embed url="https://www.instagram.com/p/B89yyvGoifI/?utm_source=ig_web_copy_link" %}
 
 
 
-**La responsabilisation des acteurs notamment jusqu'à la maintenant, une piste pour augmenter la qualité **
+**La responsabilisation des acteurs notamment jusqu'à la maintenant, une piste pour augmenter la qualité**&#x20;
 
 Dans le bâtiment, il y a des lois, garantie décennale... À l'inverse plus facile de faire "n'importe quoi" dans le logiciel. Car souvent les produits sont sur-vendus avec des équipes trop juniors. La maintenance est souvent faite en offshore avec une main d'œuvre à bas-coup. Quand le développeur sait qu'il ne fera pas la maintenance, il travaille un peu différemment. En responsabilisant donc les développeurs, permet d'améliorer la qualité.
 
-**Et le feedback des utilisateurs finaux ? **
+**Et le feedback des utilisateurs finaux ?**&#x20;
 
 Difficile d'avoir le feedback des utilisateurs finaux en architecture. Au début on a que le feedback des donneurs d'ordre (maître d'ouvrage). Mais ça change aussi. Notamment avec  les pratiques comme la [conception en coopératives](https://fr.wikipedia.org/wiki/Coop%C3%A9rative\_d'habitation), la réalité virtuelle et les ateliers utilisateurs en urbanisme. Une question de culture, mais permettrait de détecter en amonts des problèmes et d'éviter des reconstructions, réaménagements couteux.
 
@@ -75,7 +75,7 @@ Mais aussi une grosse différence est le fait qu'en informatique, on reste tout 
 
 Les gens ne travaillent pas dans le même lieu mais en plus ce sont de petites équipes morcelées, appartenant à des entreprises différentes. Et aussi intérêt divergent entre les différentes sociétés notamment économiquement.
 
-**L'agile BIM **
+**L'agile BIM**&#x20;
 
 ![](<../.gitbook/assets/agilebim-schema-20190605-01 (1).png>)
 
@@ -89,7 +89,7 @@ Ou une autre approche, un F3 peut être répété en 2-3 modules.&#x20;
 
 Sinon il y a les plateformes d'objets BIM comme BIM object. [**BIM object**](https://www.bimobject.com/en), une plateforme, où on peut partager les objets BIM et les partager. Les fabricants veulent lier les objets BIM avec le PIM (Product Information Management) qui alimente les catalogues, les fiches techniques. Question de version sur les objets. Serait bien qu'on ait les mises à jour directement dans les maquettes BIM.
 
-**Est-ce que les logiciels ont fait émerger un standard ? **
+**Est-ce que les logiciels ont fait émerger un standard ?**&#x20;
 
 Famille générique qui sont poussées par les industriels.  La conception par composant et par module est assez avancée pour les industriels, mais plus embryonnaire pour les concepteurs, qui ont une relation un peu passive par rapport aux industriels.
 
@@ -99,9 +99,9 @@ Le poids des objets BIM est un problème parfois, car trop de détail souvent et
 
 **Open source et logiciel propriétaire**
 
-La dynamique de l'open source est impressionnante par rapport aux logiciels propriétaires, les logiciels propriétaires avancent moins vite.  Il commence à avoir un écosystème open source notamment du côté de l'architecture paramétrique ou avec des projets comme [Speckle](https://github.com/speckleworks) poussés par les ingénieurs de [ARUP](https://www.arup.com) notamment.&#x20;
+La dynamique de l'open source est impressionnante par rapport aux logiciels propriétaires, les logiciels propriétaires avancent moins vite.  Il commence à avoir un écosystème open source notamment du côté de l'architecture paramétrique ou avec des projets comme [Speckle](https://github.com/speckleworks) poussés par les ingénieurs de [ARUP](https://www.arup.com/) notamment.&#x20;
 
-**Comment est géré cette notion de scope : le programme en architecture **
+**Comment est géré cette notion de scope : le programme en architecture**&#x20;
 
 À la fin, on ne fait pas tout ce qui est prévu. Car souvent le budget dépasse. Cette pratique d'exécution partielle du programme est finalement commune entre l'informatique et le bâtiment. Mais l'art de prioriser et découper les sujets de l'Agile pourrait être intéressant pour re-prioriser le programme.
 
@@ -112,8 +112,8 @@ Ce qui se fait déjà dans l'architecture :&#x20;
 * Rapport de contrôleur techniques
 * Nomenclature d'autocontrôle
 * Outils intégrés au logiciel de BIM:  Outils chemins d'évacuation : avertissement par exemple si les objets sont crées aux même endroits
-* [Solibri model checker](https://www.solibri.com), mais souvent que pour les BIM manager
-* Outil de vérifications d’IFC comme [BIM SPOT](https://bimspot.io)
+* [Solibri model checker](https://www.solibri.com/), mais souvent que pour les BIM manager
+* Outil de vérifications d’IFC comme [BIM SPOT](https://bimspot.io/)
 * SOCOTET, VERITAS et autres bureaux de contrôle essaient de suivre le mouvement
 * ....
 

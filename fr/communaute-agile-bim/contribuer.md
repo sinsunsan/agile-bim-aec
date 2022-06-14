@@ -6,9 +6,9 @@ description: Contribuer à ce wiki sur l'agile dans l'architecture et la constru
 
 Si vous êtes intéressé par l'agilité appliquée à l'architecture et à la construction. N'hésitez pas à contribuer à ce wiki !&#x20;
 
-**Comment  contribuer ? **
+**Comment  contribuer ?**&#x20;
 
-* &#x20;Rejoignez notre [slack](https://communityinviter.com/apps/agile-bim/agile-bim) et la chaîne** contribute-to-agilebim-org**
+* &#x20;Rejoignez notre [slack](https://communityinviter.com/apps/agile-bim/agile-bim) et la chaîne **contribute-to-agilebim-org**
 * J'ai partagé un lien pour devenir éditeur du wiki
 * Devenez éditeur du WIKI sur [gitbook](https://app.gitbook.com/invite/agilebim?invite=-LfYge\_EcAUks2zJxscv)\
   Vous pourrez alors modifier ce site de manière très simple.&#x20;
@@ -25,7 +25,7 @@ Vous pouvez contribuer de beaucoup de manières, en écrivant un nouvel article,
 
 Nous recherchons plus particulièrement des contributeurs sur les parties suivantes :&#x20;
 
-* **Boîte à outil Agile : **sortes de  fiches pratiques sur les pratiques agiles applicables dans la construction
+* **Boîte à outil Agile :** sortes de  fiches pratiques sur les pratiques agiles applicables dans la construction
 
 {% content-ref url="../boite-outil-agile.md" %}
 [boite-outil-agile.md](../boite-outil-agile.md)

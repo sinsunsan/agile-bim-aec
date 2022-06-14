@@ -12,7 +12,7 @@ Agile BIM podcast 1 / Le daily ou standup meeting
 
 ### A propos du Podcast AgileBIM
 
-Bonjour, je m'appelle Sébastien Lucas, je suis le cofondateur de l'application [Bricks](https://www.bricksapp.io), une application collaborative pour l'architecture et la construction, et cofondateur du groupe Agile Bim, dont vous pouvez voir des informations sur le site [agilebim.org](https://www.agilebim.org).
+Bonjour, je m'appelle Sébastien Lucas, je suis le cofondateur de l'application [Bricks](https://www.bricksapp.io/), une application collaborative pour l'architecture et la construction, et cofondateur du groupe Agile Bim, dont vous pouvez voir des informations sur le site [agilebim.org](https://www.agilebim.org/).
 
 ### Qu'est ce qu'un standup meeting
 

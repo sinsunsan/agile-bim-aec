@@ -4,7 +4,7 @@
 
 ### Qu'est-ce que le standup ou daily meeting
 
-Faire le point sur le projet avec **tous les intervenants **idéalement** **tous les jours** **pendant une durée de 15 minutes environ. Cela permet que chacun soit au courant de l'état d'avancement et de lever très rapidement de possible blocages. &#x20;
+Faire le point sur le projet avec **tous les intervenants** idéalement **** tous les jours **** pendant une durée de 15 minutes environ. Cela permet que chacun soit au courant de l'état d'avancement et de lever très rapidement de possible blocages. &#x20;
 
 ### Pourquoi ça change la donne
 

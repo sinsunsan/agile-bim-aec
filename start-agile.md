@@ -4,7 +4,7 @@
 
 * Identify the interested people in the company who can drive the change&#x20;
 * Define some starter agile practice to test&#x20;
-  * Set up a **shared board **so that all people in the company can view the coming action
+  * Set up a **shared board** so that all people in the company can view the coming action
     * Decide between a physical board or virtual or both&#x20;
     * If you've chosen virtual, [choose an app](learn-and-practice-agile-bim/agile-tools.md) to make it easy to share the board distantly
   * Define a schedule for r**egular coordination meeting** : [Standup meeting](en/agile-practices/standup-meeting.md)

@@ -20,7 +20,7 @@ description: Une introduction par Vincent Morael
 \
 Nous vous présenterons les fondements et la mise en place de cette méthode de management de projet en phase Programmation et Étude d’un projet »\
 \
-Pour en savoir plus [www.coeff.fr](http://www.coeff.fr)
+Pour en savoir plus [www.coeff.fr](http://www.coeff.fr/)
 
 ### 📽️ La vidéo&#x20;
 
@@ -132,8 +132,8 @@ En IT ou peut faire varier les fonctionnalités pour garder la qualité, mais es
 
 ### [ 🔗](https://emojipedia.org/link/) Des liens pour aller plus loin&#x20;
 
-* [https://www.associationleanconstruction.fr](https://www.associationleanconstruction.fr/#)
-* [ https://www.leanconstruction.org](https://www.leanconstruction.org)
+* [https://www.associationleanconstruction.fr](https://www.associationleanconstruction.fr)
+* [ https://www.leanconstruction.org](https://www.leanconstruction.org/)
 
 
 

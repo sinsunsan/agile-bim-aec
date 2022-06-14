@@ -14,7 +14,7 @@ description: Links on works and ressources about Agile in AEC and BIM
 
 ## Brainstorming technics
 
-* Brainstorming technics: [http://www.liberatingstructures.com](http://www.liberatingstructures.com)
+* Brainstorming technics: [http://www.liberatingstructures.com](http://www.liberatingstructures.com/)
 
 ## Agile Hardware
 
@@ -25,8 +25,8 @@ description: Links on works and ressources about Agile in AEC and BIM
 
 #### Organizations
 
-* [https://www.leanconstruction.org](https://www.leanconstruction.org)&#x20;
-* [https://www.associationleanconstruction.fr](https://www.associationleanconstruction.fr)
+* [https://www.leanconstruction.org](https://www.leanconstruction.org/)&#x20;
+* [https://www.associationleanconstruction.fr](https://www.associationleanconstruction.fr/)
 
 {% embed url="https://leanipd.com" %}
 

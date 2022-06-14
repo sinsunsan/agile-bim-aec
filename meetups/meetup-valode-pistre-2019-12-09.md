@@ -25,14 +25,14 @@ Le meetup s'est déroulé avec 12 personnes représentant différents domaines :
 * Coach agile, Scrum master, PO...
 * Architecte, BIM manager...
 
-**Merci  à tous : **
+**Merci  à tous :**&#x20;
 
 * [Anna-Lisa de Maestri](https://www.linkedin.com/in/annalisademaestri/) ([Valode et Pistre](http://www.v-p.com/en))
 * [Sébastien Lucas](https://www.linkedin.com/in/archiref/) ([Bricks](https://www.bricksapp.io/fr/))
 * [François Muzard](https://www.linkedin.com/in/fran%C3%A7ois-muzard-bim/) ([Bricks](https://www.bricksapp.io/fr/))&#x20;
 * [Laurent Coydon](https://www.linkedin.com/in/lcoydon/) / Coach Agile
 * [América Bañuelos](https://www.linkedin.com/in/americabanuelos/) / Architecte
-* [Olivier Rouhaud](https://www.linkedin.com/in/olivier-rouhaud-562b745b/) ([Blog](https://olivierrouhaud.wordpress.com)) / Coach Agile
+* [Olivier Rouhaud](https://www.linkedin.com/in/olivier-rouhaud-562b745b/) ([Blog](https://olivierrouhaud.wordpress.com/)) / Coach Agile
 * Pour ceux qui ne sont pas dans la liste vous pouvez [rajouter votre nom](../fr/communaute-agile-bim/) en rejoignant le slack en devenant éditeur de ce wiki :)&#x20;
 
 ### Les slides 🖼️&#x20;
@@ -43,7 +43,7 @@ Le meetup s'est déroulé avec 12 personnes représentant différents domaines :
 
 ![](../.gitbook/assets/agile4bim-presentation-meetup-12-2019.jpg)
 
-### **Le débat **☝️
+### **Le débat** ☝️
 
 Puis débat animé par les Coachs agile de l'assistance.
 
@@ -53,7 +53,7 @@ On peut se dire Agile et ne pas l'être, et également d'être  collaboratif et 
 
 D'après Scrum une petite dizaine.
 
-**Est-ce que le client  compte  dans l'équipe ? **\
+**Est-ce que le client  compte  dans l'équipe ?** \
 ****\
 ****Il y a le PO (Product Owner) qui représente le client en Scrum.
 
@@ -75,17 +75,17 @@ Aussi une différence importante entre le logiciel et le bâtiment, est la notio
 
 Sur la phase étude, moins de différence entre l'informatique et l'architecture.&#x20;
 
-**Quelle durée est nécessaire pour adopter les pratiques et états d'esprit agile : **
+**Quelle durée est nécessaire pour adopter les pratiques et états d'esprit agile :**&#x20;
 
 6 mois à 2 ans&#x20;
 
-Mais** **appliquer certaines [pratiques agiles](../fr/boite-outil-agile.md) : le daily meeting par exemple peut apporter des améliorations importantes.
+Mais **** appliquer certaines [pratiques agiles](../fr/boite-outil-agile.md) : le daily meeting par exemple peut apporter des améliorations importantes.
 
-**Comment coordonner des équipes Agile qui travaillent à distance  ? **
+**Comment coordonner des équipes Agile qui travaillent à distance  ?**&#x20;
 
 Il y a des outils, mais il faut avoir de la qualité dans les moyens de communications, que l'on choisi et faire attention à ne pas faire de séparation entre ceux qui sont à distance, et ceux qui sont sur place.
 
-**Est-ce que le daily meeting ça marche et pourquoi ?  **
+**Est-ce que le daily meeting ça marche et pourquoi ?** &#x20;
 
 Anna Lisa de Maestri (Valode) a mis  en place un daily,  mais a été déçu par son impact.
 
@@ -104,7 +104,7 @@ C'est un rapport coût  / bénéfice important car 15 minutes faible investissem
 
 Oui à chaque sprint on peut notamment réévaluer la priorité des tâches et commencer plusieurs tâches en parallèle. Néanmoins il est important de terminer  des incréments de tâches et de les livrer. D'où l'importance de découper les tâches importantes en plus petites tâches.
 
-**Comment on gère les tâches qui ne sont pas de la production (technique) ? **
+**Comment on gère les tâches qui ne sont pas de la production (technique) ?**&#x20;
 
 Ce sont des tâches. On doit devoir expliquer le besoin par rapport à la valeur produite.
 
@@ -112,7 +112,7 @@ Ce sont des tâches. On doit devoir expliquer le besoin par rapport à la valeur
 
 En BIM le client a accès à la maquette. Le client a fait son commentaire sur la maquette. Avantage d'inclure le client dans la prise de décision, l'implique plus. Le client est toujours Ok pour  avoir des retours. Mais pour les architectes c'est difficile de tout montrer.
 
-### **Retours d'expérience **👨‍💻
+### **Retours d'expérience** 👨‍💻
 
 #### **François Muzard sur sa pratique des rétrospectives à l'agence ENIA**
 

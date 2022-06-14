@@ -13,7 +13,7 @@ Néanmoins cela tend à changer, notamment :&#x20;
 
 * grâce aux **outils de communication numériques** qui permettent d'interroger les utilisateurs pour un coût bien moindre, sans forcément organiser des ateliers
 * comme dans d'autres domaines, le **participatif a le vent en pompe** et donc des ateliers sont organisés plus en amont
-* les** réseaux sociaux** permettent d'amplifier des démarches et de communiquer plus en temps réel sur le projet
+* les **réseaux sociaux** permettent d'amplifier des démarches et de communiquer plus en temps réel sur le projet
 
 Les démarches d'informer mais aussi de faire participer les utilisateurs finaux sont plus répondues en urbanisme notamment, lors de la conception d'un quartier entier. Les "utilisateurs" qui sont donc les habitants du quartier sont d'ailleurs à plus d'un titre les **experts de leur quartier**. Ils en connaissent les problèmes, les qualités. Il faut alors trouver un point de rencontre entre le projet proposé par l'équipe de conception et les attentes des habitants.&#x20;
 

@@ -10,7 +10,7 @@ This week at the Agile BIM meetup we will talk about Design Thinking in the cont
 \
 Don't miss it!
 
-✨ Design thinking is a method to ideate a project in a short timeframe, choose an idea to develop, prototype and then test the idea with the stakeholders. Design thinking emphasize the need to work with a small team with different complementary backgrounds : architect, engineer, ...** ** and who work intensively for a short period of time. 📐💼 [👷‍♀️](https://emojipedia.org/woman-construction-worker/)\
+✨ Design thinking is a method to ideate a project in a short timeframe, choose an idea to develop, prototype and then test the idea with the stakeholders. Design thinking emphasize the need to work with a small team with different complementary backgrounds : architect, engineer, ... **** and who work intensively for a short period of time. 📐💼 [👷‍♀️](https://emojipedia.org/woman-construction-worker/)\
 \
 We think it could be a great way to handle Architecture design in a more collaborative way. And test ideally quickly at the early stage of the project but involving all the team and not only the architect.
 
@@ -45,6 +45,6 @@ Design Thinking / Agile BIM by Luiz Felipe Conrado de Lima
 
 
 
-This meetup is sponsored  by Bricks, [the agile collaboration app for architecture and construction](https://www.bricksapp.io)
+This meetup is sponsored  by Bricks, [the agile collaboration app for architecture and construction](https://www.bricksapp.io/?utm\_medium=agileBIM\&utm\_campaign=page)
 
 ![](../.gitbook/assets/bricks-logo-2019\_bricks-logo-full.png)

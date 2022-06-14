@@ -34,19 +34,19 @@ Subcribe to our [Youtube page ](https://www.youtube.com/channel/UCTjcoh157n3hxKC
 
 ### **Whatt about**
 
-👉 **Who is presenting **
+👉 **Who is presenting**&#x20;
 
-* **Edward Murphy **[Linkedin profile](https://www.linkedin.com/in/edward-murphy-a2349526/) Engineer and building performance consultant\
+* **Edward Murphy** [Linkedin profile](https://www.linkedin.com/in/edward-murphy-a2349526/) Engineer and building performance consultant\
 
-* **Ollio** [Company page](https://www.ollioconsult.com) : As building performance specialists our goal is to align the interests of those who develop, design and construct low carbon healthy buildings with those who inhabit them day to day.
+* **Ollio** [Company page](https://www.ollioconsult.com/) : As building performance specialists our goal is to align the interests of those who develop, design and construct low carbon healthy buildings with those who inhabit them day to day.
 
-👉 **Summary : **\
+👉 **Summary :** \
 During this month Agile BIM meetup,  Edward Murphy founder of Ollio,  will give a presentation called "Building Design for the Real World".  Edward has a field experience of using scrum to help the design of buildings more efficient and adapted to the users. He will present a case study of an office workspace originally designed traditionally then redesigned with agile to take into account the teams true needs and desire. \
 
 
 ![More than 100 people atending to this session! 🎉](../.gitbook/assets/agile-methology-for-buuilding.png)
 
-👉  **Case study : HippoDigital's new office redesign with Agile in Building methologies: **\
+👉  **Case study : HippoDigital's new office redesign with Agile in Building methologies:** \
 ****\
 ****This case study will outline Ollio experience with applying scrum methodology in the development of the design and client brief for Hippo Digital's new office for 90 office workers. \
 
@@ -54,7 +54,7 @@ During this month Agile BIM meetup,  Edward Murphy founder of Ollio,  will give 
 ### **A disappointed first design**
 
 \
-[HippoDigital](https://hippodigital.co.uk) is an agency composed of UX and Scrum Masters who work in the tech industry. So they are already comfortable with Agile Methods. When they moved into their new office in 2018 they allowed the engaged interior architect to suggest a layout. After 12 months since the project started, they realized the design simply did not work! In 2019, Hippo Digital Director asked Ollio if Agile in Buildings might help arrive at a better interior arrangement for the office teams. \
+[HippoDigital](https://hippodigital.co.uk/) is an agency composed of UX and Scrum Masters who work in the tech industry. So they are already comfortable with Agile Methods. When they moved into their new office in 2018 they allowed the engaged interior architect to suggest a layout. After 12 months since the project started, they realized the design simply did not work! In 2019, Hippo Digital Director asked Ollio if Agile in Buildings might help arrive at a better interior arrangement for the office teams. \
 \
 
 
@@ -68,7 +68,7 @@ In the meetup, Edward will explain how Agile in Buildings works and how to use t
 
 He took all users from top to bottom through a full [User Stories](../en/agile-practices/user-stories.md), [Product Backlog](../en/agile-practices/product-backlog.md) and Scrum Team [prototyping](../en/agile-practices/rapid-prototyping.md) process to inform how their new office needed to work for everyone. Then rapidly test the emergent design before the whole of the organization collectively agreed on what they should physically build out.&#x20;
 
-### **Space design as a way to reorganize the way the team work **
+### **Space design as a way to reorganize the way the team work**&#x20;
 
 In what transpired to be a fascinating, elegant, and wholly enjoyable journey, users worked with Ollio partnered architects to transform not just the office interior layouts but the whole way of office team working, becoming recognizably more efficient as an organization. \
 \
@@ -80,6 +80,6 @@ Thanks for reading and see you at the [next meetups ](https://www.linkedin.com/s
 
 ### A word of our sponsor
 
-This meetup is sponsored  by Bricks, [the agile collaboration app for architecture and construction](https://www.bricksapp.io)
+This meetup is sponsored  by Bricks, [the agile collaboration app for architecture and construction](https://www.bricksapp.io/?utm\_medium=agileBIM\&utm\_campaign=page)
 
 ![](../.gitbook/assets/bricks-logo-2019\_bricks-logo-full.png)

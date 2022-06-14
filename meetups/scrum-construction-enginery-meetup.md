@@ -34,7 +34,7 @@ ENCOTECH took care of small to large projects, both public and private. They wor
 ### ✨ About the 2 speakers
 
 \
-👉 [**Paolo Sammicheli **](https://www.linkedin.com/in/paolosammicheli/)is an Italian entrepreneur with experience of over 30 years who works as an Agile Business Coach specialized in Scrum, Scrum@Scale, Kanban, Lean Startup, and Design Thinking. Scrum Trainer and Scrum@Scale Trainer with Scrum Inc, Lean-Agile Procurement Trainer, and Management 3.0 Facilitator. Author of the books "Scrum for Hardware," "Scrum in AI," and an International Speaker.
+👉 [**Paolo Sammicheli** ](https://www.linkedin.com/in/paolosammicheli/)is an Italian entrepreneur with experience of over 30 years who works as an Agile Business Coach specialized in Scrum, Scrum@Scale, Kanban, Lean Startup, and Design Thinking. Scrum Trainer and Scrum@Scale Trainer with Scrum Inc, Lean-Agile Procurement Trainer, and Management 3.0 Facilitator. Author of the books "Scrum for Hardware," "Scrum in AI," and an International Speaker.
 
 ![Paolo Sammicheli / Agile Coach](../.gitbook/assets/paolo\_sammicheli.jpeg)
 
