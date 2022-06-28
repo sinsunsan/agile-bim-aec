@@ -1,5 +1,11 @@
 # 🌊 Agile Building performance: Frank boutté + Spacio.io #15
 
+{% embed url="https://www.youtube.com/watch?v=N0ODRNFzX3s" %}
+
+### Want to Attend ?&#x20;
+
+:point\_right: **Register to the event** [**https://lu.ma/el1qqf65**](https://lu.ma/el1qqf65)****
+
 For the 15th meetup roughly 3 years after the first one, and first of 2022 :) \
 \
 We will talk about building performance optimization and specifically how to integrate it within the design process itself.&#x20;
