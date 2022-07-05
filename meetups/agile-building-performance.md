@@ -1,4 +1,4 @@
-# 🌊 Agile Building performance: Frank boutté + Spacio #15
+# 🌊 Agile Building performance: Franck boutté + Spacio #15
 
 {% embed url="https://www.youtube.com/watch?v=N0ODRNFzX3s" %}
 
@@ -37,7 +37,7 @@ To illustrate this theme, we invite 2 speakers who will depict a complementary a
 
 First [André Agi](https://www.linkedin.com/in/andreagi/),architect and co-founder of a [Spacio.ai,](https://www.spacio.ai/) a norvegian based startup build by 3 architects and BIM manager to make real time building simulation a breeze thanks to all the goodness of parametric design and AI.
 
-Then [Mauro Contreras](https://www.linkedin.com/in/mauro-p-contreras-702b4737/), a mexican born Energy sdimulation expert and scrum master, who work for [Franck Bouté](https://franck-boutte.com/?lang=en) french environmental engineer consultants famous for his innovative approach to environemental design.&#x20;
+Then [Mauro Contreras](https://www.linkedin.com/in/mauro-p-contreras-702b4737/), a mexican born Energy sdimulation expert and scrum master, who work for [Franck Boutté](https://franck-boutte.com/?lang=en) french environmental engineer consultants famous for his innovative approach to environemental design.&#x20;
 
 &#x20;
 
