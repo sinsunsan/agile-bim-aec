@@ -1,5 +1,7 @@
 # 🎓 Learn AGILE BIM
 
+
+
 ### Learn by yourself and with the community
 
 You can subscribe to this **free training** by Sébastien Lucas to get step by step guide to start&#x20;
@@ -34,17 +36,9 @@ To be introduced to agility in the fields of cosntruction and join our community
 
 ****
 
-****
-
 ### Find an agile coach specialized in AEC
 
+If you have a real project or team and want to find a coach that will understand both the field of building and that of Agile, we can introduce you to the coach of the community :)
+
 {% embed url="https://form.typeform.com/to/Trup49u9" %}
-
-
-
-### Agile for architecture & construction training programme
-
-{% embed url="https://www.scruminc.com/scrum-design-construction/" %}
-
-{% embed url="https://academy.trilliumgroup.io/visitor_class_catalog/category/75592" %}
 
