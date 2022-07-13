@@ -4,8 +4,8 @@
 * [🙌 Join Agile BIM](agile-bim-community/README.md)
   * [🖋️ Contribute](agile-bim-community/contribute.md)
   * [📜 Licence CC](agile-bim-community/licence.md)
-* [🎓 Learn AGILE BIM](learn-agile-bim/README.md)
-  * [🏄 You are an AEC Agile coach](learn-agile-bim/agile-bim-coaching.md)
+* [🎓 Learn AGILE BIM](learn-and-practice-agile-bim/learn-agile-aec.md)
+  * [🏄 You are an AEC Agile coach](learn-and-practice-agile-bim/agile-bim-coaching.md)
 * [👷‍♀️ Agile BIM Meetups](meetups/README.md)
   * [🌊 Agile Building performance: Franck boutté + Spacio #15](meetups/agile-building-performance.md)
   * [🚀 Speckle + IFC.js  2 open source tools to agilize design #14](meetups/open-source-design-tools.md)
@@ -57,7 +57,7 @@
   * [Product backlog](en/agile-practices/product-backlog.md)
   * [User stories](en/agile-practices/user-stories.md)
   * [⏳ Time vs Objective 🎯](en/agile-practices/time-tracking-vs-target.md)
-* [🛠️  Agile BIM Tools](en/agile-tools.md)
+* [🛠️  Agile BIM Tools](learn-and-practice-agile-bim/agile-tools.md)
 
 ## Ressources
 

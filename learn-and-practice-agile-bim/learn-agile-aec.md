@@ -24,6 +24,8 @@ You can look at our meetup in our Youtube channel&#x20;
 
 {% embed url="https://learn.agilebim.org/en" %}
 
+****
+
 **In French**&#x20;
 
 {% embed url="https://learn.agilebim.org/" %}
