@@ -6,7 +6,7 @@
 * Define some starter agile practice to test&#x20;
   * Set up a **shared board** so that all people in the company can view the coming action
     * Decide between a physical board or virtual or both&#x20;
-    * If you've chosen virtual, [choose an app](learn-and-practice-agile-bim/agile-tools.md) to make it easy to share the board distantly
+    * If you've chosen virtual, [choose an app](en/agile-tools.md) to make it easy to share the board distantly
   * Define a schedule for r**egular coordination meeting** : [Standup meeting](en/agile-practices/standup-meeting.md)
   * Choose if you want to have regular schedule (**Scrum**) or continuous handling of tasks (**kanban**). To decide, ask your team if the tasks they are working on are predictable or not (can you have unexpected tasks to work on during the week). If they are predictable, scrum maybe for you, if not kanban is better
   * Define a schedule to show the project internally to **get feedbacks** from others (Read more on [demo the project](en/agile-practices/project-demo.md))&#x20;
@@ -16,7 +16,7 @@
 
 ## What the community think?
 
-### What [agile practice](learn-and-practice-agile-bim/agile-tools.md) needs to be set up first?&#x20;
+### What [agile practice](en/agile-tools.md) needs to be set up first?&#x20;
 
 [https://www.linkedin.com/posts/archiref\_agilebim-scrum-agile-activity-6821352907380809728-IY9F](https://www.linkedin.com/posts/archiref\_agilebim-scrum-agile-activity-6821352907380809728-IY9F)
 
