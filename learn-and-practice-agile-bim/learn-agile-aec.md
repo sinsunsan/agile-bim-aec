@@ -18,17 +18,21 @@ You can look at our meetup in our Youtube channel&#x20;
 
 {% embed url="https://www.youtube.com/c/AgileBIM" %}
 
-### Join one of our master class&#x20;
+### Join one of our [master class ](https://learn.agilebim.org/en)
 
-**In English**&#x20;
+To be introduced to agility in the fields of cosntruction and join our community of students.
 
-{% embed url="https://learn.agilebim.org/en" %}
+[Master class Agile BIM en Français](https://learn.agilebim.org/)
+
+![](<../.gitbook/assets/master-class-agile-bim-apprend-agilite-bim (1).png>)
+
+[Agile BIM master class in english](https://learn.agilebim.org/en)
+
+![](../.gitbook/assets/master-class-learn-agile-bim.png)
 
 ****
 
-**In French**&#x20;
-
-{% embed url="https://learn.agilebim.org/" %}
+****
 
 ****
 
