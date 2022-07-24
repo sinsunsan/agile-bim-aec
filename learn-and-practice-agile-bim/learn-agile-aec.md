@@ -24,11 +24,11 @@ You can look at our meetup in our Youtube channel&#x20;
 
 To be introduced to agility in the fields of cosntruction and join our community of students.
 
-[Master class Agile BIM en Français](https://learn.agilebim.org/)
+[Master class Agile BIM en Français](https://learn.agilebim.org/formation-agile-bim)
 
 ![](<../.gitbook/assets/master-class-agile-bim-apprend-agilite-bim (1).png>)
 
-[Agile BIM master class in english](https://learn.agilebim.org/en)
+[Agile BIM master class in english](https://learn.agilebim.org/agile-bim-training)
 
 ![](../.gitbook/assets/master-class-learn-agile-bim.png)
 
