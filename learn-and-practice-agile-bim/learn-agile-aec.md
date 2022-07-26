@@ -1,6 +1,8 @@
+---
+description: Learn agile BIM and use it in your next project step by step
+---
+
 # 🎓 Learn AGILE BIM
-
-
 
 ### Learn by yourself and with the community
 
@@ -20,7 +22,7 @@ You can look at our meetup in our Youtube channel&#x20;
 
 {% embed url="https://www.youtube.com/c/AgileBIM" %}
 
-### Join one of our [master class ](https://learn.agilebim.org/en)
+### Join one of our master class&#x20;
 
 To be introduced to agility in the fields of cosntruction and join our community of students.
 
@@ -31,8 +33,6 @@ To be introduced to agility in the fields of cosntruction and join our community
 [Agile BIM master class in english](https://learn.agilebim.org/agile-bim-training)
 
 ![](../.gitbook/assets/master-class-learn-agile-bim.png)
-
-****
 
 ****
 
