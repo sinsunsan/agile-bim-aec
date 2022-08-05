@@ -10,8 +10,6 @@ To be warned when new meetups are posted- online, please click on the bell.
 \
 
 
-###
-
 {% content-ref url="./" %}
 [.](./)
 {% endcontent-ref %}

@@ -7,6 +7,7 @@
 * [🎓 Learn AGILE BIM](learn-and-practice-agile-bim/learn-agile-aec.md)
   * [🏄 You are an AEC Agile coach](learn-and-practice-agile-bim/agile-bim-coaching.md)
 * [👷‍♀️ Agile BIM Meetups](meetups/README.md)
+  * [🌤️ Data driven building design with Covetool](meetups/data-driven-building-design-with-covetool.md)
   * [🌊 Agile Building performance: Franck boutté + Spacio #15](meetups/agile-building-performance.md)
   * [🚀 Speckle + IFC.js  2 open source tools to agilize design #14](meetups/open-source-design-tools.md)
   * [Go Beyond lean by Dee Rhoda  from Scrum.inc #13](meetups/beyond-lean-construction.md)
