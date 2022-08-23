@@ -1,5 +1,7 @@
 # 🌤️ Data driven building design with Covetool
 
+{% embed url="https://www.youtube.com/watch?v=BuqXrI2XgCU" %}
+
 Technology adoption in the AEC space typically lags far behind other industries. In this discussion, We'll highlight how to evaluate new technologies effectively and then give a practical guide for how to quickly roll out new tech into the architect's workflow on the design process. We’ll try to answer two questions :
 
 * How data can help you in the early stage ?
