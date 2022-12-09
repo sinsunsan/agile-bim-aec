@@ -12,6 +12,10 @@ description: Links on works and ressources about Agile in AEC and BIM
 * [Vers une conception architecturale BIM-agile : proposition d’un ensemble de pratiques collaboratives en vue d’une meilleure appropriation de la technologie BIM](https://hal.univ-lorraine.fr/tel-02157569v3/document)  /  Henri-Jean Gless 2020
 * English version : [Towards a BIM-Agile Method in Architectural Design Assessment of a Pedagogical Experiment](https://hal.archives-ouvertes.fr/hal-02544377/document)  /  Henri-Jean Gless 2020
 
+### Digital transformation&#x20;
+
+* 2001 Article of Architecture technological journal that talk about Agile and why digital transformation is hard in construction industry [https://www.designingbuildings.co.uk/wiki/Digital\_transformation\_-\_what\_does\_it\_mean%3F](https://www.designingbuildings.co.uk/wiki/Digital\_transformation\_-\_what\_does\_it\_mean%3F)
+
 ## Brainstorming technics
 
 * Brainstorming technics: [http://www.liberatingstructures.com](http://www.liberatingstructures.com/)
