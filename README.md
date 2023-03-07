@@ -8,6 +8,14 @@ description: The community of Agilist in architecture & construction industry (A
 
 > "_People in the construction industry are looking for product standardization, but it is the method that needs to be standardized_." @Xavier Jaffray
 
+
+
+## Next Agile BIM meetup!&#x20;
+
+{% embed url="https://www.youtube.com/watch?v=eSgiP5b8-AY" %}
+
+
+
 Agile  BIM is a new paradigm inspired by Agile in software industries, Agile in hardware, Scrum, Kanban & Extreme programming methods.&#x20;
 
 AEC industry, is well-known to use the old  "waterfall"  method of managing.  The building projects need the coordination of lots of different actors who don't talk enough together and  act one after the other.&#x20;
