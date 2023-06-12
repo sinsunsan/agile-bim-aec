@@ -11,6 +11,8 @@ description: Links on works and ressources about Agile in AEC and BIM
 * [https://www.linkedin.com/pulse/bim-agile-almost-made-each-other-luiz-felipe-lima](https://www.linkedin.com/pulse/bim-agile-almost-made-each-other-luiz-felipe-lima/?trackingId=e%2Fglm6bhmnGnTOHisVWOIQ%3D%3D)
 * [Vers une conception architecturale BIM-agile : proposition d’un ensemble de pratiques collaboratives en vue d’une meilleure appropriation de la technologie BIM](https://hal.univ-lorraine.fr/tel-02157569v3/document)  /  Henri-Jean Gless 2020
 * English version : [Towards a BIM-Agile Method in Architectural Design Assessment of a Pedagogical Experiment](https://hal.archives-ouvertes.fr/hal-02544377/document)  /  Henri-Jean Gless 2020
+* Expert on Lean construction and author of many papers about construction management [https://laurikoskela.com/](https://laurikoskela.com/)
+* How Ghery delivered on time and budget [https://hbr.org/2023/01/how-frank-gehry-delivers-on-time-and-on-budget](https://hbr.org/2023/01/how-frank-gehry-delivers-on-time-and-on-budget) by Bent Flyvbjerg
 
 ### Digital transformation&#x20;
 
@@ -39,7 +41,7 @@ description: Links on works and ressources about Agile in AEC and BIM
 * [What is Lean Construction](https://www.bricksapp.io/blog/en/what-is-lean-construction/) (Bricks blog)
 *   [https://leanconstructionblog.com](https://leanconstructionblog.com/Applying-Lean-Thinking-to-the-Design-Process.html)
 
-    ****
+
 
 #### Books
 
